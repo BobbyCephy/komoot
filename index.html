@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Komoot GPX Routes</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; color: #333; }
+    h1 { color: #2c6e49; }
+    p.count { color: #666; font-size: 0.9rem; }
+    ul { list-style: none; padding: 0; }
+    li { border-bottom: 1px solid #eee; padding: 0.4rem 0; }
+    a { color: #2c6e49; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    #status { color: #888; font-style: italic; }
+  </style>
+</head>
+<body>
+  <h1>Komoot GPX Routes</h1>
+  <p id="status">Loading routes…</p>
+  <ul id="route-list"></ul>
+
+  <script>
+    fetch('https://api.github.com/repos/BobbyCephy/komoot/contents/?ref=gh-pages', {
+      headers: { Accept: 'application/vnd.github+json' }
+    })
+      .then(function (r) {
+        if (r.status === 403 || r.status === 429) throw new Error('Rate limit exceeded – try again later.');
+        if (!r.ok) throw new Error('GitHub API returned ' + r.status);
+        return r.json();
+      })
+      .then(function (entries) {
+        var files = entries
+          .filter(function (e) { return e.type === 'file' && /\.gpx$/i.test(e.name); })
+          .sort(function (a, b) { return a.name.localeCompare(b.name); });
+
+        var status = document.getElementById('status');
+        if (!files.length) { status.textContent = 'No GPX routes found.'; return; }
+
+        var list = document.getElementById('route-list');
+        files.forEach(function (f) {
+          var li = document.createElement('li');
+          var a  = document.createElement('a');
+          a.href     = f.name;
+          a.download = f.name;
+          a.textContent = f.name.replace(/-\d+\.gpx$/i, '');
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+
+        status.className   = 'count';
+        status.textContent = files.length + ' routes available for download';
+      })
+      .catch(function (err) {
+        document.getElementById('status').textContent = 'Failed to load route list: ' + err.message;
+      });
+  </script>
+</body>
+</html>
