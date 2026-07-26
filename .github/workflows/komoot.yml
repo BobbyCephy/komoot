@@ -51,12 +51,13 @@ jobs:
           )
 
           def display_name(filename):
+              # Komoot filenames end with a numeric route ID: "Route Name-1234567890.gpx"
               base = re.sub(r'\.gpx$', '', filename, flags=re.IGNORECASE)
-              m = re.match(r'^(.+)-\d+$', base)
+              m = re.match(r'^(.+)-\d{7,}$', base)
               return m.group(1) if m else base
 
           items = ''.join(
-              f'<li><a href="{html.escape(f)}" download="{html.escape(f)}">'
+              f'      <li><a href="{html.escape(f)}" download="{html.escape(f)}">'
               f'{html.escape(display_name(f))}</a></li>\n'
               for f in files
           )
@@ -87,7 +88,7 @@ jobs:
             <h1>Komoot GPX Routes</h1>
             <p class="count">{len(files)} routes available for download</p>
             <ul>
-          {items}  </ul>
+          {items}    </ul>
           </body>
           </html>
           """
