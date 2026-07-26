@@ -5,6 +5,13 @@ on:
   schedule:
     - cron: "0 4 * * *"
 
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -31,6 +38,12 @@ jobs:
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
+
+      - name: Upload GPX files as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gpx-files
+          path: gpx/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
