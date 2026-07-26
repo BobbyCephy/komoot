@@ -24,14 +24,10 @@ jobs:
 
       - name: Generate GPX files
         run: |
-          rm -rf gpx
           mkdir -p gpx
           rm -f credentials.json
-
           komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
-
           rm -f credentials.json
-          rm -f gpx/credentials.json
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
