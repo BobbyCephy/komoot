@@ -21,11 +21,13 @@
   <ul id="route-list"></ul>
 
   <script>
-    fetch('https://api.github.com/repos/BobbyCephy/komoot/contents/?ref=gh-pages', {
+    // Update REPO if you fork or rename this repository.
+    var REPO = 'BobbyCephy/komoot';
+    fetch('https://api.github.com/repos/' + REPO + '/contents/?ref=gh-pages', {
       headers: { Accept: 'application/vnd.github+json' }
     })
       .then(function (r) {
-        if (r.status === 403 || r.status === 429) throw new Error('Rate limit exceeded – try again later.');
+        if (r.status === 403 || r.status === 429) throw new Error('Rate limit exceeded -- try again later.');
         if (!r.ok) throw new Error('GitHub API returned ' + r.status);
         return r.json();
       })
@@ -43,6 +45,7 @@
           var a  = document.createElement('a');
           a.href     = f.name;
           a.download = f.name;
+          // Strip Komoot's numeric route ID suffix for a cleaner display name.
           a.textContent = f.name.replace(/-\d+\.gpx$/i, '');
           li.appendChild(a);
           list.appendChild(li);
