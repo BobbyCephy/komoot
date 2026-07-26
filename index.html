@@ -49,7 +49,10 @@
 
       fetch(API, { headers: { Accept: 'application/vnd.github+json' } })
         .then(function (res) {
-          if (!res.ok) throw new Error('GitHub API returned ' + res.status);
+          if (res.status === 403 || res.status === 429) {
+            throw new Error('GitHub API rate limit exceeded. Please try again in an hour.');
+          }
+          if (!res.ok) throw new Error(`GitHub API returned ${res.status}`);
           return res.json();
         })
         .then(function (entries) {
@@ -62,7 +65,7 @@
             return;
           }
 
-          const base = location.href.replace(/index\.html$/, '');
+          const base = location.href.replace(/(?:index\.html)?$/, '').replace(/\/?$/, '/');
 
           gpxFiles.forEach(function (file) {
             const li = document.createElement('li');
@@ -75,10 +78,10 @@
           });
 
           status.className = 'count';
-          status.textContent = gpxFiles.length + ' routes available for download';
+          status.textContent = `${gpxFiles.length} routes available for download`;
         })
         .catch(function (err) {
-          status.textContent = 'Failed to load route list: ' + err.message;
+          status.textContent = `Failed to load route list: ${err.message}`;
         });
     }());
   </script>
