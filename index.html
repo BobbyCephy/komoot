@@ -37,7 +37,8 @@
 
   <script>
     (function () {
-      const API = 'https://api.github.com/repos/BobbyCephy/komoot/contents/';
+      const REPO = 'BobbyCephy/komoot';
+      const API = `https://api.github.com/repos/${REPO}/contents/`;
       const status = document.getElementById('status');
       const list = document.getElementById('route-list');
 
@@ -47,10 +48,15 @@
         return match ? match[1] : base;
       }
 
+      function baseUrl() {
+        const path = location.pathname.replace(/index\.html$/, '').replace(/\/?$/, '/');
+        return `${location.origin}${path}`;
+      }
+
       fetch(API, { headers: { Accept: 'application/vnd.github+json' } })
         .then(function (res) {
           if (res.status === 403 || res.status === 429) {
-            throw new Error('GitHub API rate limit exceeded. Please try again in an hour.');
+            throw new Error('GitHub API rate limit exceeded. Please try again later.');
           }
           if (!res.ok) throw new Error(`GitHub API returned ${res.status}`);
           return res.json();
@@ -65,7 +71,7 @@
             return;
           }
 
-          const base = location.href.replace(/(?:index\.html)?$/, '').replace(/\/?$/, '/');
+          const base = baseUrl();
 
           gpxFiles.forEach(function (file) {
             const li = document.createElement('li');
