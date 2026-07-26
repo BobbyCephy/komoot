@@ -24,10 +24,31 @@ jobs:
 
       - name: Generate GPX files
         run: |
+          set -euo pipefail
+
           rm -rf gpx
           mkdir -p gpx
           rm -f credentials.json
+
+          if [ -z "${KOMOOT_EMAIL:-}" ]; then
+            echo "KOMOOT_EMAIL secret is missing or empty"
+            exit 1
+          fi
+
+          if [ -z "${KOMOOT_PASSWORD:-}" ]; then
+            echo "KOMOOT_PASSWORD secret is missing or empty"
+            exit 1
+          fi
+
+          echo "Running komootgpx..."
           komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
+
+          echo "Generated files:"
+          find gpx -maxdepth 1 -type f -print
+
+          echo "GPX file count:"
+          find gpx -maxdepth 1 -name '*.gpx' -type f | wc -l
+
           rm -f credentials.json
           rm -f gpx/credentials.json
         env:
