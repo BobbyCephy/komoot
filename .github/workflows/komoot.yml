@@ -1,0 +1,43 @@
+name: Komoot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install komootgpx
+        run: |
+          pip install komootgpx
+
+      - name: Generate GPX files
+        run: |
+          rm -rf gpx
+          mkdir -p gpx
+          rm -f credentials.json
+          komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
+          rm -f credentials.json
+          rm -f gpx/credentials.json
+        env:
+          KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
+          KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
+
+      - name: Upload GPX files
+        uses: actions/upload-artifact@v4
+        with:
+          name: komoot-gpx
+          path: gpx/*.gpx
+          if-no-files-found: error
+          retention-days: 90
