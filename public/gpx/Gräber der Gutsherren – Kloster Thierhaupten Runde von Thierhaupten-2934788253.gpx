@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Gräber der Gutsherren – Kloster Thierhaupten Runde von Thierhaupten</name>
+    <desc>Distance: 6.519km, Estimated duration: 1.73h, Elevation up: 62.96188640137672m, Elevation down: 63.418786943832174m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2934788253">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.563997" lon="10.911126">
+    <name>Thierhaupten Marktplatz</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="48.563889" lon="10.911527">
+    <ele>432.5</ele>
+    <name>Ice cream and coffee</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/14/14b15iu1ll1ww1molamgob8gn251jkn085-uhi74925924/0</cmt>
+    <desc>Lisa im Ländle: Erste Eisdiele in Thierhaupten in der Augsburger Str. 1
+――――――――――
+Daniel S.: Dieses Jahr neu in Thierhaupten und das Eis ist Mega lecker!🍦🤩
+――――――――――
+Klokle 1961 🚲😘🌞.Daniel: unbedingt Eis 🍨 essen gehen 🤩🤩
+――――――――――
+🦣 𝕸𝖆𝖒𝖒𝖚𝖙 𝕱𝖗𝖆𝖓𝖐 🏒🥅👨🏼‍🚒🚒: Elindis - Eisdiele - Markt Thierhaupten - LKR. Augsburg
+――――――――――
+Siggi58: Eis oder Kaffee, dabei sag ich niemals Nein</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6783989">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.556899" lon="10.916064">
+    <ele>460</ele>
+    <name>Mesner Chapel</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/2q/2qrrstsxdoja1u43r42oenkdf3ng0ll9u-uhi28239559/0</cmt>
+    <desc>Siggi: Hier kann man eine super Rast einlegen, Sitzbank mit schöner Aussicht ist vorhanden.
+――――――――――
+Siggi: Diese Kapelle liegt etwas versteckt am Waldrand, ideal für eine kleine Rast mit schönem Ausblick.
+――――――――――
+Siggi: Bei dieser Kapelle gibt es auch eine Bank zum Rasten mit schönem Ausblick.
+――――――――――
+Benni: Kleine Kapelle mit interessanter Fassadenmalerei an den vorderen und hinteren Außenwänden.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/2482298">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.556892" lon="10.908422">
+    <ele>478.4</ele>
+    <name>Heckrinder and Biotope Area at the Foot of the Monastery</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/1i/1iupgj3d9qsmm15z30mlm84yq13dptz7eo-uhi13549757/0</cmt>
+    <desc>Siggi: Am Fuße des Klosters gelegen befinden sich Weideflächen und Biotopanlagen, die einen Besuch absolut wert sind.
+Heckrinder sorgen hier dafür, daß Weideflächen und Biotope freigehalten werden. Dort sieht man noch Kiebitze, Frösche, den Eisvogel und die heimlich lebende Bekassine. 
+Großzügige Fußwege und Holzbrücken, eine Aussichtsplattform und Infotafeln machen die dortige Natur für jeden erlebbar.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1421130">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.559014" lon="10.909116">
+    <ele>430</ele>
+    <name>Kneipp Basin</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k9/a7/a78uv4xja69u1rs2pk5t300c05a2fs019-uhi83225934/0</cmt>
+    <desc>Paula: Sehr schön gelegen.
+Naturkneippbecken</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/7266354">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.559126" lon="10.909008">
+    <ele>484.7</ele>
+    <name>Graves of the Estate Owners</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k7/ur/urfq1z1xtn73456x2wjx2q1n4lel2224-uhi60714973/0</cmt>
+    <desc>Lisa im Ländle: Der Markt Thierhaupten besitzt eine jahrhundertealte Mühlentradition. Bereits seit dem 16. Jahrhundert sind vier Mühlen und ein wassergetriebenes Pumpwerk im Ort urkundlich nachgewiesen. Im Rahmen der Dorferneuerung in Thierhaupten wurde 1999 ein historischer Mühlenweg mit Mitteln der Direktion für Ländliche Entwicklung Krumbach (Schwaben) und des Marktes Thierhaupten angelegt. 1999 zu Beginn der Schwäbischen Grünen Woche konnte der Mühlenweg eröffnet werden. Dieser romantische Weg beginnt beim Nordtor des ehemaligen Klosters und führt weitgehend entlang der Friedberger Ach bis zur ehemaligen Papiermühle im Norden von Thierhaupten. Er ist ausgeschildert und neun Hinweistafeln informieren den interessierten Wanderer über die Geschichte der Mühlen und des Flusses.
+
+Sie beginnen Ihre Wanderung am besten beim ehemaligen Kloster. Hier stehen ausreichend Parkplätze zur Verfügung. Durch das Holztor auf der Nordseite des Klosters gelangen Sie kurz in den Innenhof, folgen aber sofort dem gekiesten Fußweg der westlich des Klostergebäudes entlang geht. Auf der Südseite des Klosters zweigt dann der Weg in die steile, aber gut begehbare Lechleite ab. Kurz darauf kommen Sie an der Grabanlage der früheren Gutsherren vorbei und überqueren auf einem Holzsteg die Friedberger Ach. Entlang des Klosterweihers werden Sie über die heimischen Fischarten informiert und gelangen zu den beiden Sägwerken am Mühlweg. Hier befanden sich die Ölmühle und das Wasserhaus, von dem noch das Gebäude vorhanden ist, sowie die Obermühle.
+
+Auf den Informationstafeln sind historische Ansichten der beiden früheren Mühlen zu sehen. Nach diesem kurzen Abstecher führt der Weg ein kurzes Stück zurück und Sie folgen der Beschilderung zum Klostermühlenmuseum. Auf dem Weg dorthin lohnt noch ein Abstecher zu dem mit sehr viel Liebe und ehrenamtlichen Einsatz betreuten Schul- und Lehrgarten des Obst- und Gartenbauvereins Thierhaupten. Im südlichen Teil besteht die Möglichkeit, am Brunnenwasser die Füße zu kühlen.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5758493">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.562221" lon="10.907685">
+    <ele>480.1</ele>
+    <name>Brunnenwasser Information Board</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k7/dt/dtp7b9wvvpc1aowl91isvaub4lel3j23-uhi60715021/0</cmt>
+    <desc>Lisa im Ländle: Der Markt Thierhaupten besitzt eine jahrhundertealte Mühlentradition. Bereits seit dem 16. Jahrhundert sind vier Mühlen und ein wassergetriebenes Pumpwerk im Ort urkundlich nachgewiesen. Im Rahmen der Dorferneuerung in Thierhaupten wurde 1999 ein historischer Mühlenweg mit Mitteln der Direktion für Ländliche Entwicklung Krumbach (Schwaben) und des Marktes Thierhaupten angelegt. 1999 zu Beginn der Schwäbischen Grünen Woche konnte der Mühlenweg eröffnet werden. Dieser romantische Weg beginnt beim Nordtor des ehemaligen Klosters und führt weitgehend entlang der Friedberger Ach bis zur ehemaligen Papiermühle im Norden von Thierhaupten. Er ist ausgeschildert und neun Hinweistafeln informieren den interessierten Wanderer über die Geschichte der Mühlen und des Flusses.
+
+Sie beginnen Ihre Wanderung am besten beim ehemaligen Kloster. Hier stehen ausreichend Parkplätze zur Verfügung. Durch das Holztor auf der Nordseite des Klosters gelangen Sie kurz in den Innenhof, folgen aber sofort dem gekiesten Fußweg der westlich des Klostergebäudes entlang geht. Auf der Südseite des Klosters zweigt dann der Weg in die steile, aber gut begehbare Lechleite ab. Kurz darauf kommen Sie an der Grabanlage der früheren Gutsherren vorbei und überqueren auf einem Holzsteg die Friedberger Ach. Entlang des Klosterweihers werden Sie über die heimischen Fischarten informiert und gelangen zu den beiden Sägwerken am Mühlweg. Hier befanden sich die Ölmühle und das Wasserhaus, von dem noch das Gebäude vorhanden ist, sowie die Obermühle.
+
+Auf den Informationstafeln sind historische Ansichten der beiden früheren Mühlen zu sehen. Nach diesem kurzen Abstecher führt der Weg ein kurzes Stück zurück und Sie folgen der Beschilderung zum Klostermühlenmuseum. Auf dem Weg dorthin lohnt noch ein Abstecher zu dem mit sehr viel Liebe und ehrenamtlichen Einsatz betreuten Schul- und Lehrgarten des Obst- und Gartenbauvereins Thierhaupten. Im südlichen Teil besteht die Möglichkeit, am Brunnenwasser die Füße zu kühlen.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5758496">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.562837" lon="10.907614">
+    <ele>480.4</ele>
+    <name>School and Teaching Garden Thierhaupten</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k7/1f/1fjl4or5dpv7012xrqdtbr5v6c4lnv8m68-uhi61020636/0</cmt>
+    <desc>Lisa im Ländle: Der Markt Thierhaupten besitzt eine jahrhundertealte Mühlentradition. Bereits seit dem 16. Jahrhundert sind vier Mühlen und ein wassergetriebenes Pumpwerk im Ort urkundlich nachgewiesen. Im Rahmen der Dorferneuerung in Thierhaupten wurde 1999 ein historischer Mühlenweg mit Mitteln der Direktion für Ländliche Entwicklung Krumbach (Schwaben) und des Marktes Thierhaupten angelegt. 1999 zu Beginn der Schwäbischen Grünen Woche konnte der Mühlenweg eröffnet werden. Dieser romantische Weg beginnt beim Nordtor des ehemaligen Klosters und führt weitgehend entlang der Friedberger Ach bis zur ehemaligen Papiermühle im Norden von Thierhaupten. Er ist ausgeschildert und neun Hinweistafeln informieren den interessierten Wanderer über die Geschichte der Mühlen und des Flusses.
+
+Sie beginnen Ihre Wanderung am besten beim ehemaligen Kloster. Hier stehen ausreichend Parkplätze zur Verfügung. Durch das Holztor auf der Nordseite des Klosters gelangen Sie kurz in den Innenhof, folgen aber sofort dem gekiesten Fußweg der westlich des Klostergebäudes entlang geht. Auf der Südseite des Klosters zweigt dann der Weg in die steile, aber gut begehbare Lechleite ab. Kurz darauf kommen Sie an der Grabanlage der früheren Gutsherren vorbei und überqueren auf einem Holzsteg die Friedberger Ach. Entlang des Klosterweihers werden Sie über die heimischen Fischarten informiert und gelangen zu den beiden Sägwerken am Mühlweg. Hier befanden sich die Ölmühle und das Wasserhaus, von dem noch das Gebäude vorhanden ist, sowie die Obermühle.
+
+Auf den Informationstafeln sind historische Ansichten der beiden früheren Mühlen zu sehen. Nach diesem kurzen Abstecher führt der Weg ein kurzes Stück zurück und Sie folgen der Beschilderung zum Klostermühlenmuseum. Auf dem Weg dorthin lohnt noch ein Abstecher zu dem mit sehr viel Liebe und ehrenamtlichen Einsatz betreuten Schul- und Lehrgarten des Obst- und Gartenbauvereins Thierhaupten. Im südlichen Teil besteht die Möglichkeit, am Brunnenwasser die Füße zu kühlen.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5784773">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.562284" lon="10.910696">
+    <ele>440.4</ele>
+    <name>Thierhaupten Monastery</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k3/1n/1nchn5vqz8qox1m120itfwa48137xaaar5-uhi9709925/0</cmt>
+    <desc>🇪🇺Raubach🇺🇦: Thierhaupten hat einen schönen Klosterhof, der im Sommer auch einen tollen Biergarten hat 😊
+――――――――――
+WandernHH: Das Kloster und der Garten sind gut gepflegt und wunderschön.
+――――――――――
+Lisa im Ländle: Im Norden von Augsburg, am Rande des Lechrains, liegt das Kloster Thierhaupten. Seine Gründung erfolgte um 750 n. Chr.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1069155">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Gräber der Gutsherren – Kloster Thierhaupten Runde von Thierhaupten</name>
+    <desc>Distance: 6.519km, Estimated duration: 1.73h, Elevation up: 62.96188640137672m, Elevation down: 63.418786943832174m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/2934788253">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.563881" lon="10.911163">
+        <ele>431.9</ele>
+        <time>2026-05-05T12:19:49.870000Z</time>
+      </trkpt>
+      <trkpt lat="48.563859" lon="10.911476">
+        <ele>432.1</ele>
+        <time>2026-05-05T12:20:11.535000Z</time>
+      </trkpt>
+      <trkpt lat="48.56379" lon="10.911798">
+        <ele>432.4</ele>
+        <time>2026-05-05T12:20:35.004000Z</time>
+      </trkpt>
+      <trkpt lat="48.563737" lon="10.912041">
+        <ele>432.8</ele>
+        <time>2026-05-05T12:20:53.083000Z</time>
+      </trkpt>
+      <trkpt lat="48.563718" lon="10.91213">
+        <ele>432.9</ele>
+        <time>2026-05-05T12:20:59.897000Z</time>
+      </trkpt>
+      <trkpt lat="48.563644" lon="10.912427">
+        <ele>433.5</ele>
+        <time>2026-05-05T12:21:22.852000Z</time>
+      </trkpt>
+      <trkpt lat="48.563533" lon="10.912663">
+        <ele>434</ele>
+        <time>2026-05-05T12:21:43.937000Z</time>
+      </trkpt>
+      <trkpt lat="48.563506" lon="10.912703">
+        <ele>434.2</ele>
+        <time>2026-05-05T12:21:48.217000Z</time>
+      </trkpt>
+      <trkpt lat="48.563308" lon="10.912823">
+        <ele>434.8</ele>
+        <time>2026-05-05T12:22:11.731000Z</time>
+      </trkpt>
+      <trkpt lat="48.563167" lon="10.912869">
+        <ele>435.1</ele>
+        <time>2026-05-05T12:22:27.382000Z</time>
+      </trkpt>
+      <trkpt lat="48.563001" lon="10.912847">
+        <ele>435.6</ele>
+        <time>2026-05-05T12:22:45.598000Z</time>
+      </trkpt>
+      <trkpt lat="48.562839" lon="10.912792">
+        <ele>435.9</ele>
+        <time>2026-05-05T12:23:03.531000Z</time>
+      </trkpt>
+      <trkpt lat="48.562656" lon="10.912719">
+        <ele>436.4</ele>
+        <time>2026-05-05T12:23:24.027000Z</time>
+      </trkpt>
+      <trkpt lat="48.562534" lon="10.912667">
+        <ele>436.7</ele>
+        <time>2026-05-05T12:23:37.963000Z</time>
+      </trkpt>
+      <trkpt lat="48.562475" lon="10.912831">
+        <ele>437.1</ele>
+        <time>2026-05-05T12:23:51.629000Z</time>
+      </trkpt>
+      <trkpt lat="48.561884" lon="10.913628">
+        <ele>439.1</ele>
+        <time>2026-05-05T12:25:18.002000Z</time>
+      </trkpt>
+      <trkpt lat="48.561674" lon="10.913938">
+        <ele>439.7</ele>
+        <time>2026-05-05T12:25:49.342000Z</time>
+      </trkpt>
+      <trkpt lat="48.561255" lon="10.914337">
+        <ele>440.8</ele>
+        <time>2026-05-05T12:26:42.786000Z</time>
+      </trkpt>
+      <trkpt lat="48.560509" lon="10.914777">
+        <ele>443.1</ele>
+        <time>2026-05-05T12:28:11.014000Z</time>
+      </trkpt>
+      <trkpt lat="48.559669" lon="10.915157">
+        <ele>445.5</ele>
+        <time>2026-05-05T12:29:47.196000Z</time>
+      </trkpt>
+      <trkpt lat="48.559316" lon="10.915234">
+        <ele>446.5</ele>
+        <time>2026-05-05T12:30:26.657000Z</time>
+      </trkpt>
+      <trkpt lat="48.559268" lon="10.915318">
+        <ele>446.7</ele>
+        <time>2026-05-05T12:30:34.808000Z</time>
+      </trkpt>
+      <trkpt lat="48.559218" lon="10.915385">
+        <ele>447</ele>
+        <time>2026-05-05T12:30:42.342000Z</time>
+      </trkpt>
+      <trkpt lat="48.559102" lon="10.915402">
+        <ele>447.4</ele>
+        <time>2026-05-05T12:30:55.410000Z</time>
+      </trkpt>
+      <trkpt lat="48.558857" lon="10.915429">
+        <ele>448.3</ele>
+        <time>2026-05-05T12:31:23.217000Z</time>
+      </trkpt>
+      <trkpt lat="48.55846" lon="10.915477">
+        <ele>450</ele>
+        <time>2026-05-05T12:32:09.047000Z</time>
+      </trkpt>
+      <trkpt lat="48.558324" lon="10.915527">
+        <ele>450.7</ele>
+        <time>2026-05-05T12:32:25.342000Z</time>
+      </trkpt>
+      <trkpt lat="48.558134" lon="10.915673">
+        <ele>451.7</ele>
+        <time>2026-05-05T12:32:50.242000Z</time>
+      </trkpt>
+      <trkpt lat="48.557635" lon="10.916146">
+        <ele>454.6</ele>
+        <time>2026-05-05T12:33:59.167000Z</time>
+      </trkpt>
+      <trkpt lat="48.557621" lon="10.915952">
+        <ele>455.1</ele>
+        <time>2026-05-05T12:34:13.791000Z</time>
+      </trkpt>
+      <trkpt lat="48.557438" lon="10.916081">
+        <ele>455.7</ele>
+        <time>2026-05-05T12:34:36.267000Z</time>
+      </trkpt>
+      <trkpt lat="48.557257" lon="10.916266">
+        <ele>456.2</ele>
+        <time>2026-05-05T12:34:59.899000Z</time>
+      </trkpt>
+      <trkpt lat="48.557071" lon="10.916157">
+        <ele>456.5</ele>
+        <time>2026-05-05T12:35:20.915000Z</time>
+      </trkpt>
+      <trkpt lat="48.556949" lon="10.916138">
+        <ele>456.6</ele>
+        <time>2026-05-05T12:35:33.459000Z</time>
+      </trkpt>
+      <trkpt lat="48.557071" lon="10.916157">
+        <ele>456.6</ele>
+        <time>2026-05-05T12:35:45.737000Z</time>
+      </trkpt>
+      <trkpt lat="48.557257" lon="10.916266">
+        <ele>456.5</ele>
+        <time>2026-05-05T12:36:05.916000Z</time>
+      </trkpt>
+      <trkpt lat="48.556778" lon="10.917323">
+        <ele>455.1</ele>
+        <time>2026-05-05T12:37:33.552000Z</time>
+      </trkpt>
+      <trkpt lat="48.556147" lon="10.918555">
+        <ele>453.6</ele>
+        <time>2026-05-05T12:39:19.971000Z</time>
+      </trkpt>
+      <trkpt lat="48.555939" lon="10.919096">
+        <ele>453.4</ele>
+        <time>2026-05-05T12:40:01.859000Z</time>
+      </trkpt>
+      <trkpt lat="48.55585" lon="10.919446">
+        <ele>453.2</ele>
+        <time>2026-05-05T12:40:26.946000Z</time>
+      </trkpt>
+      <trkpt lat="48.5557" lon="10.920399">
+        <ele>453</ele>
+        <time>2026-05-05T12:41:32.429000Z</time>
+      </trkpt>
+      <trkpt lat="48.55553" lon="10.921094">
+        <ele>452.8</ele>
+        <time>2026-05-05T12:42:21.858000Z</time>
+      </trkpt>
+      <trkpt lat="48.555445" lon="10.921603">
+        <ele>452.7</ele>
+        <time>2026-05-05T12:42:56.790000Z</time>
+      </trkpt>
+      <trkpt lat="48.555368" lon="10.921924">
+        <ele>452.7</ele>
+        <time>2026-05-05T12:43:19.513000Z</time>
+      </trkpt>
+      <trkpt lat="48.555248" lon="10.922857">
+        <ele>452.7</ele>
+        <time>2026-05-05T12:44:22.503000Z</time>
+      </trkpt>
+      <trkpt lat="48.555249" lon="10.923082">
+        <ele>452.7</ele>
+        <time>2026-05-05T12:44:37.468000Z</time>
+      </trkpt>
+      <trkpt lat="48.554775" lon="10.925026">
+        <ele>453</ele>
+        <time>2026-05-05T12:46:55.931000Z</time>
+      </trkpt>
+      <trkpt lat="48.554721" lon="10.925851">
+        <ele>453.3</ele>
+        <time>2026-05-05T12:47:51.760000Z</time>
+      </trkpt>
+      <trkpt lat="48.5546" lon="10.926721">
+        <ele>453.6</ele>
+        <time>2026-05-05T12:48:51.840000Z</time>
+      </trkpt>
+      <trkpt lat="48.554611" lon="10.926985">
+        <ele>453.7</ele>
+        <time>2026-05-05T12:49:09.795000Z</time>
+      </trkpt>
+      <trkpt lat="48.554532" lon="10.927284">
+        <ele>453.9</ele>
+        <time>2026-05-05T12:49:31.634000Z</time>
+      </trkpt>
+      <trkpt lat="48.55418" lon="10.928256">
+        <ele>454.4</ele>
+        <time>2026-05-05T12:50:46.856000Z</time>
+      </trkpt>
+      <trkpt lat="48.554086" lon="10.928574">
+        <ele>454.4</ele>
+        <time>2026-05-05T12:51:10.163000Z</time>
+      </trkpt>
+      <trkpt lat="48.554099" lon="10.9287">
+        <ele>454.5</ele>
+        <time>2026-05-05T12:51:18.589000Z</time>
+      </trkpt>
+      <trkpt lat="48.554156" lon="10.928776">
+        <ele>454.5</ele>
+        <time>2026-05-05T12:51:26.180000Z</time>
+      </trkpt>
+      <trkpt lat="48.554009" lon="10.928913">
+        <ele>454.4</ele>
+        <time>2026-05-05T12:51:43.528000Z</time>
+      </trkpt>
+      <trkpt lat="48.553951" lon="10.929185">
+        <ele>454.4</ele>
+        <time>2026-05-05T12:52:02.519000Z</time>
+      </trkpt>
+      <trkpt lat="48.55382" lon="10.930247">
+        <ele>454.3</ele>
+        <time>2026-05-05T12:53:14.364000Z</time>
+      </trkpt>
+      <trkpt lat="48.553685" lon="10.930576">
+        <ele>454.3</ele>
+        <time>2026-05-05T12:53:40.010000Z</time>
+      </trkpt>
+      <trkpt lat="48.553485" lon="10.930778">
+        <ele>454.3</ele>
+        <time>2026-05-05T12:54:04.196000Z</time>
+      </trkpt>
+      <trkpt lat="48.552602" lon="10.931017">
+        <ele>454.1</ele>
+        <time>2026-05-05T12:55:34.285000Z</time>
+      </trkpt>
+      <trkpt lat="48.552507" lon="10.931043">
+        <ele>454.1</ele>
+        <time>2026-05-05T12:55:43.997000Z</time>
+      </trkpt>
+      <trkpt lat="48.552303" lon="10.931149">
+        <ele>454.1</ele>
+        <time>2026-05-05T12:56:05.681000Z</time>
+      </trkpt>
+      <trkpt lat="48.551907" lon="10.930959">
+        <ele>454</ele>
+        <time>2026-05-05T12:56:47.437000Z</time>
+      </trkpt>
+      <trkpt lat="48.551782" lon="10.930725">
+        <ele>454</ele>
+        <time>2026-05-05T12:57:07.406000Z</time>
+      </trkpt>
+      <trkpt lat="48.551617" lon="10.929978">
+        <ele>454</ele>
+        <time>2026-05-05T12:57:59.562000Z</time>
+      </trkpt>
+      <trkpt lat="48.551376" lon="10.929312">
+        <ele>454.5</ele>
+        <time>2026-05-05T12:58:51.584000Z</time>
+      </trkpt>
+      <trkpt lat="48.550936" lon="10.927467">
+        <ele>458.7</ele>
+        <time>2026-05-05T13:01:16.559000Z</time>
+      </trkpt>
+      <trkpt lat="48.550655" lon="10.926035">
+        <ele>464.7</ele>
+        <time>2026-05-05T13:03:16.148000Z</time>
+      </trkpt>
+      <trkpt lat="48.550584" lon="10.925281">
+        <ele>468.2</ele>
+        <time>2026-05-05T13:04:18.636000Z</time>
+      </trkpt>
+      <trkpt lat="48.55058" lon="10.924426">
+        <ele>471.7</ele>
+        <time>2026-05-05T13:05:27.140000Z</time>
+      </trkpt>
+      <trkpt lat="48.550475" lon="10.923413">
+        <ele>474.6</ele>
+        <time>2026-05-05T13:06:45.128000Z</time>
+      </trkpt>
+      <trkpt lat="48.550477" lon="10.922469">
+        <ele>475.9</ele>
+        <time>2026-05-05T13:07:52.476000Z</time>
+      </trkpt>
+      <trkpt lat="48.550366" lon="10.921552">
+        <ele>476.9</ele>
+        <time>2026-05-05T13:08:57.547000Z</time>
+      </trkpt>
+      <trkpt lat="48.551122" lon="10.920133">
+        <ele>477.4</ele>
+        <time>2026-05-05T13:11:00.117000Z</time>
+      </trkpt>
+      <trkpt lat="48.550184" lon="10.919468">
+        <ele>475.7</ele>
+        <time>2026-05-05T13:12:47.267000Z</time>
+      </trkpt>
+      <trkpt lat="48.549904" lon="10.919352">
+        <ele>474.7</ele>
+        <time>2026-05-05T13:13:18.435000Z</time>
+      </trkpt>
+      <trkpt lat="48.549938" lon="10.918798">
+        <ele>473.3</ele>
+        <time>2026-05-05T13:13:58.256000Z</time>
+      </trkpt>
+      <trkpt lat="48.549913" lon="10.918263">
+        <ele>471.7</ele>
+        <time>2026-05-05T13:14:37.022000Z</time>
+      </trkpt>
+      <trkpt lat="48.549957" lon="10.917842">
+        <ele>470.3</ele>
+        <time>2026-05-05T13:15:08.124000Z</time>
+      </trkpt>
+      <trkpt lat="48.550211" lon="10.916208">
+        <ele>463.4</ele>
+        <time>2026-05-05T13:17:13.263000Z</time>
+      </trkpt>
+      <trkpt lat="48.550199" lon="10.915813">
+        <ele>461.5</ele>
+        <time>2026-05-05T13:17:43.183000Z</time>
+      </trkpt>
+      <trkpt lat="48.55006" lon="10.915367">
+        <ele>459.2</ele>
+        <time>2026-05-05T13:18:20.563000Z</time>
+      </trkpt>
+      <trkpt lat="48.549962" lon="10.915176">
+        <ele>458</ele>
+        <time>2026-05-05T13:18:38.882000Z</time>
+      </trkpt>
+      <trkpt lat="48.549911" lon="10.914965">
+        <ele>456.9</ele>
+        <time>2026-05-05T13:18:55.965000Z</time>
+      </trkpt>
+      <trkpt lat="48.549805" lon="10.914011">
+        <ele>452</ele>
+        <time>2026-05-05T13:20:09.986000Z</time>
+      </trkpt>
+      <trkpt lat="48.549756" lon="10.913766">
+        <ele>450.6</ele>
+        <time>2026-05-05T13:20:29.676000Z</time>
+      </trkpt>
+      <trkpt lat="48.549676" lon="10.913512">
+        <ele>449</ele>
+        <time>2026-05-05T13:20:51.487000Z</time>
+      </trkpt>
+      <trkpt lat="48.549448" lon="10.912969">
+        <ele>445.1</ele>
+        <time>2026-05-05T13:21:41.830000Z</time>
+      </trkpt>
+      <trkpt lat="48.549377" lon="10.912547">
+        <ele>442.3</ele>
+        <time>2026-05-05T13:22:16.136000Z</time>
+      </trkpt>
+      <trkpt lat="48.549332" lon="10.912015">
+        <ele>439.1</ele>
+        <time>2026-05-05T13:22:58.128000Z</time>
+      </trkpt>
+      <trkpt lat="48.549257" lon="10.911606">
+        <ele>436.8</ele>
+        <time>2026-05-05T13:23:30.798000Z</time>
+      </trkpt>
+      <trkpt lat="48.549189" lon="10.911395">
+        <ele>435.6</ele>
+        <time>2026-05-05T13:23:48.699000Z</time>
+      </trkpt>
+      <trkpt lat="48.549102" lon="10.911107">
+        <ele>434.2</ele>
+        <time>2026-05-05T13:24:12.461000Z</time>
+      </trkpt>
+      <trkpt lat="48.549009" lon="10.910634">
+        <ele>432.4</ele>
+        <time>2026-05-05T13:24:48.853000Z</time>
+      </trkpt>
+      <trkpt lat="48.550265" lon="10.910003">
+        <ele>431</ele>
+        <time>2026-05-05T13:27:04.176000Z</time>
+      </trkpt>
+      <trkpt lat="48.550491" lon="10.910872">
+        <ele>432.1</ele>
+        <time>2026-05-05T13:28:09.988000Z</time>
+      </trkpt>
+      <trkpt lat="48.551059" lon="10.910722">
+        <ele>433.3</ele>
+        <time>2026-05-05T13:29:11.977000Z</time>
+      </trkpt>
+      <trkpt lat="48.552003" lon="10.910325">
+        <ele>434.5</ele>
+        <time>2026-05-05T13:30:54.323000Z</time>
+      </trkpt>
+      <trkpt lat="48.552071" lon="10.91032">
+        <ele>434.6</ele>
+        <time>2026-05-05T13:31:01.332000Z</time>
+      </trkpt>
+      <trkpt lat="48.552341" lon="10.910164">
+        <ele>434.8</ele>
+        <time>2026-05-05T13:31:31.130000Z</time>
+      </trkpt>
+      <trkpt lat="48.552653" lon="10.910084">
+        <ele>435.1</ele>
+        <time>2026-05-05T13:32:03.995000Z</time>
+      </trkpt>
+      <trkpt lat="48.552973" lon="10.91007">
+        <ele>435.5</ele>
+        <time>2026-05-05T13:32:37.244000Z</time>
+      </trkpt>
+      <trkpt lat="48.553561" lon="10.910102">
+        <ele>435.9</ele>
+        <time>2026-05-05T13:33:37.387000Z</time>
+      </trkpt>
+      <trkpt lat="48.554254" lon="10.91029">
+        <ele>435</ele>
+        <time>2026-05-05T13:34:49.584000Z</time>
+      </trkpt>
+      <trkpt lat="48.554153" lon="10.909956">
+        <ele>434.5</ele>
+        <time>2026-05-05T13:35:14.957000Z</time>
+      </trkpt>
+      <trkpt lat="48.554133" lon="10.909774">
+        <ele>434.3</ele>
+        <time>2026-05-05T13:35:27.711000Z</time>
+      </trkpt>
+      <trkpt lat="48.55419" lon="10.908818">
+        <ele>432.8</ele>
+        <time>2026-05-05T13:36:34.323000Z</time>
+      </trkpt>
+      <trkpt lat="48.554843" lon="10.908576">
+        <ele>431.5</ele>
+        <time>2026-05-05T13:37:44.348000Z</time>
+      </trkpt>
+      <trkpt lat="48.555348" lon="10.908544">
+        <ele>430.9</ele>
+        <time>2026-05-05T13:38:36.198000Z</time>
+      </trkpt>
+      <trkpt lat="48.555544" lon="10.90858">
+        <ele>430.7</ele>
+        <time>2026-05-05T13:38:56.188000Z</time>
+      </trkpt>
+      <trkpt lat="48.555506" lon="10.908464">
+        <ele>430.6</ele>
+        <time>2026-05-05T13:39:04.945000Z</time>
+      </trkpt>
+      <trkpt lat="48.555154" lon="10.907842">
+        <ele>430.1</ele>
+        <time>2026-05-05T13:40:00.318000Z</time>
+      </trkpt>
+      <trkpt lat="48.555111" lon="10.907756">
+        <ele>430</ele>
+        <time>2026-05-05T13:40:07.711000Z</time>
+      </trkpt>
+      <trkpt lat="48.555043" lon="10.907609">
+        <ele>429.8</ele>
+        <time>2026-05-05T13:40:19.865000Z</time>
+      </trkpt>
+      <trkpt lat="48.555025" lon="10.907564">
+        <ele>429.8</ele>
+        <time>2026-05-05T13:40:23.394000Z</time>
+      </trkpt>
+      <trkpt lat="48.555358" lon="10.907584">
+        <ele>429.3</ele>
+        <time>2026-05-05T13:40:57.545000Z</time>
+      </trkpt>
+      <trkpt lat="48.555616" lon="10.907678">
+        <ele>429.1</ele>
+        <time>2026-05-05T13:41:24.536000Z</time>
+      </trkpt>
+      <trkpt lat="48.55604" lon="10.907899">
+        <ele>429</ele>
+        <time>2026-05-05T13:42:09.756000Z</time>
+      </trkpt>
+      <trkpt lat="48.556731" lon="10.908363">
+        <ele>429</ele>
+        <time>2026-05-05T13:43:25.466000Z</time>
+      </trkpt>
+      <trkpt lat="48.556894" lon="10.908398">
+        <ele>429</ele>
+        <time>2026-05-05T13:43:41.976000Z</time>
+      </trkpt>
+      <trkpt lat="48.557062" lon="10.908434">
+        <ele>429</ele>
+        <time>2026-05-05T13:43:59.014000Z</time>
+      </trkpt>
+      <trkpt lat="48.558216" lon="10.908541">
+        <ele>429.4</ele>
+        <time>2026-05-05T13:45:56.067000Z</time>
+      </trkpt>
+      <trkpt lat="48.558724" lon="10.908993">
+        <ele>428.8</ele>
+        <time>2026-05-05T13:46:56.428000Z</time>
+      </trkpt>
+      <trkpt lat="48.55884" lon="10.909054">
+        <ele>428.6</ele>
+        <time>2026-05-05T13:47:09.022000Z</time>
+      </trkpt>
+      <trkpt lat="48.559015" lon="10.909064">
+        <ele>428.4</ele>
+        <time>2026-05-05T13:47:27.015000Z</time>
+      </trkpt>
+      <trkpt lat="48.55911" lon="10.909069">
+        <ele>428.3</ele>
+        <time>2026-05-05T13:47:36.795000Z</time>
+      </trkpt>
+      <trkpt lat="48.55912" lon="10.909006">
+        <ele>428.2</ele>
+        <time>2026-05-05T13:47:41.214000Z</time>
+      </trkpt>
+      <trkpt lat="48.559199" lon="10.908489">
+        <ele>427.7</ele>
+        <time>2026-05-05T13:48:17.371000Z</time>
+      </trkpt>
+      <trkpt lat="48.559298" lon="10.908474">
+        <ele>427.6</ele>
+        <time>2026-05-05T13:48:27.644000Z</time>
+      </trkpt>
+      <trkpt lat="48.559788" lon="10.908535">
+        <ele>426.6</ele>
+        <time>2026-05-05T13:49:18.931000Z</time>
+      </trkpt>
+      <trkpt lat="48.560597" lon="10.908689">
+        <ele>425.6</ele>
+        <time>2026-05-05T13:50:42.545000Z</time>
+      </trkpt>
+      <trkpt lat="48.560635" lon="10.908414">
+        <ele>425.5</ele>
+        <time>2026-05-05T13:51:01.378000Z</time>
+      </trkpt>
+      <trkpt lat="48.560748" lon="10.90806">
+        <ele>425.4</ele>
+        <time>2026-05-05T13:51:27.712000Z</time>
+      </trkpt>
+      <trkpt lat="48.561446" lon="10.907996">
+        <ele>425.1</ele>
+        <time>2026-05-05T13:52:38.255000Z</time>
+      </trkpt>
+      <trkpt lat="48.561478" lon="10.90796">
+        <ele>425.1</ele>
+        <time>2026-05-05T13:52:42.279000Z</time>
+      </trkpt>
+      <trkpt lat="48.561508" lon="10.907775">
+        <ele>425.1</ele>
+        <time>2026-05-05T13:52:54.934000Z</time>
+      </trkpt>
+      <trkpt lat="48.56154" lon="10.907735">
+        <ele>425.1</ele>
+        <time>2026-05-05T13:52:59.138000Z</time>
+      </trkpt>
+      <trkpt lat="48.561802" lon="10.90776">
+        <ele>425.1</ele>
+        <time>2026-05-05T13:53:25.480000Z</time>
+      </trkpt>
+      <trkpt lat="48.562222" lon="10.907699">
+        <ele>425.3</ele>
+        <time>2026-05-05T13:54:08.404000Z</time>
+      </trkpt>
+      <trkpt lat="48.56242" lon="10.90767">
+        <ele>425.4</ele>
+        <time>2026-05-05T13:54:28.742000Z</time>
+      </trkpt>
+      <trkpt lat="48.562483" lon="10.907565">
+        <ele>425.5</ele>
+        <time>2026-05-05T13:54:38.317000Z</time>
+      </trkpt>
+      <trkpt lat="48.56266" lon="10.907391">
+        <ele>425.6</ele>
+        <time>2026-05-05T13:54:59.835000Z</time>
+      </trkpt>
+      <trkpt lat="48.562826" lon="10.907631">
+        <ele>425.7</ele>
+        <time>2026-05-05T13:55:23.380000Z</time>
+      </trkpt>
+      <trkpt lat="48.562962" lon="10.907827">
+        <ele>425.9</ele>
+        <time>2026-05-05T13:55:42.678000Z</time>
+      </trkpt>
+      <trkpt lat="48.563013" lon="10.907736">
+        <ele>425.9</ele>
+        <time>2026-05-05T13:55:50.796000Z</time>
+      </trkpt>
+      <trkpt lat="48.56317" lon="10.907931">
+        <ele>426.1</ele>
+        <time>2026-05-05T13:56:11.784000Z</time>
+      </trkpt>
+      <trkpt lat="48.562973" lon="10.908319">
+        <ele>426.4</ele>
+        <time>2026-05-05T13:56:45.365000Z</time>
+      </trkpt>
+      <trkpt lat="48.562655" lon="10.908569">
+        <ele>426.9</ele>
+        <time>2026-05-05T13:57:22.941000Z</time>
+      </trkpt>
+      <trkpt lat="48.5626" lon="10.908689">
+        <ele>427.1</ele>
+        <time>2026-05-05T13:57:33.267000Z</time>
+      </trkpt>
+      <trkpt lat="48.562318" lon="10.909627">
+        <ele>429.6</ele>
+        <time>2026-05-05T13:58:50.360000Z</time>
+      </trkpt>
+      <trkpt lat="48.562227" lon="10.909936">
+        <ele>430.4</ele>
+        <time>2026-05-05T13:59:15.300000Z</time>
+      </trkpt>
+      <trkpt lat="48.562227" lon="10.91009">
+        <ele>430.7</ele>
+        <time>2026-05-05T13:59:26.532000Z</time>
+      </trkpt>
+      <trkpt lat="48.56225" lon="10.910164">
+        <ele>430.8</ele>
+        <time>2026-05-05T13:59:32.426000Z</time>
+      </trkpt>
+      <trkpt lat="48.562311" lon="10.910256">
+        <ele>431</ele>
+        <time>2026-05-05T13:59:41.828000Z</time>
+      </trkpt>
+      <trkpt lat="48.562329" lon="10.910278">
+        <ele>431.1</ele>
+        <time>2026-05-05T13:59:44.329000Z</time>
+      </trkpt>
+      <trkpt lat="48.562342" lon="10.910674">
+        <ele>431.7</ele>
+        <time>2026-05-05T14:00:12.721000Z</time>
+      </trkpt>
+      <trkpt lat="48.562292" lon="10.910683">
+        <ele>431.7</ele>
+        <time>2026-05-05T14:00:18.016000Z</time>
+      </trkpt>
+      <trkpt lat="48.562342" lon="10.910674">
+        <ele>431.9</ele>
+        <time>2026-05-05T14:00:23.455000Z</time>
+      </trkpt>
+      <trkpt lat="48.562549" lon="10.91067">
+        <ele>432.3</ele>
+        <time>2026-05-05T14:00:45.533000Z</time>
+      </trkpt>
+      <trkpt lat="48.562783" lon="10.910675">
+        <ele>432.5</ele>
+        <time>2026-05-05T14:01:09.951000Z</time>
+      </trkpt>
+      <trkpt lat="48.563111" lon="10.910687">
+        <ele>432.8</ele>
+        <time>2026-05-05T14:01:43.832000Z</time>
+      </trkpt>
+      <trkpt lat="48.563358" lon="10.910697">
+        <ele>432.7</ele>
+        <time>2026-05-05T14:02:08.841000Z</time>
+      </trkpt>
+      <trkpt lat="48.563453" lon="10.910744">
+        <ele>432.4</ele>
+        <time>2026-05-05T14:02:19.347000Z</time>
+      </trkpt>
+      <trkpt lat="48.563853" lon="10.910818">
+        <ele>431.7</ele>
+        <time>2026-05-05T14:03:01.267000Z</time>
+      </trkpt>
+      <trkpt lat="48.56387" lon="10.910955">
+        <ele>431.6</ele>
+        <time>2026-05-05T14:03:10.667000Z</time>
+      </trkpt>
+      <trkpt lat="48.563881" lon="10.911163">
+        <ele>431.5</ele>
+        <time>2026-05-05T14:03:24.723000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

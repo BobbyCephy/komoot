@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Wanderrunde von Mertingen</name>
+    <desc>Distance: 4.127km, Estimated duration: 1.04h, Elevation up: 7.507734185225047m, Elevation down: 7.810661160831728m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2975818693">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.650643" lon="10.786094">
+    <name>Parking</name>
+    <cmt></cmt>
+    <desc>Free</desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="48.65073" lon="10.785883">
+    <ele>402.4</ele>
+    <name>Observation tower on the former Mertingen–Wertingen railway line</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/1h/1hmcqfd9ttukqocogtha0s1zp39skw8df-uhi10466686/0</cmt>
+    <desc>Siggi: Von der Aussichtsplattform hat man einen schönen Fernblick in die "Höll"
+――――――――――
+Siggi: Diese Signalbrücke wurde sozusagen als Aussichtspunkt ins Ried umgebaut und von dort oben, kann man bei guter Sicht, sehr weit ins Ried und die "Mertinger Hölle" blicken.
+――――――――――
+Karlheinz: Prima zu fahren, weg vom Trubel,  feldwegartig aber gut im Schuss.
+――――――――――
+Didier: Schönes Plätzchen zum Rasten und Ruhen mit Aussichtsturm.
+――――――――――
+Elena: Wirklich sehr gut, um ein bisschen Ruhe zu tanken. Schön, dass man hier die Überreste der Bahnanlage so liebevoll in diesen Rastplatz integriert hat.
+――――――――――
+Walter Fa.: Ein toller Rastplatz an der ehemaligen Bahnlinie Mertingen-Wertingen mit Signalbrücke, Formsignal HP2, Prellbock, Bahnübergang mit Andreaskreuzen und Schautafel mit Erklärungen und Bildern zur Streckengeschichte.
+――――――――――
+Joerg Deisenhofer: Ein kleiner Spielplatz, Bänke, Parkplätze am Bahnübergang der ehemaligen Zugstrecke Wertingen-Mertingen
+――――――――――
+Marcus: Kleine Aussichtsplattform, schön um eine Rast einzulegen. 
+Grüße Marcus 
+――――――――――
+Andreas: Sehr schöner Aussichtispunkt auf die Mertinger Hölle
+――――――――――
+🚲 Klaus 🛶 🥾: Abstecher? nein Auspacken und Brotzeit machen
+――――――――――
+Kristin: Hier kann parken und eine tolle Wanderung beginnen.
+Oder an den Picknicktischen ein Pause einlegen.
+――――――――――
+Lenaaaa: Historischer Bahnübergang mit Gleisen und Schranke. Gute Aussicht auf dem Bahnübergang.
+――――――――――
+Lenaaaa: Historischer Bahnübergang 
+――――――――――
+Matthias: Schöner alter Bahnübergang, mit Aussicht auf den Übergang</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/2790124">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.651142" lon="10.785238">
+    <ele>450</ele>
+    <name>Old Local Railway Line and Rest Area Wertingen</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/5e/5eutv6x3n6fyx9r9rnuitdy33sd4bnsg-uhi34255767/0</cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/3292721">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Wanderrunde von Mertingen</name>
+    <desc>Distance: 4.127km, Estimated duration: 1.04h, Elevation up: 7.507734185225047m, Elevation down: 7.810661160831728m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/2975818693">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.650672" lon="10.786151">
+        <ele>408.1</ele>
+        <time>2026-05-23T11:55:35.817000Z</time>
+      </trkpt>
+      <trkpt lat="48.650842" lon="10.785956">
+        <ele>407.8</ele>
+        <time>2026-05-23T11:55:57.844000Z</time>
+      </trkpt>
+      <trkpt lat="48.650772" lon="10.78583">
+        <ele>407.6</ele>
+        <time>2026-05-23T11:56:09.162000Z</time>
+      </trkpt>
+      <trkpt lat="48.650842" lon="10.785956">
+        <ele>407.4</ele>
+        <time>2026-05-23T11:56:20.496000Z</time>
+      </trkpt>
+      <trkpt lat="48.650907" lon="10.785825">
+        <ele>407.2</ele>
+        <time>2026-05-23T11:56:31.810000Z</time>
+      </trkpt>
+      <trkpt lat="48.651081" lon="10.785199">
+        <ele>406.2</ele>
+        <time>2026-05-23T11:57:18.704000Z</time>
+      </trkpt>
+      <trkpt lat="48.651252" lon="10.784585">
+        <ele>405.2</ele>
+        <time>2026-05-23T11:58:04.788000Z</time>
+      </trkpt>
+      <trkpt lat="48.651417" lon="10.784472">
+        <ele>404.8</ele>
+        <time>2026-05-23T11:58:23.726000Z</time>
+      </trkpt>
+      <trkpt lat="48.652667" lon="10.783378">
+        <ele>403</ele>
+        <time>2026-05-23T12:00:51.911000Z</time>
+      </trkpt>
+      <trkpt lat="48.65306" lon="10.783096">
+        <ele>402.8</ele>
+        <time>2026-05-23T12:01:36.016000Z</time>
+      </trkpt>
+      <trkpt lat="48.653904" lon="10.782562">
+        <ele>402.4</ele>
+        <time>2026-05-23T12:03:08.331000Z</time>
+      </trkpt>
+      <trkpt lat="48.654937" lon="10.782008">
+        <ele>402.1</ele>
+        <time>2026-05-23T12:04:58.611000Z</time>
+      </trkpt>
+      <trkpt lat="48.655431" lon="10.781654">
+        <ele>402</ele>
+        <time>2026-05-23T12:05:53.518000Z</time>
+      </trkpt>
+      <trkpt lat="48.657092" lon="10.780219">
+        <ele>401.5</ele>
+        <time>2026-05-23T12:09:06.114000Z</time>
+      </trkpt>
+      <trkpt lat="48.65722" lon="10.780172">
+        <ele>401.4</ele>
+        <time>2026-05-23T12:09:19.305000Z</time>
+      </trkpt>
+      <trkpt lat="48.657084" lon="10.779744">
+        <ele>401.3</ele>
+        <time>2026-05-23T12:09:50.857000Z</time>
+      </trkpt>
+      <trkpt lat="48.655912" lon="10.775106">
+        <ele>400.9</ele>
+        <time>2026-05-23T12:15:20.078000Z</time>
+      </trkpt>
+      <trkpt lat="48.654823" lon="10.770678">
+        <ele>400.6</ele>
+        <time>2026-05-23T12:20:32.964000Z</time>
+      </trkpt>
+      <trkpt lat="48.654758" lon="10.770394">
+        <ele>400.6</ele>
+        <time>2026-05-23T12:20:52.878000Z</time>
+      </trkpt>
+      <trkpt lat="48.653836" lon="10.766793">
+        <ele>400.5</ele>
+        <time>2026-05-23T12:25:08.379000Z</time>
+      </trkpt>
+      <trkpt lat="48.653115" lon="10.763832">
+        <ele>400.7</ele>
+        <time>2026-05-23T12:28:37.645000Z</time>
+      </trkpt>
+      <trkpt lat="48.653107" lon="10.76378">
+        <ele>400.7</ele>
+        <time>2026-05-23T12:28:41.215000Z</time>
+      </trkpt>
+      <trkpt lat="48.653105" lon="10.763743">
+        <ele>400.7</ele>
+        <time>2026-05-23T12:28:43.675000Z</time>
+      </trkpt>
+      <trkpt lat="48.652281" lon="10.763848">
+        <ele>400.8</ele>
+        <time>2026-05-23T12:30:06.598000Z</time>
+      </trkpt>
+      <trkpt lat="48.652212" lon="10.76416">
+        <ele>400.8</ele>
+        <time>2026-05-23T12:30:28.369000Z</time>
+      </trkpt>
+      <trkpt lat="48.651767" lon="10.766203">
+        <ele>400.9</ele>
+        <time>2026-05-23T12:32:50.903000Z</time>
+      </trkpt>
+      <trkpt lat="48.651687" lon="10.766701">
+        <ele>400.9</ele>
+        <time>2026-05-23T12:33:24.817000Z</time>
+      </trkpt>
+      <trkpt lat="48.65159" lon="10.767345">
+        <ele>400.9</ele>
+        <time>2026-05-23T12:34:08.694000Z</time>
+      </trkpt>
+      <trkpt lat="48.651507" lon="10.767995">
+        <ele>401</ele>
+        <time>2026-05-23T12:34:52.691000Z</time>
+      </trkpt>
+      <trkpt lat="48.651539" lon="10.76929">
+        <ele>401.1</ele>
+        <time>2026-05-23T12:36:18.799000Z</time>
+      </trkpt>
+      <trkpt lat="48.651432" lon="10.770005">
+        <ele>401.2</ele>
+        <time>2026-05-23T12:37:07.518000Z</time>
+      </trkpt>
+      <trkpt lat="48.651049" lon="10.771487">
+        <ele>401.3</ele>
+        <time>2026-05-23T12:38:53.206000Z</time>
+      </trkpt>
+      <trkpt lat="48.650363" lon="10.774762">
+        <ele>401.8</ele>
+        <time>2026-05-23T12:42:42.063000Z</time>
+      </trkpt>
+      <trkpt lat="48.650149" lon="10.776326">
+        <ele>402.1</ele>
+        <time>2026-05-23T12:44:28.576000Z</time>
+      </trkpt>
+      <trkpt lat="48.649784" lon="10.7777">
+        <ele>402.3</ele>
+        <time>2026-05-23T12:46:07.423000Z</time>
+      </trkpt>
+      <trkpt lat="48.649241" lon="10.779372">
+        <ele>402.9</ele>
+        <time>2026-05-23T12:48:12.891000Z</time>
+      </trkpt>
+      <trkpt lat="48.648894" lon="10.781259">
+        <ele>404.4</ele>
+        <time>2026-05-23T12:50:27.508000Z</time>
+      </trkpt>
+      <trkpt lat="48.648924" lon="10.781719">
+        <ele>404.6</ele>
+        <time>2026-05-23T12:50:59.014000Z</time>
+      </trkpt>
+      <trkpt lat="48.649143" lon="10.78204">
+        <ele>404.8</ele>
+        <time>2026-05-23T12:51:30.215000Z</time>
+      </trkpt>
+      <trkpt lat="48.649772" lon="10.782726">
+        <ele>405</ele>
+        <time>2026-05-23T12:52:48.255000Z</time>
+      </trkpt>
+      <trkpt lat="48.650256" lon="10.783253">
+        <ele>404.7</ele>
+        <time>2026-05-23T12:53:48.409000Z</time>
+      </trkpt>
+      <trkpt lat="48.651252" lon="10.784585">
+        <ele>405.6</ele>
+        <time>2026-05-23T12:56:04.412000Z</time>
+      </trkpt>
+      <trkpt lat="48.651081" lon="10.785199">
+        <ele>406.4</ele>
+        <time>2026-05-23T12:56:51.328000Z</time>
+      </trkpt>
+      <trkpt lat="48.650907" lon="10.785825">
+        <ele>407.2</ele>
+        <time>2026-05-23T12:57:39.199000Z</time>
+      </trkpt>
+      <trkpt lat="48.650842" lon="10.785956">
+        <ele>407.4</ele>
+        <time>2026-05-23T12:57:50.765000Z</time>
+      </trkpt>
+      <trkpt lat="48.650672" lon="10.786151">
+        <ele>407.8</ele>
+        <time>2026-05-23T12:58:13.521000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -27,10 +27,12 @@ jobs:
 
       - name: Generate GPX files
         run: |
-          mkdir -p public/gpx
-          rm -f public/gpx/credentials.json
-          komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o public/gpx
-          rm -f public/gpx/credentials.json
+          rm -rf gpx
+          mkdir -p gpx
+          rm -f credentials.json
+          komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
+          rm -f credentials.json
+          rm -f gpx/credentials.json
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
@@ -39,12 +41,15 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          from html import escape
 
-          gpx_dir = Path("public/gpx")
+          gpx_dir = Path("gpx")
+          gpx_dir.mkdir(parents=True, exist_ok=True)
+
           files = sorted(gpx_dir.glob("*.gpx"))
 
           links = "\n".join(
-              f'<li><a href="gpx/{file.name}" download>{file.name}</a></li>'
+              f'<li><a href="gpx/{escape(file.name)}" download>{escape(file.name)}</a></li>'
               for file in files
           )
 
@@ -53,9 +58,21 @@ jobs:
           <head>
             <meta charset="utf-8">
             <title>Komoot GPX Downloads</title>
+            <style>
+              body {{
+                font-family: sans-serif;
+                max-width: 900px;
+                margin: 40px auto;
+                padding: 0 20px;
+              }}
+              li {{
+                margin: 8px 0;
+              }}
+            </style>
           </head>
           <body>
             <h1>Komoot GPX Downloads</h1>
+            <p>{len(files)} GPX file(s) available.</p>
             <ul>
               {links}
             </ul>
@@ -63,13 +80,13 @@ jobs:
           </html>
           """
 
-          Path("public/index.html").write_text(html, encoding="utf-8")
+          Path("index.html").write_text(html, encoding="utf-8")
           PY
 
-      - name: Commit updated GPX files
+      - name: Commit updated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add public
+          git add index.html gpx
           git commit -m "Update Komoot GPX files" || echo "No changes"
           git push

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Burghofweiher bei Langerringen – Bank am Holzkreuz Runde von Langerringen</name>
+    <desc>Distance: 4.097km, Estimated duration: 1.05h, Elevation up: 16.454023001239648m, Elevation down: 16.974461117398164m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2953798266">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.122868" lon="10.761778">
+    <ele>571.9</ele>
+    <name>Burghofweiher near Langerringen</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k3/6j/6jszl7rg4khc60m2wdwgzm5u33iuasm5-uhi7690569/0</cmt>
+    <desc>Stefan: Der See beheimatet (zumindest als ich dort war)100 te Störche die sich um und im Weiher aufgehalten haben. Für Vogelfreunde ein Paradies zum Beobachten. Leider sind die Störche auf dem Foto etwas klein zu sehen, aber mein Handyzoom hat nicht mehr hergegeben.
+――――――――――
+Fränzl #fotofränzlwandert: Weiher</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/962568">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.120026" lon="10.766454">
+    <ele>623.2</ele>
+    <name>Bench by the Wooden Cross</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/f0/f0gyaqscty8w1t5iz1whyh7qx5668xvn5-uhi80604740/0</cmt>
+    <desc>Michael: Rastbank am Wegesrand</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/7126949">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.121077" lon="10.766424">
+    <ele>624.6</ele>
+    <name>Upgrade of the 380 kV overhead line</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k9/rq/rqwvm2jmvf3m1k8pg3fobsul95lq9cmnr-uhi96694862/0</cmt>
+    <desc>Michael: Hier wird die 380kVA Freileitung für die nächsten Jahrzehnte ertüchtigt</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/8149311">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.122767" lon="10.766935">
+    <ele>611.3</ele>
+    <name>Floodplain on the Singold</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k9/d4/d45m7l393xp419n993qiwgi7c5cvyf979-uhi85922302/0</cmt>
+    <desc>Michael: Auenlandschaft an der Singold</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/7421910">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Burghofweiher bei Langerringen – Bank am Holzkreuz Runde von Langerringen</name>
+    <desc>Distance: 4.097km, Estimated duration: 1.05h, Elevation up: 16.454023001239648m, Elevation down: 16.974461117398164m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/2953798266">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.130157" lon="10.763171">
+        <ele>567.9</ele>
+        <time>2026-05-14T12:05:58.512000Z</time>
+      </trkpt>
+      <trkpt lat="48.13008" lon="10.763076">
+        <ele>568</ele>
+        <time>2026-05-14T12:06:09.056000Z</time>
+      </trkpt>
+      <trkpt lat="48.129695" lon="10.762342">
+        <ele>568.5</ele>
+        <time>2026-05-14T12:07:13.315000Z</time>
+      </trkpt>
+      <trkpt lat="48.129615" lon="10.762196">
+        <ele>568.6</ele>
+        <time>2026-05-14T12:07:26.103000Z</time>
+      </trkpt>
+      <trkpt lat="48.129421" lon="10.761683">
+        <ele>568.7</ele>
+        <time>2026-05-14T12:08:06.026000Z</time>
+      </trkpt>
+      <trkpt lat="48.129325" lon="10.761493">
+        <ele>568.7</ele>
+        <time>2026-05-14T12:08:21.973000Z</time>
+      </trkpt>
+      <trkpt lat="48.129179" lon="10.761299">
+        <ele>568.7</ele>
+        <time>2026-05-14T12:08:41.631000Z</time>
+      </trkpt>
+      <trkpt lat="48.128883" lon="10.761073">
+        <ele>568.5</ele>
+        <time>2026-05-14T12:09:15.176000Z</time>
+      </trkpt>
+      <trkpt lat="48.128271" lon="10.761027">
+        <ele>568.3</ele>
+        <time>2026-05-14T12:10:16.857000Z</time>
+      </trkpt>
+      <trkpt lat="48.126709" lon="10.761249">
+        <ele>570.3</ele>
+        <time>2026-05-14T12:13:00.719000Z</time>
+      </trkpt>
+      <trkpt lat="48.12622" lon="10.761358">
+        <ele>570.9</ele>
+        <time>2026-05-14T12:13:52.453000Z</time>
+      </trkpt>
+      <trkpt lat="48.125805" lon="10.761583">
+        <ele>571.4</ele>
+        <time>2026-05-14T12:14:38.388000Z</time>
+      </trkpt>
+      <trkpt lat="48.125502" lon="10.761643">
+        <ele>571.7</ele>
+        <time>2026-05-14T12:15:09.984000Z</time>
+      </trkpt>
+      <trkpt lat="48.124131" lon="10.761615">
+        <ele>572.9</ele>
+        <time>2026-05-14T12:17:31.561000Z</time>
+      </trkpt>
+      <trkpt lat="48.123564" lon="10.76173">
+        <ele>573.3</ele>
+        <time>2026-05-14T12:18:30.417000Z</time>
+      </trkpt>
+      <trkpt lat="48.122868" lon="10.761746">
+        <ele>573.7</ele>
+        <time>2026-05-14T12:19:41.473000Z</time>
+      </trkpt>
+      <trkpt lat="48.122576" lon="10.761752">
+        <ele>573.8</ele>
+        <time>2026-05-14T12:20:11.126000Z</time>
+      </trkpt>
+      <trkpt lat="48.120902" lon="10.76109">
+        <ele>574.3</ele>
+        <time>2026-05-14T12:23:05.926000Z</time>
+      </trkpt>
+      <trkpt lat="48.120649" lon="10.760907">
+        <ele>574.2</ele>
+        <time>2026-05-14T12:23:34.028000Z</time>
+      </trkpt>
+      <trkpt lat="48.119966" lon="10.7606">
+        <ele>574</ele>
+        <time>2026-05-14T12:24:45.871000Z</time>
+      </trkpt>
+      <trkpt lat="48.119114" lon="10.759812">
+        <ele>573.5</ele>
+        <time>2026-05-14T12:26:27.122000Z</time>
+      </trkpt>
+      <trkpt lat="48.118603" lon="10.759617">
+        <ele>573.4</ele>
+        <time>2026-05-14T12:27:20.194000Z</time>
+      </trkpt>
+      <trkpt lat="48.117584" lon="10.759385">
+        <ele>574.1</ele>
+        <time>2026-05-14T12:29:05.933000Z</time>
+      </trkpt>
+      <trkpt lat="48.117169" lon="10.759518">
+        <ele>574.6</ele>
+        <time>2026-05-14T12:29:50.200000Z</time>
+      </trkpt>
+      <trkpt lat="48.116563" lon="10.759588">
+        <ele>575.4</ele>
+        <time>2026-05-14T12:30:53.690000Z</time>
+      </trkpt>
+      <trkpt lat="48.116341" lon="10.759517">
+        <ele>575.6</ele>
+        <time>2026-05-14T12:31:17.446000Z</time>
+      </trkpt>
+      <trkpt lat="48.114747" lon="10.758771">
+        <ele>577.5</ele>
+        <time>2026-05-14T12:34:11.113000Z</time>
+      </trkpt>
+      <trkpt lat="48.115149" lon="10.761342">
+        <ele>581.7</ele>
+        <time>2026-05-14T12:37:22.550000Z</time>
+      </trkpt>
+      <trkpt lat="48.115406" lon="10.76292">
+        <ele>582.6</ele>
+        <time>2026-05-14T12:39:13.997000Z</time>
+      </trkpt>
+      <trkpt lat="48.115997" lon="10.766568">
+        <ele>581.1</ele>
+        <time>2026-05-14T12:43:27.943000Z</time>
+      </trkpt>
+      <trkpt lat="48.117437" lon="10.766358">
+        <ele>579.7</ele>
+        <time>2026-05-14T12:45:55.538000Z</time>
+      </trkpt>
+      <trkpt lat="48.118112" lon="10.766662">
+        <ele>579.1</ele>
+        <time>2026-05-14T12:47:07.368000Z</time>
+      </trkpt>
+      <trkpt lat="48.1184" lon="10.766672">
+        <ele>578.9</ele>
+        <time>2026-05-14T12:47:36.620000Z</time>
+      </trkpt>
+      <trkpt lat="48.11924" lon="10.766313">
+        <ele>578.5</ele>
+        <time>2026-05-14T12:49:04.873000Z</time>
+      </trkpt>
+      <trkpt lat="48.11965" lon="10.766272">
+        <ele>578.3</ele>
+        <time>2026-05-14T12:49:46.506000Z</time>
+      </trkpt>
+      <trkpt lat="48.120036" lon="10.766364">
+        <ele>577.9</ele>
+        <time>2026-05-14T12:50:26.329000Z</time>
+      </trkpt>
+      <trkpt lat="48.120293" lon="10.766426">
+        <ele>577.6</ele>
+        <time>2026-05-14T12:50:53.061000Z</time>
+      </trkpt>
+      <trkpt lat="48.121063" lon="10.76658">
+        <ele>576.2</ele>
+        <time>2026-05-14T12:52:13.712000Z</time>
+      </trkpt>
+      <trkpt lat="48.122768" lon="10.766921">
+        <ele>572.3</ele>
+        <time>2026-05-14T12:55:13.806000Z</time>
+      </trkpt>
+      <trkpt lat="48.123277" lon="10.767022">
+        <ele>571.5</ele>
+        <time>2026-05-14T12:56:06.978000Z</time>
+      </trkpt>
+      <trkpt lat="48.123642" lon="10.767005">
+        <ele>571</ele>
+        <time>2026-05-14T12:56:44.361000Z</time>
+      </trkpt>
+      <trkpt lat="48.125022" lon="10.766498">
+        <ele>570.8</ele>
+        <time>2026-05-14T12:59:07.098000Z</time>
+      </trkpt>
+      <trkpt lat="48.125163" lon="10.766415">
+        <ele>570.9</ele>
+        <time>2026-05-14T12:59:22.753000Z</time>
+      </trkpt>
+      <trkpt lat="48.12528" lon="10.766286">
+        <ele>571</ele>
+        <time>2026-05-14T12:59:37.559000Z</time>
+      </trkpt>
+      <trkpt lat="48.125729" lon="10.765526">
+        <ele>571.2</ele>
+        <time>2026-05-14T13:00:46.006000Z</time>
+      </trkpt>
+      <trkpt lat="48.125954" lon="10.765317">
+        <ele>571.2</ele>
+        <time>2026-05-14T13:01:12.730000Z</time>
+      </trkpt>
+      <trkpt lat="48.126083" lon="10.765254">
+        <ele>571.3</ele>
+        <time>2026-05-14T13:01:26.318000Z</time>
+      </trkpt>
+      <trkpt lat="48.126342" lon="10.765172">
+        <ele>571.3</ele>
+        <time>2026-05-14T13:01:52.882000Z</time>
+      </trkpt>
+      <trkpt lat="48.12686" lon="10.765127">
+        <ele>571.2</ele>
+        <time>2026-05-14T13:02:45.134000Z</time>
+      </trkpt>
+      <trkpt lat="48.127057" lon="10.765071">
+        <ele>571</ele>
+        <time>2026-05-14T13:03:05.474000Z</time>
+      </trkpt>
+      <trkpt lat="48.127203" lon="10.764982">
+        <ele>570.8</ele>
+        <time>2026-05-14T13:03:21.654000Z</time>
+      </trkpt>
+      <trkpt lat="48.127781" lon="10.76438">
+        <ele>570.1</ele>
+        <time>2026-05-14T13:04:33.631000Z</time>
+      </trkpt>
+      <trkpt lat="48.127982" lon="10.764119">
+        <ele>569.9</ele>
+        <time>2026-05-14T13:05:00.750000Z</time>
+      </trkpt>
+      <trkpt lat="48.128116" lon="10.764012">
+        <ele>569.7</ele>
+        <time>2026-05-14T13:05:16.324000Z</time>
+      </trkpt>
+      <trkpt lat="48.12848" lon="10.764036">
+        <ele>569.3</ele>
+        <time>2026-05-14T13:05:53.584000Z</time>
+      </trkpt>
+      <trkpt lat="48.128608" lon="10.763944">
+        <ele>569.1</ele>
+        <time>2026-05-14T13:06:08.164000Z</time>
+      </trkpt>
+      <trkpt lat="48.12878" lon="10.763711">
+        <ele>568.8</ele>
+        <time>2026-05-14T13:06:31.950000Z</time>
+      </trkpt>
+      <trkpt lat="48.129082" lon="10.763681">
+        <ele>568.4</ele>
+        <time>2026-05-14T13:07:03.118000Z</time>
+      </trkpt>
+      <trkpt lat="48.129208" lon="10.763595">
+        <ele>568.2</ele>
+        <time>2026-05-14T13:07:17.399000Z</time>
+      </trkpt>
+      <trkpt lat="48.129453" lon="10.763354">
+        <ele>567.9</ele>
+        <time>2026-05-14T13:07:47.294000Z</time>
+      </trkpt>
+      <trkpt lat="48.129681" lon="10.763268">
+        <ele>567.7</ele>
+        <time>2026-05-14T13:08:11.238000Z</time>
+      </trkpt>
+      <trkpt lat="48.129851" lon="10.763262">
+        <ele>567.6</ele>
+        <time>2026-05-14T13:08:28.615000Z</time>
+      </trkpt>
+      <trkpt lat="48.130157" lon="10.763171">
+        <ele>567.3</ele>
+        <time>2026-05-14T13:09:00.372000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

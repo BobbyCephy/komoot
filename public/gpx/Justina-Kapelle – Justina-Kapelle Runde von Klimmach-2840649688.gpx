@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Justina-Kapelle – Justina-Kapelle Runde von Klimmach</name>
+    <desc>Distance: 10.518km, Estimated duration: 2.75h, Elevation up: 78.4135453389523m, Elevation down: 78.4135453389523m, Grade: moderate</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2840649688">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.204691" lon="10.693914">
+    <name>Leuthau</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="48.218218" lon="10.721517">
+    <ele>575.6</ele>
+    <name>Guggenberg Castle</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k2/1i/1iil0npx6vvlf15oybu4wlqtk22j049nbx-uhi2241798/0</cmt>
+    <desc>suny: Vor Schloss Guggenberg ist diese hübsche Bank zu sehen.
+――――――――――
+suny: Schloss Gugenberg befindet sich im Privatbesitz.
+――――――――――
+Heiko: Schloss Guggenberg gehört zur Gemarkung Klimmach. Das Höhenschloss liegt oberhalb des Wertachtals im Naturpark Augsburg – Westliche Wälder und ist im Besitz der adeligen Familie Neubronner. Das Gebäude ist eine Dreiflügelanlage.
+Das dreigeschossige Herrenhaus mit Steilsatteldach ist im Kern spätgotisch und wurde im 17. und 18. Jahrhundert immer wieder verändert. 1835 erfolgten weiter Um- und Neubauten. Die Terrasse wurde Ende des 19. Jahrhunderts errichtet. Auch der Park wurde um diese Zeit angelegt.
+――――――――――
+Didier: Nette Anlage, schöne Plätzchen zum Verweilen.
+――――――――――
+Carsten 🏍🚲: Interessant wäre mal ein Blick in den Innenhof, leider ist das Schloß in Privatbesitz und somit der Zutritt verwehrt!
+――――――――――
+Carsten 🏍🚲: Geheimnisvoll anonym
+――――――――――
+Hans-Jürgen: Das Höhenschloss Guggenberg wurde erstmals 1441 erwähnt, als Forsthaus des Hochstifts Augsburg.
+Schloss und Schlosspark sind nicht der Öffentlichkeit zugänglich.
+――――――――――
+Heiko: Das Schloss Guggenberg befindet sich in der Gemarkung Klimmach und gehört zur Stadt Schwabmünchen im schwäbischen Landkreis Augsburg, Bayern. Es liegt oberhalb des Wertachtals im Naturpark Augsburg – Westliche Wälder. Das Schloss ist eine dreigeschossige Dreiflügelanlage mit Steilsatteldach und stammt im Kern aus der Spätgotik. Erstmals erwähnt wurde es 1441, als es von der Familie Langenmantel erbaut wurde. Im Laufe der Jahrhunderte diente es verschiedenen Zwecken, unter anderem als Forsthof des Hochstifts Augsburg und als Baumwollspinnerei im 18. Jahrhundert. Heute befindet sich das Schloss im Besitz der adeligen Familie Neubronner. Es ist nicht öffentlich zugänglich, kann jedoch von außen besichtigt werden. Die Umgebung des Schlosses eignet sich gut für Wanderungen und Radtouren, beispielsweise entlang des Eggertalteichs und durch die Stauden.
+――――――――――
+Heiko: Schloss Guggenberg, oft auch als Guggenberger Schloss bezeichnet, ist ein geschichtsträchtiges Anwesen in der Nähe von Schwabmünchen im schwäbischen Landkreis Augsburg, Bayern. Es liegt auf einer Anhöhe über dem Wertachtal im Naturpark Augsburg – Westliche Wälder. Die dreigeschossige Anlage mit Steilsatteldach stammt in ihrem Kern aus der Spätgotik und wurde im Jahr 1441 erstmals urkundlich erwähnt. Ursprünglich war es im Besitz der Augsburger Patrizierfamilie Langenmantel, die das Schloss als befestigtes Herrenhaus erbaute.
+
+Im 18. Jahrhundert diente das Schloss unter wechselnden Besitzern als landwirtschaftlicher Betrieb, bevor es zeitweise zu einer Baumwollspinnerei umfunktioniert wurde. Später gelangte es in den Besitz der Grafen von Neubronner, die das Schloss im 19. Jahrhundert restaurierten und bis heute im Familienbesitz halten.
+
+Heute ist das Schloss nicht öffentlich zugänglich, doch es gibt immer wieder private Veranstaltungen und exklusive Führungen nach Vereinbarung. Die Umgebung von Schloss Guggenberg bietet attraktive Wandermöglichkeiten durch die „Stauden,“ eine landschaftlich reizvolle Region im Naturpark, die durch sanfte Hügel, Wälder und Teiche geprägt ist.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5612489">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.22639" lon="10.722302">
+    <ele>620.5</ele>
+    <name>Anhauser Bach Source at the Ancient Oak Trunk</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k7/g3/g3giepmaadpb1kazfc0nz6ute4jvpziza-uhi59253437/0</cmt>
+    <desc>suny: Der Anhauser Bach entspringt in diesen Wäldern, speist in Reinhartshofen und Burgwalden die Fischweiher, fließt durch Anhausen und mündet in Diedorf in die Schmutter.
+――――――――――
+suny: Der Anhauser Bach hat seine Quelle bei Reinhartshofen, südlich von uns, und seine Mündung in die Schmutter zwischen Diedorf und Oggenhof, nördlich von uns. Der Anhauser Bach wird, wenn er jung und frisch ist, zwischen Reinhartshofen und rund um Burgwalden zur Fischzucht genutzt, wo er mehrere Weiher füllt.
+――――――――――
+Hans-Jürgen: Der Anhauser Bach fließt hier in einer Rinne aus einer alten Mooreiche.
+――――――――――
+Guido (⛵📸🥾🚲): Der Anhauser Bach entspringt hier in diesen Wäldern und speist dann weiter nördlich  die Fischweiher in Reinhartshofen.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/674684">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.226357" lon="10.720172">
+    <ele>633.5</ele>
+    <name>Former well of the Justinakapelle Hermitage</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/13/135ck6s6u48yh13lv6b0rps5ki3kcqenx6-uhi25415038/0</cmt>
+    <desc>suny: Ein ehemaliger tiefer Brunnen mit einer Ruhebank.
+――――――――――
+Markus🚵🏼‍♀️⛷: Gottseidank ist ein Gitter auf dem alten Brunnen</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/674716">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.226243" lon="10.71815">
+    <ele>589</ele>
+    <name>Justina Chapel</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k2/vh/vhcohg7785a01rivakk2pl0bm2npuqo80-uhi3254264/0</cmt>
+    <desc>Hans-Jürgen: Die überdachten Sitzbänke mit Tisch laden zu einer Pause ein.
+――――――――――
+Markus🚵🏼‍♀️⛷: Mitten im Wald eine gemütliche Einkehrmöglichkeit zum Rast machen
+――――――――――
+Markus🚵🏼‍♀️⛷: Gerade die überdachten Bänke laden zur Rast ein
+――――――――――
+Marcus: Sehr schöne kleine Kapelle. 
+Toll gemacht. 
+Grüße Marcus 
+――――――――――
+suny: Erste erkundliche Erwähnung bereits im Mittelalter. Sie besaß im 1500 eigenes Vermögen und einige Heiligenpfleger.  Die Gründung der Entstehung der Kapelle liegen wohl darin, daß zu dieser Zeit in der Gegend eine Anzahl Feldgüter, die sog. „Justina Lehen" vorahend waren, die aber bald wieder "abgegangen" sind. Einer Sage habe es in früheren Zeiten in unmittelbarer Nähe sogar ein Frauenkloster gegeben.
+Tatsache ist, daß sich bei der Kapelle von Anfang an eine Klause befand, die meistens von zwei Eremiten bewohnt wurde.  1580 wurde berichtet, daß Großaitinger Bürger jährlich einen Bittgang durchgeführt haben.
+――――――――――
+Didier: Ein sehr spiritueller Platz mitten im Wald. Hier kann man, wenn nicht viel los, ist gut relaxen.
+――――――――――
+Andy: Schöne Runde
+――――――――――
+Jörg: Ruhiger Ort mitten im Wald und einer Möglichkeit zum Verzehren mitgebrachter Brotzeit!
+――――――――――
+Carsten 🏍🚲: Ein Kapelle mitten im Wald mit vielen Informationen über deren Geschichte
+――――――――――
+Joschi: Eine Infotafel weißt auf eine Klause mit zwei Eremiten die nahe der ursprünglichen Justina-Kapelle stand. Allerdings wurde die alte Kapelle im Zuge der Säkularisation im Jahr 1804 abgerissen. Die neuere Kapelle wird auf das Jahr 1825 datiert, als Erbauer kommt der damalige Grundeigentümer Ignatz Spatz in Betracht. Seit seinem Bau steht das kleine Kirchlein im Grünen. 
+Unter der Regie von Franz Stahl, der die Renovierung der Justina-Kapelle mit zwei überdachten Rastplätzen und einem Holzkreuz vornahmen. Bei diesen Arbeiten wurde im Jahre 2002, etwas abseits der Kapelle, auch der alte Brunnen wieder entdeckt. 
+Das Altarbild mit dem Martyrium der heiligen Justina im dritten Jahrhundert blieb aus der alten Kapelle erhalten.
+――――――――――
+Annette: Ein schönes Kleinod mitten im Wald am Jakobusweg.
+――――――――――
+Didier: Immer wieder herrlich wenn man durch den Wald zu der Lichtung mit der schönen Kapelle kommt. Oft genug ist man auch ganz alleine dort.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/74331">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.22698" lon="10.70615">
+    <ele>595</ele>
+    <name>Kohlberg</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/7970624">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.21667" lon="10.7">
+    <ele>603.8</ele>
+    <name>Weidenhart</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/7970752">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Justina-Kapelle – Justina-Kapelle Runde von Klimmach</name>
+    <desc>Distance: 10.518km, Estimated duration: 2.75h, Elevation up: 78.4135453389523m, Elevation down: 78.4135453389523m, Grade: moderate</desc>
+    <link href="https://www.komoot.de/tour/2840649688">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.204691" lon="10.693914">
+        <ele>599.2</ele>
+        <time>2026-03-22T12:40:53.865000Z</time>
+      </trkpt>
+      <trkpt lat="48.204803" lon="10.693799">
+        <ele>599.2</ele>
+        <time>2026-03-22T12:41:07.524000Z</time>
+      </trkpt>
+      <trkpt lat="48.205926" lon="10.69327">
+        <ele>598.9</ele>
+        <time>2026-03-22T12:43:05.874000Z</time>
+      </trkpt>
+      <trkpt lat="48.207121" lon="10.692753">
+        <ele>598.5</ele>
+        <time>2026-03-22T12:45:11.148000Z</time>
+      </trkpt>
+      <trkpt lat="48.207482" lon="10.692528">
+        <ele>598.4</ele>
+        <time>2026-03-22T12:45:50.453000Z</time>
+      </trkpt>
+      <trkpt lat="48.20752" lon="10.692629">
+        <ele>598.4</ele>
+        <time>2026-03-22T12:45:58.162000Z</time>
+      </trkpt>
+      <trkpt lat="48.207615" lon="10.692859">
+        <ele>598.4</ele>
+        <time>2026-03-22T12:46:16.229000Z</time>
+      </trkpt>
+      <trkpt lat="48.207714" lon="10.693238">
+        <ele>598.4</ele>
+        <time>2026-03-22T12:46:43.530000Z</time>
+      </trkpt>
+      <trkpt lat="48.207835" lon="10.693973">
+        <ele>598.7</ele>
+        <time>2026-03-22T12:47:34.825000Z</time>
+      </trkpt>
+      <trkpt lat="48.207808" lon="10.69649">
+        <ele>600.5</ele>
+        <time>2026-03-22T12:50:29.256000Z</time>
+      </trkpt>
+      <trkpt lat="48.207721" lon="10.698979">
+        <ele>602.8</ele>
+        <time>2026-03-22T12:53:23.741000Z</time>
+      </trkpt>
+      <trkpt lat="48.209898" lon="10.701824">
+        <ele>603.6</ele>
+        <time>2026-03-22T12:58:15.474000Z</time>
+      </trkpt>
+      <trkpt lat="48.209965" lon="10.701969">
+        <ele>603.5</ele>
+        <time>2026-03-22T12:58:27.616000Z</time>
+      </trkpt>
+      <trkpt lat="48.21061" lon="10.702842">
+        <ele>601.1</ele>
+        <time>2026-03-22T12:59:59.360000Z</time>
+      </trkpt>
+      <trkpt lat="48.211097" lon="10.70384">
+        <ele>598.8</ele>
+        <time>2026-03-22T13:01:26.602000Z</time>
+      </trkpt>
+      <trkpt lat="48.211223" lon="10.703965">
+        <ele>598.6</ele>
+        <time>2026-03-22T13:01:42.233000Z</time>
+      </trkpt>
+      <trkpt lat="48.21219" lon="10.704375">
+        <ele>598.6</ele>
+        <time>2026-03-22T13:03:22.888000Z</time>
+      </trkpt>
+      <trkpt lat="48.211971" lon="10.705565">
+        <ele>600.2</ele>
+        <time>2026-03-22T13:04:50.976000Z</time>
+      </trkpt>
+      <trkpt lat="48.211704" lon="10.706978">
+        <ele>599.9</ele>
+        <time>2026-03-22T13:06:29.491000Z</time>
+      </trkpt>
+      <trkpt lat="48.21148" lon="10.708424">
+        <ele>597.3</ele>
+        <time>2026-03-22T13:08:13.787000Z</time>
+      </trkpt>
+      <trkpt lat="48.211445" lon="10.70884">
+        <ele>596.5</ele>
+        <time>2026-03-22T13:08:43.468000Z</time>
+      </trkpt>
+      <trkpt lat="48.212688" lon="10.710681">
+        <ele>592.9</ele>
+        <time>2026-03-22T13:11:45.770000Z</time>
+      </trkpt>
+      <trkpt lat="48.213075" lon="10.711346">
+        <ele>590.1</ele>
+        <time>2026-03-22T13:12:50.229000Z</time>
+      </trkpt>
+      <trkpt lat="48.213122" lon="10.711568">
+        <ele>589.4</ele>
+        <time>2026-03-22T13:13:07.281000Z</time>
+      </trkpt>
+      <trkpt lat="48.213082" lon="10.712001">
+        <ele>588.1</ele>
+        <time>2026-03-22T13:13:39.067000Z</time>
+      </trkpt>
+      <trkpt lat="48.213117" lon="10.712129">
+        <ele>587.7</ele>
+        <time>2026-03-22T13:13:49.133000Z</time>
+      </trkpt>
+      <trkpt lat="48.213314" lon="10.712531">
+        <ele>586.4</ele>
+        <time>2026-03-22T13:14:24.959000Z</time>
+      </trkpt>
+      <trkpt lat="48.213455" lon="10.712708">
+        <ele>585.9</ele>
+        <time>2026-03-22T13:14:44.393000Z</time>
+      </trkpt>
+      <trkpt lat="48.213976" lon="10.713665">
+        <ele>586.7</ele>
+        <time>2026-03-22T13:16:09.706000Z</time>
+      </trkpt>
+      <trkpt lat="48.214166" lon="10.713928">
+        <ele>588</ele>
+        <time>2026-03-22T13:16:40.110000Z</time>
+      </trkpt>
+      <trkpt lat="48.214469" lon="10.714133">
+        <ele>589.9</ele>
+        <time>2026-03-22T13:17:19.867000Z</time>
+      </trkpt>
+      <trkpt lat="48.214873" lon="10.713508">
+        <ele>593.2</ele>
+        <time>2026-03-22T13:18:29.379000Z</time>
+      </trkpt>
+      <trkpt lat="48.215247" lon="10.713071">
+        <ele>595.5</ele>
+        <time>2026-03-22T13:19:24.615000Z</time>
+      </trkpt>
+      <trkpt lat="48.215581" lon="10.712779">
+        <ele>596.6</ele>
+        <time>2026-03-22T13:20:07.016000Z</time>
+      </trkpt>
+      <trkpt lat="48.21616" lon="10.712625">
+        <ele>596.5</ele>
+        <time>2026-03-22T13:21:05.992000Z</time>
+      </trkpt>
+      <trkpt lat="48.21649" lon="10.71274">
+        <ele>595.9</ele>
+        <time>2026-03-22T13:21:41.289000Z</time>
+      </trkpt>
+      <trkpt lat="48.218764" lon="10.713623">
+        <ele>590</ele>
+        <time>2026-03-22T13:25:48.393000Z</time>
+      </trkpt>
+      <trkpt lat="48.219117" lon="10.713999">
+        <ele>589.3</ele>
+        <time>2026-03-22T13:26:33.268000Z</time>
+      </trkpt>
+      <trkpt lat="48.220705" lon="10.715298">
+        <ele>587</ele>
+        <time>2026-03-22T13:29:38.912000Z</time>
+      </trkpt>
+      <trkpt lat="48.220913" lon="10.715572">
+        <ele>587.1</ele>
+        <time>2026-03-22T13:30:07.002000Z</time>
+      </trkpt>
+      <trkpt lat="48.220988" lon="10.715828">
+        <ele>587.3</ele>
+        <time>2026-03-22T13:30:26.312000Z</time>
+      </trkpt>
+      <trkpt lat="48.220907" lon="10.716043">
+        <ele>587.5</ele>
+        <time>2026-03-22T13:30:43.497000Z</time>
+      </trkpt>
+      <trkpt lat="48.220796" lon="10.716251">
+        <ele>587.7</ele>
+        <time>2026-03-22T13:31:02.138000Z</time>
+      </trkpt>
+      <trkpt lat="48.220328" lon="10.717034">
+        <ele>589</ele>
+        <time>2026-03-22T13:32:16.840000Z</time>
+      </trkpt>
+      <trkpt lat="48.219975" lon="10.717625">
+        <ele>590.5</ele>
+        <time>2026-03-22T13:33:15.041000Z</time>
+      </trkpt>
+      <trkpt lat="48.219733" lon="10.718137">
+        <ele>591.4</ele>
+        <time>2026-03-22T13:33:59.940000Z</time>
+      </trkpt>
+      <trkpt lat="48.219609" lon="10.718484">
+        <ele>591.7</ele>
+        <time>2026-03-22T13:34:27.217000Z</time>
+      </trkpt>
+      <trkpt lat="48.219518" lon="10.718738">
+        <ele>591.7</ele>
+        <time>2026-03-22T13:34:46.753000Z</time>
+      </trkpt>
+      <trkpt lat="48.219193" lon="10.719591">
+        <ele>590.2</ele>
+        <time>2026-03-22T13:35:55.498000Z</time>
+      </trkpt>
+      <trkpt lat="48.218976" lon="10.719869">
+        <ele>588.2</ele>
+        <time>2026-03-22T13:36:28.044000Z</time>
+      </trkpt>
+      <trkpt lat="48.218832" lon="10.720367">
+        <ele>584.7</ele>
+        <time>2026-03-22T13:37:11.195000Z</time>
+      </trkpt>
+      <trkpt lat="48.218805" lon="10.720505">
+        <ele>583.7</ele>
+        <time>2026-03-22T13:37:22.800000Z</time>
+      </trkpt>
+      <trkpt lat="48.218815" lon="10.720817">
+        <ele>581.6</ele>
+        <time>2026-03-22T13:37:47.648000Z</time>
+      </trkpt>
+      <trkpt lat="48.218775" lon="10.721087">
+        <ele>580</ele>
+        <time>2026-03-22T13:38:09.308000Z</time>
+      </trkpt>
+      <trkpt lat="48.218682" lon="10.721268">
+        <ele>578.9</ele>
+        <time>2026-03-22T13:38:26.761000Z</time>
+      </trkpt>
+      <trkpt lat="48.218529" lon="10.721433">
+        <ele>577.9</ele>
+        <time>2026-03-22T13:38:47.647000Z</time>
+      </trkpt>
+      <trkpt lat="48.218371" lon="10.721508">
+        <ele>577.4</ele>
+        <time>2026-03-22T13:39:05.262000Z</time>
+      </trkpt>
+      <trkpt lat="48.218218" lon="10.721521">
+        <ele>577.3</ele>
+        <time>2026-03-22T13:39:20.848000Z</time>
+      </trkpt>
+      <trkpt lat="48.218371" lon="10.721508">
+        <ele>577.4</ele>
+        <time>2026-03-22T13:39:36.633000Z</time>
+      </trkpt>
+      <trkpt lat="48.218529" lon="10.721433">
+        <ele>577.9</ele>
+        <time>2026-03-22T13:39:54.976000Z</time>
+      </trkpt>
+      <trkpt lat="48.218682" lon="10.721268">
+        <ele>578.9</ele>
+        <time>2026-03-22T13:40:17.171000Z</time>
+      </trkpt>
+      <trkpt lat="48.218775" lon="10.721087">
+        <ele>579.8</ele>
+        <time>2026-03-22T13:40:35.679000Z</time>
+      </trkpt>
+      <trkpt lat="48.218815" lon="10.720817">
+        <ele>581.1</ele>
+        <time>2026-03-22T13:40:58.590000Z</time>
+      </trkpt>
+      <trkpt lat="48.218805" lon="10.720505">
+        <ele>582.7</ele>
+        <time>2026-03-22T13:41:24.654000Z</time>
+      </trkpt>
+      <trkpt lat="48.218832" lon="10.720367">
+        <ele>583.4</ele>
+        <time>2026-03-22T13:41:36.680000Z</time>
+      </trkpt>
+      <trkpt lat="48.218976" lon="10.719869">
+        <ele>585.6</ele>
+        <time>2026-03-22T13:42:20.517000Z</time>
+      </trkpt>
+      <trkpt lat="48.219104" lon="10.719919">
+        <ele>586.1</ele>
+        <time>2026-03-22T13:42:35.517000Z</time>
+      </trkpt>
+      <trkpt lat="48.219392" lon="10.720111">
+        <ele>586.5</ele>
+        <time>2026-03-22T13:43:08.492000Z</time>
+      </trkpt>
+      <trkpt lat="48.219655" lon="10.720375">
+        <ele>585.7</ele>
+        <time>2026-03-22T13:43:41.825000Z</time>
+      </trkpt>
+      <trkpt lat="48.220463" lon="10.721307">
+        <ele>580.9</ele>
+        <time>2026-03-22T13:45:33.604000Z</time>
+      </trkpt>
+      <trkpt lat="48.221549" lon="10.722424">
+        <ele>580.4</ele>
+        <time>2026-03-22T13:47:46.219000Z</time>
+      </trkpt>
+      <trkpt lat="48.222991" lon="10.72399">
+        <ele>586.4</ele>
+        <time>2026-03-22T13:51:05.204000Z</time>
+      </trkpt>
+      <trkpt lat="48.223374" lon="10.724561">
+        <ele>588.1</ele>
+        <time>2026-03-22T13:52:05.308000Z</time>
+      </trkpt>
+      <trkpt lat="48.223559" lon="10.725069">
+        <ele>589.2</ele>
+        <time>2026-03-22T13:52:47.680000Z</time>
+      </trkpt>
+      <trkpt lat="48.223827" lon="10.723899">
+        <ele>590.3</ele>
+        <time>2026-03-22T13:54:14.235000Z</time>
+      </trkpt>
+      <trkpt lat="48.223942" lon="10.724108">
+        <ele>590.5</ele>
+        <time>2026-03-22T13:54:32.815000Z</time>
+      </trkpt>
+      <trkpt lat="48.224097" lon="10.724315">
+        <ele>590.6</ele>
+        <time>2026-03-22T13:54:53.964000Z</time>
+      </trkpt>
+      <trkpt lat="48.224286" lon="10.724509">
+        <ele>590.6</ele>
+        <time>2026-03-22T13:55:17.054000Z</time>
+      </trkpt>
+      <trkpt lat="48.224951" lon="10.725077">
+        <ele>590.1</ele>
+        <time>2026-03-22T13:56:34.615000Z</time>
+      </trkpt>
+      <trkpt lat="48.226161" lon="10.72611">
+        <ele>588.9</ele>
+        <time>2026-03-22T13:58:56.506000Z</time>
+      </trkpt>
+      <trkpt lat="48.226425" lon="10.726306">
+        <ele>588.2</ele>
+        <time>2026-03-22T13:59:27.469000Z</time>
+      </trkpt>
+      <trkpt lat="48.226237" lon="10.7248">
+        <ele>583.4</ele>
+        <time>2026-03-22T14:01:19.284000Z</time>
+      </trkpt>
+      <trkpt lat="48.226256" lon="10.724063">
+        <ele>579.8</ele>
+        <time>2026-03-22T14:02:15.691000Z</time>
+      </trkpt>
+      <trkpt lat="48.226211" lon="10.723539">
+        <ele>577.5</ele>
+        <time>2026-03-22T14:02:55.629000Z</time>
+      </trkpt>
+      <trkpt lat="48.226268" lon="10.722988">
+        <ele>575.8</ele>
+        <time>2026-03-22T14:03:36.252000Z</time>
+      </trkpt>
+      <trkpt lat="48.226333" lon="10.722769">
+        <ele>575.3</ele>
+        <time>2026-03-22T14:03:53.173000Z</time>
+      </trkpt>
+      <trkpt lat="48.226386" lon="10.7223">
+        <ele>575</ele>
+        <time>2026-03-22T14:04:25.523000Z</time>
+      </trkpt>
+      <trkpt lat="48.226393" lon="10.722235">
+        <ele>575</ele>
+        <time>2026-03-22T14:04:29.953000Z</time>
+      </trkpt>
+      <trkpt lat="48.226402" lon="10.722088">
+        <ele>575.1</ele>
+        <time>2026-03-22T14:04:40.151000Z</time>
+      </trkpt>
+      <trkpt lat="48.226356" lon="10.720172">
+        <ele>581.8</ele>
+        <time>2026-03-22T14:07:11.011000Z</time>
+      </trkpt>
+      <trkpt lat="48.226351" lon="10.719984">
+        <ele>582.7</ele>
+        <time>2026-03-22T14:07:26.589000Z</time>
+      </trkpt>
+      <trkpt lat="48.226223" lon="10.718154">
+        <ele>588.7</ele>
+        <time>2026-03-22T14:09:50.207000Z</time>
+      </trkpt>
+      <trkpt lat="48.226216" lon="10.718051">
+        <ele>588.9</ele>
+        <time>2026-03-22T14:09:57.890000Z</time>
+      </trkpt>
+      <trkpt lat="48.226039" lon="10.717946">
+        <ele>589.4</ele>
+        <time>2026-03-22T14:10:18.668000Z</time>
+      </trkpt>
+      <trkpt lat="48.226216" lon="10.718051">
+        <ele>589.9</ele>
+        <time>2026-03-22T14:10:39.292000Z</time>
+      </trkpt>
+      <trkpt lat="48.226222" lon="10.717991">
+        <ele>590</ele>
+        <time>2026-03-22T14:10:43.646000Z</time>
+      </trkpt>
+      <trkpt lat="48.225689" lon="10.715576">
+        <ele>592.1</ele>
+        <time>2026-03-22T14:13:40.812000Z</time>
+      </trkpt>
+      <trkpt lat="48.225278" lon="10.713699">
+        <ele>593.3</ele>
+        <time>2026-03-22T14:15:57.044000Z</time>
+      </trkpt>
+      <trkpt lat="48.224578" lon="10.711254">
+        <ele>594.7</ele>
+        <time>2026-03-22T14:18:59.449000Z</time>
+      </trkpt>
+      <trkpt lat="48.224667" lon="10.710739">
+        <ele>594.9</ele>
+        <time>2026-03-22T14:19:35.536000Z</time>
+      </trkpt>
+      <trkpt lat="48.225556" lon="10.705596">
+        <ele>595</ele>
+        <time>2026-03-22T14:25:29.965000Z</time>
+      </trkpt>
+      <trkpt lat="48.22628" lon="10.701409">
+        <ele>595.3</ele>
+        <time>2026-03-22T14:30:19.667000Z</time>
+      </trkpt>
+      <trkpt lat="48.223729" lon="10.700559">
+        <ele>599.4</ele>
+        <time>2026-03-22T14:34:55.739000Z</time>
+      </trkpt>
+      <trkpt lat="48.222931" lon="10.700379">
+        <ele>600</ele>
+        <time>2026-03-22T14:36:18.426000Z</time>
+      </trkpt>
+      <trkpt lat="48.221083" lon="10.700119">
+        <ele>598.1</ele>
+        <time>2026-03-22T14:39:28.156000Z</time>
+      </trkpt>
+      <trkpt lat="48.221207" lon="10.699364">
+        <ele>597.4</ele>
+        <time>2026-03-22T14:40:21.300000Z</time>
+      </trkpt>
+      <trkpt lat="48.218679" lon="10.698378">
+        <ele>597.5</ele>
+        <time>2026-03-22T14:44:42.995000Z</time>
+      </trkpt>
+      <trkpt lat="48.218468" lon="10.699733">
+        <ele>598.9</ele>
+        <time>2026-03-22T14:46:20.600000Z</time>
+      </trkpt>
+      <trkpt lat="48.216839" lon="10.699067">
+        <ele>599.3</ele>
+        <time>2026-03-22T14:49:10.941000Z</time>
+      </trkpt>
+      <trkpt lat="48.215919" lon="10.698691">
+        <ele>598.5</ele>
+        <time>2026-03-22T14:50:47.962000Z</time>
+      </trkpt>
+      <trkpt lat="48.215099" lon="10.703489">
+        <ele>595.1</ele>
+        <time>2026-03-22T14:56:25.251000Z</time>
+      </trkpt>
+      <trkpt lat="48.212553" lon="10.702384">
+        <ele>598.9</ele>
+        <time>2026-03-22T15:01:03.884000Z</time>
+      </trkpt>
+      <trkpt lat="48.21219" lon="10.704375">
+        <ele>598.1</ele>
+        <time>2026-03-22T15:03:23.024000Z</time>
+      </trkpt>
+      <trkpt lat="48.211223" lon="10.703965">
+        <ele>598.5</ele>
+        <time>2026-03-22T15:05:05.134000Z</time>
+      </trkpt>
+      <trkpt lat="48.211097" lon="10.70384">
+        <ele>598.8</ele>
+        <time>2026-03-22T15:05:21.195000Z</time>
+      </trkpt>
+      <trkpt lat="48.21061" lon="10.702842">
+        <ele>601.1</ele>
+        <time>2026-03-22T15:06:51.780000Z</time>
+      </trkpt>
+      <trkpt lat="48.209965" lon="10.701969">
+        <ele>603.5</ele>
+        <time>2026-03-22T15:08:26.967000Z</time>
+      </trkpt>
+      <trkpt lat="48.209898" lon="10.701824">
+        <ele>603.6</ele>
+        <time>2026-03-22T15:08:39.359000Z</time>
+      </trkpt>
+      <trkpt lat="48.207721" lon="10.698979">
+        <ele>602.8</ele>
+        <time>2026-03-22T15:13:29.904000Z</time>
+      </trkpt>
+      <trkpt lat="48.207808" lon="10.69649">
+        <ele>600.5</ele>
+        <time>2026-03-22T15:16:20.948000Z</time>
+      </trkpt>
+      <trkpt lat="48.207835" lon="10.693973">
+        <ele>598.7</ele>
+        <time>2026-03-22T15:19:12.637000Z</time>
+      </trkpt>
+      <trkpt lat="48.207714" lon="10.693238">
+        <ele>598.4</ele>
+        <time>2026-03-22T15:20:03.599000Z</time>
+      </trkpt>
+      <trkpt lat="48.207615" lon="10.692859">
+        <ele>598.4</ele>
+        <time>2026-03-22T15:20:30.846000Z</time>
+      </trkpt>
+      <trkpt lat="48.20752" lon="10.692629">
+        <ele>598.4</ele>
+        <time>2026-03-22T15:20:48.922000Z</time>
+      </trkpt>
+      <trkpt lat="48.207482" lon="10.692528">
+        <ele>598.4</ele>
+        <time>2026-03-22T15:20:56.653000Z</time>
+      </trkpt>
+      <trkpt lat="48.207121" lon="10.692753">
+        <ele>598.5</ele>
+        <time>2026-03-22T15:21:36.101000Z</time>
+      </trkpt>
+      <trkpt lat="48.205926" lon="10.69327">
+        <ele>598.9</ele>
+        <time>2026-03-22T15:23:41.945000Z</time>
+      </trkpt>
+      <trkpt lat="48.204803" lon="10.693799">
+        <ele>599.2</ele>
+        <time>2026-03-22T15:25:40.722000Z</time>
+      </trkpt>
+      <trkpt lat="48.204691" lon="10.693914">
+        <ele>599.2</ele>
+        <time>2026-03-22T15:25:54.401000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
