@@ -35,6 +35,7 @@ jobs:
           rm -f credentials.json
           komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
           rm -f credentials.json
+          cp index.html gpx/index.html
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
