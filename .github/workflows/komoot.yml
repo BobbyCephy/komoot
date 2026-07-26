@@ -39,6 +39,63 @@ jobs:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
 
+      - name: Generate index.html
+        run: |
+          python3 - <<'EOF'
+          import os, html, re
+
+          gpx_dir = 'gpx'
+          files = sorted(
+              f for f in os.listdir(gpx_dir)
+              if f.lower().endswith('.gpx')
+          )
+
+          def display_name(filename):
+              base = re.sub(r'\.gpx$', '', filename, flags=re.IGNORECASE)
+              m = re.match(r'^(.+)-\d+$', base)
+              return m.group(1) if m else base
+
+          items = ''.join(
+              f'<li><a href="{html.escape(f)}" download="{html.escape(f)}">'
+              f'{html.escape(display_name(f))}</a></li>\n'
+              for f in files
+          )
+
+          page = f"""<!DOCTYPE html>
+          <html lang="de">
+          <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>Komoot GPX Routes</title>
+            <style>
+              body {{
+                font-family: system-ui, sans-serif;
+                max-width: 900px;
+                margin: 2rem auto;
+                padding: 0 1rem;
+                color: #333;
+              }}
+              h1 {{ color: #2c6e49; }}
+              p.count {{ color: #666; font-size: 0.9rem; }}
+              ul {{ list-style: none; padding: 0; }}
+              li {{ border-bottom: 1px solid #eee; padding: 0.4rem 0; }}
+              a {{ color: #2c6e49; text-decoration: none; }}
+              a:hover {{ text-decoration: underline; }}
+            </style>
+          </head>
+          <body>
+            <h1>Komoot GPX Routes</h1>
+            <p class="count">{len(files)} routes available for download</p>
+            <ul>
+          {items}  </ul>
+          </body>
+          </html>
+          """
+
+          with open(os.path.join(gpx_dir, 'index.html'), 'w', encoding='utf-8') as fh:
+              fh.write(page)
+          EOF
+
       - name: Upload GPX files as artifact
         uses: actions/upload-artifact@v4
         with:
