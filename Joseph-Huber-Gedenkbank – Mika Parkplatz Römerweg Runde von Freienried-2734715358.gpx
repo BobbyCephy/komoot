@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Joseph-Huber-Gedenkbank – Mika Parkplatz Römerweg Runde von Freienried</name>
+    <desc>Distance: 3.484km, Estimated duration: 0.92h, Elevation up: 30.45123955851767m, Elevation down: 28.189058978024548m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2734715358">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.33154" lon="11.147127">
+    <name>Parking</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="48.327873" lon="11.164157">
+    <ele>576</ele>
+    <name>Joseph Huber Memorial Bench</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/a2/a29eru4slk2p1kxlbj9drn6rt3ee1o7qq-uhi14701861/0</cmt>
+    <desc>Michael (Wasi): An dieser Wegkreuzung kann man sich direkt niederlassen und pausieren. Natürlich ist es auch möglich kurz inne zu halten und an Joseph Huber zu gedenken, der hier 1907 durch ein Unglück den Tod gefunden hat. Eine neben der Bankstehende Gedenktafel erinnert daran.
+――――――――――
+Aussie-Sherpa: Ruhiges Bankerl im Wald, schon etwas eingewachsen, passt aber zum sehr ursprünglichen Wald rundrum</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1532193">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.331187" lon="11.15808">
+    <ele>572.4</ele>
+    <name>Hunting Tower in the Forest</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/u8/u8zwox61lsrs7jpb9pg2myb94zcwhqux-uhi72398481/0</cmt>
+    <desc>Michael (Wasi): Der Hochsitz befindet sich direkt an einer Wegkreuzung mitten im Wald und theoretisch offen zugänglich.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6627287">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.333667" lon="11.153695">
+    <ele>570</ele>
+    <name>Tree Kraken Sculptures at the Crossroads</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k6/2m/2mmg1fn28c2431qwyy7ub12p41vlw3pn-uhi46162413/0</cmt>
+    <desc>Michael (Wasi): Die Baumkraken an der Wegkreuzung sind wirklich eine gute Idee und schön anzusehen. Sie lockern den ganzen Platz schön auf.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4073638">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.3316" lon="11.14709">
+    <ele>600.7</ele>
+    <name>Mika Parking Lot Römerweg</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/q2/q2yt9qhv1zfwaqw3tz6uhaoh3rvwr9av-uhi33509191/0</cmt>
+    <desc>Carsten (📍FFB): Und das umsonst.
+Schöne Wege im Wald.
+――――――――――
+Aussie-Sherpa: Toller Ausgangspunkt für Hunde-Wanderungen in alle Himmelsrichtungen. Jetzt endlich auch mit Doggie-Station. Ab Mittag allerdings stehen die Autos in der Sonne.
+――――――――――
+Robert: mmmh</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/3247675">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Joseph-Huber-Gedenkbank – Mika Parkplatz Römerweg Runde von Freienried</name>
+    <desc>Distance: 3.484km, Estimated duration: 0.92h, Elevation up: 30.45123955851767m, Elevation down: 28.189058978024548m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/2734715358">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.331497" lon="11.147027">
+        <ele>526.6</ele>
+        <time>2025-12-31T12:59:42.207000Z</time>
+      </trkpt>
+      <trkpt lat="48.331219" lon="11.147259">
+        <ele>525.8</ele>
+        <time>2025-12-31T13:00:15.740000Z</time>
+      </trkpt>
+      <trkpt lat="48.329937" lon="11.147103">
+        <ele>521.2</ele>
+        <time>2025-12-31T13:02:33.768000Z</time>
+      </trkpt>
+      <trkpt lat="48.328104" lon="11.147914">
+        <ele>515.9</ele>
+        <time>2025-12-31T13:05:56.003000Z</time>
+      </trkpt>
+      <trkpt lat="48.327669" lon="11.148157">
+        <ele>514.6</ele>
+        <time>2025-12-31T13:06:45.087000Z</time>
+      </trkpt>
+      <trkpt lat="48.327" lon="11.148632">
+        <ele>512.8</ele>
+        <time>2025-12-31T13:08:02.905000Z</time>
+      </trkpt>
+      <trkpt lat="48.326567" lon="11.149282">
+        <ele>512.1</ele>
+        <time>2025-12-31T13:09:05.444000Z</time>
+      </trkpt>
+      <trkpt lat="48.326496" lon="11.149492">
+        <ele>512.2</ele>
+        <time>2025-12-31T13:09:21.421000Z</time>
+      </trkpt>
+      <trkpt lat="48.326508" lon="11.150121">
+        <ele>512.9</ele>
+        <time>2025-12-31T13:10:05.813000Z</time>
+      </trkpt>
+      <trkpt lat="48.326616" lon="11.1517">
+        <ele>515.1</ele>
+        <time>2025-12-31T13:11:59.078000Z</time>
+      </trkpt>
+      <trkpt lat="48.326498" lon="11.154827">
+        <ele>514.7</ele>
+        <time>2025-12-31T13:15:28.309000Z</time>
+      </trkpt>
+      <trkpt lat="48.326498" lon="11.15528">
+        <ele>514.5</ele>
+        <time>2025-12-31T13:15:58.967000Z</time>
+      </trkpt>
+      <trkpt lat="48.32658" lon="11.158683">
+        <ele>511.1</ele>
+        <time>2025-12-31T13:19:52.517000Z</time>
+      </trkpt>
+      <trkpt lat="48.32641" lon="11.160194">
+        <ele>511.1</ele>
+        <time>2025-12-31T13:21:34.511000Z</time>
+      </trkpt>
+      <trkpt lat="48.326328" lon="11.161863">
+        <ele>512.7</ele>
+        <time>2025-12-31T13:23:31.443000Z</time>
+      </trkpt>
+      <trkpt lat="48.326224" lon="11.163415">
+        <ele>515.5</ele>
+        <time>2025-12-31T13:25:25.174000Z</time>
+      </trkpt>
+      <trkpt lat="48.326874" lon="11.163204">
+        <ele>518.4</ele>
+        <time>2025-12-31T13:26:41.940000Z</time>
+      </trkpt>
+      <trkpt lat="48.32701" lon="11.163204">
+        <ele>519.1</ele>
+        <time>2025-12-31T13:26:58.073000Z</time>
+      </trkpt>
+      <trkpt lat="48.327177" lon="11.163204">
+        <ele>520</ele>
+        <time>2025-12-31T13:27:17.853000Z</time>
+      </trkpt>
+      <trkpt lat="48.327332" lon="11.163283">
+        <ele>520.9</ele>
+        <time>2025-12-31T13:27:37.228000Z</time>
+      </trkpt>
+      <trkpt lat="48.327522" lon="11.163499">
+        <ele>522</ele>
+        <time>2025-12-31T13:28:04.967000Z</time>
+      </trkpt>
+      <trkpt lat="48.327815" lon="11.164137">
+        <ele>523.7</ele>
+        <time>2025-12-31T13:29:02.644000Z</time>
+      </trkpt>
+      <trkpt lat="48.327862" lon="11.164183">
+        <ele>523.9</ele>
+        <time>2025-12-31T13:29:08.643000Z</time>
+      </trkpt>
+      <trkpt lat="48.32792" lon="11.164241">
+        <ele>524</ele>
+        <time>2025-12-31T13:29:16.109000Z</time>
+      </trkpt>
+      <trkpt lat="48.327968" lon="11.164162">
+        <ele>524.1</ele>
+        <time>2025-12-31T13:29:23.655000Z</time>
+      </trkpt>
+      <trkpt lat="48.329675" lon="11.159516">
+        <ele>518.9</ele>
+        <time>2025-12-31T13:35:27.747000Z</time>
+      </trkpt>
+      <trkpt lat="48.329771" lon="11.159392">
+        <ele>518.7</ele>
+        <time>2025-12-31T13:35:40.755000Z</time>
+      </trkpt>
+      <trkpt lat="48.330019" lon="11.159187">
+        <ele>518.3</ele>
+        <time>2025-12-31T13:36:09.909000Z</time>
+      </trkpt>
+      <trkpt lat="48.330582" lon="11.158865">
+        <ele>518.3</ele>
+        <time>2025-12-31T13:37:10.312000Z</time>
+      </trkpt>
+      <trkpt lat="48.331024" lon="11.158524">
+        <ele>519.1</ele>
+        <time>2025-12-31T13:38:02.835000Z</time>
+      </trkpt>
+      <trkpt lat="48.331109" lon="11.158162">
+        <ele>519.7</ele>
+        <time>2025-12-31T13:38:30.529000Z</time>
+      </trkpt>
+      <trkpt lat="48.331172" lon="11.158059">
+        <ele>519.9</ele>
+        <time>2025-12-31T13:38:40.736000Z</time>
+      </trkpt>
+      <trkpt lat="48.331343" lon="11.157777">
+        <ele>520.7</ele>
+        <time>2025-12-31T13:39:08.893000Z</time>
+      </trkpt>
+      <trkpt lat="48.332265" lon="11.156645">
+        <ele>524.7</ele>
+        <time>2025-12-31T13:41:22.035000Z</time>
+      </trkpt>
+      <trkpt lat="48.33275" lon="11.155892">
+        <ele>526.2</ele>
+        <time>2025-12-31T13:42:36.871000Z</time>
+      </trkpt>
+      <trkpt lat="48.333176" lon="11.154949">
+        <ele>527.5</ele>
+        <time>2025-12-31T13:43:57.325000Z</time>
+      </trkpt>
+      <trkpt lat="48.333478" lon="11.154174">
+        <ele>528.8</ele>
+        <time>2025-12-31T13:45:01.800000Z</time>
+      </trkpt>
+      <trkpt lat="48.333644" lon="11.153678">
+        <ele>529.8</ele>
+        <time>2025-12-31T13:45:42.421000Z</time>
+      </trkpt>
+      <trkpt lat="48.333672" lon="11.153596">
+        <ele>530</ele>
+        <time>2025-12-31T13:45:49.169000Z</time>
+      </trkpt>
+      <trkpt lat="48.33369" lon="11.153543">
+        <ele>530.1</ele>
+        <time>2025-12-31T13:45:53.506000Z</time>
+      </trkpt>
+      <trkpt lat="48.333574" lon="11.152292">
+        <ele>532.3</ele>
+        <time>2025-12-31T13:47:25.201000Z</time>
+      </trkpt>
+      <trkpt lat="48.333193" lon="11.150757">
+        <ele>532.7</ele>
+        <time>2025-12-31T13:49:15.873000Z</time>
+      </trkpt>
+      <trkpt lat="48.332881" lon="11.149245">
+        <ele>531.4</ele>
+        <time>2025-12-31T13:51:04Z</time>
+      </trkpt>
+      <trkpt lat="48.332401" lon="11.14852">
+        <ele>530.5</ele>
+        <time>2025-12-31T13:52:13.892000Z</time>
+      </trkpt>
+      <trkpt lat="48.33234" lon="11.148427">
+        <ele>530.4</ele>
+        <time>2025-12-31T13:52:22.801000Z</time>
+      </trkpt>
+      <trkpt lat="48.332241" lon="11.148176">
+        <ele>530.2</ele>
+        <time>2025-12-31T13:52:42.660000Z</time>
+      </trkpt>
+      <trkpt lat="48.332092" lon="11.147618">
+        <ele>529.8</ele>
+        <time>2025-12-31T13:53:23.595000Z</time>
+      </trkpt>
+      <trkpt lat="48.331982" lon="11.147557">
+        <ele>529.6</ele>
+        <time>2025-12-31T13:53:35.604000Z</time>
+      </trkpt>
+      <trkpt lat="48.331819" lon="11.147392">
+        <ele>529.4</ele>
+        <time>2025-12-31T13:53:55.696000Z</time>
+      </trkpt>
+      <trkpt lat="48.331661" lon="11.147156">
+        <ele>529.2</ele>
+        <time>2025-12-31T13:54:18.536000Z</time>
+      </trkpt>
+      <trkpt lat="48.331619" lon="11.147069">
+        <ele>529.1</ele>
+        <time>2025-12-31T13:54:25.868000Z</time>
+      </trkpt>
+      <trkpt lat="48.33157" lon="11.146967">
+        <ele>529</ele>
+        <time>2025-12-31T13:54:34.472000Z</time>
+      </trkpt>
+      <trkpt lat="48.331497" lon="11.147027">
+        <ele>528.9</ele>
+        <time>2025-12-31T13:54:43.048000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
