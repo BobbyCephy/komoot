@@ -1,61 +1,53 @@
-<!DOCTYPE html>
-<html lang="de">
+<!doctype html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Komoot GPX Routes</title>
-  <style>
-    body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; color: #333; }
-    h1 { color: #2c6e49; }
-    p.count { color: #666; font-size: 0.9rem; }
-    ul { list-style: none; padding: 0; }
-    li { border-bottom: 1px solid #eee; padding: 0.4rem 0; }
-    a { color: #2c6e49; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    #status { color: #888; font-style: italic; }
-  </style>
+  <meta charset="utf-8">
+  <title>GPX files</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h1>Komoot GPX Routes</h1>
-  <p id="status">Loading routes…</p>
-  <ul id="route-list"></ul>
+  <h1>GPX files</h1>
+  <ul id="files">Loading…</ul>
 
   <script>
-    // Update REPO if you fork or rename this repository.
-    var REPO = 'BobbyCephy/komoot';
-    fetch('https://api.github.com/repos/' + REPO + '/contents/?ref=gh-pages', {
-      headers: { Accept: 'application/vnd.github+json' }
-    })
-      .then(function (r) {
-        if (r.status === 403 || r.status === 429) throw new Error('Rate limit exceeded -- try again later.');
-        if (!r.ok) throw new Error('GitHub API returned ' + r.status);
-        return r.json();
+    const owner = "BobbyCephy";
+    const repo = "komoot";
+    const branch = "gh-pages";
+
+    fetch(`https://api.github.com/repos/${owner}/${repo}/contents?ref=${branch}`)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`GitHub API returned ${response.status}`);
+        }
+
+        return response.json();
       })
-      .then(function (entries) {
-        var files = entries
-          .filter(function (e) { return e.type === 'file' && /\.gpx$/i.test(e.name); })
-          .sort(function (a, b) { return a.name.localeCompare(b.name); });
+      .then(files => {
+        const gpxFiles = files
+          .filter(file => file.type === "file" && file.name.toLowerCase().endsWith(".gpx"))
+          .sort((a, b) => a.name.localeCompare(b.name));
 
-        var status = document.getElementById('status');
-        if (!files.length) { status.textContent = 'No GPX routes found.'; return; }
+        const list = document.getElementById("files");
+        list.innerHTML = "";
 
-        var list = document.getElementById('route-list');
-        files.forEach(function (f) {
-          var li = document.createElement('li');
-          var a  = document.createElement('a');
-          a.href     = f.name;
-          a.download = f.name;
-          // Strip Komoot's numeric route ID suffix for a cleaner display name.
-          a.textContent = f.name.replace(/-\d+\.gpx$/i, '');
-          li.appendChild(a);
-          list.appendChild(li);
-        });
+        for (const file of gpxFiles) {
+          const item = document.createElement("li");
+          const link = document.createElement("a");
 
-        status.className   = 'count';
-        status.textContent = files.length + ' routes available for download';
+          link.href = encodeURIComponent(file.name);
+          link.textContent = file.name;
+
+          item.appendChild(link);
+          list.appendChild(item);
+        }
+
+        if (gpxFiles.length === 0) {
+          list.textContent = "No GPX files found.";
+        }
       })
-      .catch(function (err) {
-        document.getElementById('status').textContent = 'Failed to load route list: ' + err.message;
+      .catch(error => {
+        document.getElementById("files").textContent = "Could not load GPX files.";
+        console.error(error);
       });
   </script>
 </body>
