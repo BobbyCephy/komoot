@@ -18,7 +18,7 @@
                     .filter(f => f.name.endsWith(".gpx"))
                     .sort((a, b) => a.name.localeCompare(b.name))
                     .forEach(f => {
-                      list.innerHTML += `<a href="${f.name}">${f.name}</a>`;
+                      list.innerHTML += `<li><a href="${f.name}">${f.name}</a></li>`;
                     });
           });
 </script>
