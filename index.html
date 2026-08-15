@@ -3,52 +3,24 @@
 <head>
   <meta charset="utf-8">
   <title>GPX files</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h1>GPX files</h1>
-  <ul id="files">Loading…</ul>
+<h1>GPX files</h1>
+<ul id="files"></ul>
 
-  <script>
-    const owner = "BobbyCephy";
-    const repo = "komoot";
-    const branch = "gh-pages";
+<script>
+  fetch("https://api.github.com/repos/BobbyCephy/komoot/contents?ref=gh-pages")
+          .then(r => r.json())
+          .then(files => {
+            const list = document.getElementById("files");
 
-    fetch(`https://api.github.com/repos/${owner}/${repo}/contents?ref=${branch}`)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`GitHub API returned ${response.status}`);
-        }
-
-        return response.json();
-      })
-      .then(files => {
-        const gpxFiles = files
-          .filter(file => file.type === "file" && file.name.toLowerCase().endsWith(".gpx"))
-          .sort((a, b) => a.name.localeCompare(b.name));
-
-        const list = document.getElementById("files");
-        list.innerHTML = "";
-
-        for (const file of gpxFiles) {
-          const item = document.createElement("li");
-          const link = document.createElement("a");
-
-          link.href = `./${encodeURIComponent(file.name)}`;
-          link.textContent = file.name;
-
-          item.appendChild(link);
-          list.appendChild(item);
-        }
-
-        if (gpxFiles.length === 0) {
-          list.textContent = "No GPX files found.";
-        }
-      })
-      .catch(error => {
-        document.getElementById("files").textContent = "Could not load GPX files.";
-        console.error(error);
-      });
-  </script>
+            files
+                    .filter(f => f.name.endsWith(".gpx"))
+                    .sort((a, b) => a.name.localeCompare(b.name))
+                    .forEach(f => {
+                      list.innerHTML += `<li><a href="${f.name}">${f.name}</a></li>`;
+                    });
+          });
+</script>
 </body>
 </html>
