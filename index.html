@@ -34,7 +34,7 @@
           const item = document.createElement("li");
           const link = document.createElement("a");
 
-          link.href = file.download_url || encodeURIComponent(file.name);
+          link.href = `./${encodeURIComponent(file.name)}`;
           link.textContent = file.name;
 
           item.appendChild(link);
