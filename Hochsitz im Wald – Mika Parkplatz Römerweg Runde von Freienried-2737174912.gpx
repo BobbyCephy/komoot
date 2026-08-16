@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Hochsitz im Wald – Mika Parkplatz Römerweg Runde von Freienried</name>
+    <desc>Distance: 2.633km, Estimated duration: 0.69h, Elevation up: 22.97982597091425m, Elevation down: 20.717645390421126m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/2737174912">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="48.33154" lon="11.147127">
+    <name>Parking</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="48.331187" lon="11.15808">
+    <ele>572.4</ele>
+    <name>Hunting Tower in the Forest</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/u8/u8zwox61lsrs7jpb9pg2myb94zcwhqux-uhi72398481/0</cmt>
+    <desc>Michael (Wasi): Der Hochsitz befindet sich direkt an einer Wegkreuzung mitten im Wald und theoretisch offen zugänglich.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6627287">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.333667" lon="11.153695">
+    <ele>570</ele>
+    <name>Tree Kraken Sculptures at the Crossroads</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k6/2m/2mmg1fn28c2431qwyy7ub12p41vlw3pn-uhi46162413/0</cmt>
+    <desc>Michael (Wasi): Die Baumkraken an der Wegkreuzung sind wirklich eine gute Idee und schön anzusehen. Sie lockern den ganzen Platz schön auf.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4073638">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="48.3316" lon="11.14709">
+    <ele>600.7</ele>
+    <name>Mika Parking Lot Römerweg</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/q2/q2yt9qhv1zfwaqw3tz6uhaoh3rvwr9av-uhi33509191/0</cmt>
+    <desc>Carsten (📍FFB): Und das umsonst.
+Schöne Wege im Wald.
+――――――――――
+Aussie-Sherpa: Toller Ausgangspunkt für Hunde-Wanderungen in alle Himmelsrichtungen. Jetzt endlich auch mit Doggie-Station. Ab Mittag allerdings stehen die Autos in der Sonne.
+――――――――――
+Robert: mmmh</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/3247675">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Hochsitz im Wald – Mika Parkplatz Römerweg Runde von Freienried</name>
+    <desc>Distance: 2.633km, Estimated duration: 0.69h, Elevation up: 22.97982597091425m, Elevation down: 20.717645390421126m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/2737174912">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="48.331497" lon="11.147027">
+        <ele>526.6</ele>
+        <time>2026-01-02T13:08:28.936000Z</time>
+      </trkpt>
+      <trkpt lat="48.331219" lon="11.147259">
+        <ele>525.8</ele>
+        <time>2026-01-02T13:09:02.469000Z</time>
+      </trkpt>
+      <trkpt lat="48.329937" lon="11.147103">
+        <ele>521.2</ele>
+        <time>2026-01-02T13:11:20.497000Z</time>
+      </trkpt>
+      <trkpt lat="48.328104" lon="11.147914">
+        <ele>515.9</ele>
+        <time>2026-01-02T13:14:42.732000Z</time>
+      </trkpt>
+      <trkpt lat="48.327669" lon="11.148157">
+        <ele>514.6</ele>
+        <time>2026-01-02T13:15:31.816000Z</time>
+      </trkpt>
+      <trkpt lat="48.327" lon="11.148632">
+        <ele>512.8</ele>
+        <time>2026-01-02T13:16:49.634000Z</time>
+      </trkpt>
+      <trkpt lat="48.326567" lon="11.149282">
+        <ele>512.1</ele>
+        <time>2026-01-02T13:17:52.173000Z</time>
+      </trkpt>
+      <trkpt lat="48.326496" lon="11.149492">
+        <ele>512.2</ele>
+        <time>2026-01-02T13:18:08.150000Z</time>
+      </trkpt>
+      <trkpt lat="48.326508" lon="11.150121">
+        <ele>512.9</ele>
+        <time>2026-01-02T13:18:52.542000Z</time>
+      </trkpt>
+      <trkpt lat="48.326616" lon="11.1517">
+        <ele>515.1</ele>
+        <time>2026-01-02T13:20:45.807000Z</time>
+      </trkpt>
+      <trkpt lat="48.326498" lon="11.154827">
+        <ele>515.3</ele>
+        <time>2026-01-02T13:24:15.027000Z</time>
+      </trkpt>
+      <trkpt lat="48.326498" lon="11.15528">
+        <ele>515.6</ele>
+        <time>2026-01-02T13:24:46.299000Z</time>
+      </trkpt>
+      <trkpt lat="48.327023" lon="11.156054">
+        <ele>517.5</ele>
+        <time>2026-01-02T13:26:06.381000Z</time>
+      </trkpt>
+      <trkpt lat="48.32732" lon="11.15639">
+        <ele>518.9</ele>
+        <time>2026-01-02T13:26:48.402000Z</time>
+      </trkpt>
+      <trkpt lat="48.327465" lon="11.156553">
+        <ele>519.5</ele>
+        <time>2026-01-02T13:27:08.706000Z</time>
+      </trkpt>
+      <trkpt lat="48.327627" lon="11.156697">
+        <ele>520.2</ele>
+        <time>2026-01-02T13:27:30.049000Z</time>
+      </trkpt>
+      <trkpt lat="48.328696" lon="11.157644">
+        <ele>523.6</ele>
+        <time>2026-01-02T13:29:46.061000Z</time>
+      </trkpt>
+      <trkpt lat="48.329398" lon="11.157848">
+        <ele>523.4</ele>
+        <time>2026-01-02T13:30:57.945000Z</time>
+      </trkpt>
+      <trkpt lat="48.330197" lon="11.158017">
+        <ele>521.7</ele>
+        <time>2026-01-02T13:32:22.156000Z</time>
+      </trkpt>
+      <trkpt lat="48.330855" lon="11.158078">
+        <ele>521.2</ele>
+        <time>2026-01-02T13:33:29.245000Z</time>
+      </trkpt>
+      <trkpt lat="48.331109" lon="11.158162">
+        <ele>521.3</ele>
+        <time>2026-01-02T13:33:55.604000Z</time>
+      </trkpt>
+      <trkpt lat="48.331172" lon="11.158059">
+        <ele>521.4</ele>
+        <time>2026-01-02T13:34:05.252000Z</time>
+      </trkpt>
+      <trkpt lat="48.331343" lon="11.157777">
+        <ele>521.7</ele>
+        <time>2026-01-02T13:34:31.862000Z</time>
+      </trkpt>
+      <trkpt lat="48.332265" lon="11.156645">
+        <ele>524.7</ele>
+        <time>2026-01-02T13:36:41.634000Z</time>
+      </trkpt>
+      <trkpt lat="48.33275" lon="11.155892">
+        <ele>526.2</ele>
+        <time>2026-01-02T13:37:56.470000Z</time>
+      </trkpt>
+      <trkpt lat="48.333176" lon="11.154949">
+        <ele>527.5</ele>
+        <time>2026-01-02T13:39:16.924000Z</time>
+      </trkpt>
+      <trkpt lat="48.333478" lon="11.154174">
+        <ele>528.8</ele>
+        <time>2026-01-02T13:40:21.399000Z</time>
+      </trkpt>
+      <trkpt lat="48.333644" lon="11.153678">
+        <ele>529.8</ele>
+        <time>2026-01-02T13:41:02.019000Z</time>
+      </trkpt>
+      <trkpt lat="48.333672" lon="11.153596">
+        <ele>530</ele>
+        <time>2026-01-02T13:41:08.767000Z</time>
+      </trkpt>
+      <trkpt lat="48.33369" lon="11.153543">
+        <ele>530.1</ele>
+        <time>2026-01-02T13:41:13.105000Z</time>
+      </trkpt>
+      <trkpt lat="48.333574" lon="11.152292">
+        <ele>532.3</ele>
+        <time>2026-01-02T13:42:44.800000Z</time>
+      </trkpt>
+      <trkpt lat="48.333193" lon="11.150757">
+        <ele>532.7</ele>
+        <time>2026-01-02T13:44:35.472000Z</time>
+      </trkpt>
+      <trkpt lat="48.332881" lon="11.149245">
+        <ele>531.4</ele>
+        <time>2026-01-02T13:46:23.599000Z</time>
+      </trkpt>
+      <trkpt lat="48.332401" lon="11.14852">
+        <ele>530.5</ele>
+        <time>2026-01-02T13:47:33.491000Z</time>
+      </trkpt>
+      <trkpt lat="48.33234" lon="11.148427">
+        <ele>530.4</ele>
+        <time>2026-01-02T13:47:42.399000Z</time>
+      </trkpt>
+      <trkpt lat="48.332241" lon="11.148176">
+        <ele>530.2</ele>
+        <time>2026-01-02T13:48:02.258000Z</time>
+      </trkpt>
+      <trkpt lat="48.332092" lon="11.147618">
+        <ele>529.8</ele>
+        <time>2026-01-02T13:48:43.193000Z</time>
+      </trkpt>
+      <trkpt lat="48.331982" lon="11.147557">
+        <ele>529.6</ele>
+        <time>2026-01-02T13:48:55.203000Z</time>
+      </trkpt>
+      <trkpt lat="48.331819" lon="11.147392">
+        <ele>529.4</ele>
+        <time>2026-01-02T13:49:15.295000Z</time>
+      </trkpt>
+      <trkpt lat="48.331661" lon="11.147156">
+        <ele>529.2</ele>
+        <time>2026-01-02T13:49:38.134000Z</time>
+      </trkpt>
+      <trkpt lat="48.331619" lon="11.147069">
+        <ele>529.1</ele>
+        <time>2026-01-02T13:49:45.466000Z</time>
+      </trkpt>
+      <trkpt lat="48.33157" lon="11.146967">
+        <ele>529</ele>
+        <time>2026-01-02T13:49:54.071000Z</time>
+      </trkpt>
+      <trkpt lat="48.331497" lon="11.147027">
+        <ele>528.9</ele>
+        <time>2026-01-02T13:50:02.647000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
