@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Baggersee Gauchsdorf-Bechhofen – Baggersee Gauchsdorf-Bechhofen Runde von Büchenbach</name>
+    <desc>Distance: 4.483km, Estimated duration: 1.17h, Elevation up: 30.334759322117918m, Elevation down: 30.334759322118032m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/3223725075">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="49.264376" lon="11.005457">
+    <name>Gauchsdorf</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="49.264554" lon="11.004941">
+    <ele>395.1</ele>
+    <name>Duck Farm in Middle Franconia</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/1b/1b3dumtc59qbs17fk6e5kfjxlj3x5zee37-uhi42024129/0</cmt>
+    <desc>Darkman: Sehr schöne ruhige Gegend perfekt zum Radeln.
+――――――――――
+FelixX: Was für ein Hühnerhaufen :-)</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/3821979">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.264662" lon="11.004291">
+    <ele>414.4</ele>
+    <name>Free-range eggs from the Lehner family</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/1e/1eoglilbcryfd1iytdpuv5zykq3d8ysvna-uhi12846359/0</cmt>
+    <desc>Cathrin: Bei Familie Lehner
+――――――――――
+Cathrin: Freitags gibt's auch mehr vom Huhn, siehe Bilder</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1360737">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.264655" lon="11.002646">
+    <ele>350.6</ele>
+    <name>Old saw gate on the Aurach</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k2/1q/1qgxk2ucd3l9x197un970kmmt92omtylak-uhi3540270/0</cmt>
+    <desc>Red Renard 🦊: und mit Kindern auf den Spielplatz nach Bechhofen! Picknick nicht vergessen!
+――――――――――
+Fastcat: Schöner Platz mit Bänke direkt an der Aurach.Ein altes Sägegatter gibt es auch zu bestaunen.
+――――――――――
+Fastcat: Schöner Rastplatz mit Bänke,direkt an der idyllischen Aurach gelegen.Zum Bestaunen gibt es dort auch ein altes Sägegatter.
+――――――――――
+Heinrich Heck: Super singltrails an der Aurach entlang.
+――――――――――
+Fastcat: Der Platz ist direkt an der Aurach.Es gibt ein altes Sägegatter zu bestaunen,ein paar Bänke unter schattigen Linden die zu einer Rast einladen.Und eine kleine Furth zum durchqueren gibt es auch.
+――――――――――
+Da Steff 🚵💥: Super singltrails an der Aurach entlang.
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Ein altes Sägegatter wird gezeigt  und ein paar Bänke laden zum Verweilen an der lieblichen Aurach ein. Verschiedene Wanderwege sind in der Nähe vorhanden.
+――――――――――
+Manfred: Das Highlight zu Beginn der Wanderung entlang dem Baggersee ist aus Naturschutzgründen ab 01.03 des Jahres gesperrt! (Betreten verboten).
+――――――――――
+Chris 🚴🏼: An der Aurach entlang gelegen mit tollen Trails
+――――――――――
+Ralf F. ⛰️🏔️: Historisch, sehenswerte urfränkische Handwerkshilfe
+――――――――――
+Heinrich Heck: Schöner Rastplatz mit Bänke,direkt an der idyllischen Aurach gelegen.Zum Bestaunen gibt es dort auch ein altes Sägegatter.
+――――――――――
+Chris 🚴🏼: Hier sind schöne Waldpfade und Trails
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Ein altes Sägegatter ist aus musealen Gründen hier ohne Umstände zu betrachten. Schön gemacht
+――――――――――
+Triple P: Schönes Schaustück eines alten Sägegatters
+――――――――――
+Rolf: Aktuell ist das "Alte Sägegatter" eingezäunt.
+――――――――――
+Martin Heyde: Altes Sägewerk in Gauchsdorf. Immer wieder schön anzusehen... Hier lag liegt noch ein Geocache
+――――――――――
+Darkman: Sehr schöne ruhige Ecke hier.
+――――――――――
+Darkman: Sehr schöne ruhige Gegend perfekt zum Radeln.
+――――――――――
+Udo  🐬: Eine Gattersäge ist eine zum Rundholzaufschnitt oder für Naturwerkstein-Rohblöcke verwendete Maschine in einem Sägewerk, die durch ein Schwungrad meist über einen Flachriemen angetrieben wird.
+
+Das Schwungrad bewegt durch Stelzen (entspricht etwa einer Pleuelstange) einen an Führungen geleiteten oder an Schwingen hängenden Rahmen auf und ab, im Normalfall mit rund 270 bis 320 Hüben pro Minute, bei modernen Maschinen mit bis zu 450 Hüben. In diesem Gatterrahmen sind ein oder mehrere Sägeblätter eingespannt, deren Abstand zueinander verstellbar ist.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/504075">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.260217" lon="10.996759">
+    <ele>421.7</ele>
+    <name>Baggersee Gauchsdorf-Bechhofen</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/73/73tdinwhapnf9dvr1gx8egz93f4ufw2i-uhi15914204/0</cmt>
+    <desc>Robert Peter: Naturschutzgebiet für Uferschwalben, die am nördlichen Steilufer brüten
+――――――――――
+Heidi: Schöner, weicher Wanderpfad mit Aussichten auf den Baggersee
+――――――――――
+Rothold: Das ist bei Abenberg, nicht bei Burgbernheim</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1644789">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.25945" lon="11.002029">
+    <ele>361.6</ele>
+    <name>View of the Sand Martin Nesting Site</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k9/1x/1xhbubhlgytrkarvm3s15in3m5anvfn1e-uhi83676622/0</cmt>
+    <desc>S+S 👣👣: Der Rundweg im NSG ist nur in den Monaten Oktober bis Februar gestattet!
+――――――――――
+Th🅾️m🅰️s 👣 &amp; M🅰️j🅰️ 🐾: Diese Örtlichkeit lohnt sich zur jeder Jahreszeit!</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5908629">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.261153" lon="11.00328">
+    <ele>374</ele>
+    <name>Baggersee Gauchsdorf-Bechhofen</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1jz/zv/zvgl7m9wfocdwa5y043poxwq1fyw1y34-uhinull/0</cmt>
+    <desc>Chrissly: Schöne und ruhige Lage, Baden im Naturschutzgebiet allerdings verboten.
+――――――――――
+Christofer: Schöner Baggerweiher, mit ein paar MTB-Trail rundherum.
+――――――――――
+Chrissly: Ruhiger und schöne Ort zum Entspannen
+――――――――――
+Christofer: Rings um den Baggersee gibt es schöne MTB-Trails. 
+Optimal zu kombinieren mit einer Tour über den Heidenberg. Viel Spaß
+――――――――――
+Alex: Sehr schöner, versteckter See mit kleinen Sandbuchten.. Im Sommer bestimmt ein Highlight ...
+――――――――――
+Dany: Idyllischer Baggerweiher. Schöne Trails rundherum.
+――――――――――
+Fastcat: Obwohl Naturschutzgebiet gibt es eine Zone,wo angeln erlaubt ist🤔.
+――――――――――
+Mario: In diesem Baggerweiher ist das Baden leider Verboten!
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Sehr ruhig gelegen. Allerdings auf der Nordseite aus Naturschutzgründen der Weg von März bis September zum Teil gesperrt
+――――――――――
+Chris 🚴🏼: Schöner Weiher, hier gehen gute Trails entlang.
+――――――――――
+heike silbereis: hier sollten wir die tour beginnen🌻
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Die Weiher stehen unter Naturschutz und bieten einen schönen, friedlichen Anblick - egal zu welcher Jahreszeit. Ja, es gibt einen Weg komplett um die Weiher herum, allerdings ist der nördliche Abschnitt aus Gründen des Naturschutzes gesperrt.
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Am Süd- und Ostufer führt ein für Radfahrer gut nutzbarer Weg entlang. Mountainbiken am Nordufer sollte man aus Gründen des Naturschutzes unterlassen.
+――――――――――
+S+S 👣👣: Der Rundweg um den Baggerweiher ist nur in den Monaten Oktober bis Februar gestattet. Von März bis September ist das Begehen des NSG verboten.
+――――――――――
+Mario: Ein sehr schöner blauer Baggerweiher leider darf mann hier nicht Baden!
+――――――――――
+Triple P: Gott sei Dank nur Badeverbot, wäre echt schade bei diesen Trail wenn Biken auch verboten wäre.
+――――――――――
+Guenni: Hier fehlt ein ganz wichtiger Hinweis für alle die diese Tour machen möchten. Das gesamte Nordufer steht unter Naturschutz und darf auf keinen Fall betreten werden.
+――――――――――
+Udo  🐬: Schöner Baggersee mit Bademöglichkeit.
+
+Toller Weg oberhalb des Sees mit herrlichem Ausblick
+――――――――――
+e bike/wander Oldis 70+ uschi u. bernd: idyllisch gelegen. Aber leider Baden ist  verboten
+――――――――――
+Jäger: Das Befahren mit dem Rad im Naturschutzgebiet Gauchsdorf ist schon immer laut Naturschutzgesetz verboten und die hier angegebenen Trailstrecken herum im Privatwald auch und wird auch nicht erwünscht. Waldbesitzer sind für Stürze und entstandene Schäden beim unerwünschten Trail fahren nicht haftbar.
+Das Radfahren abseits der Wege ist nicht vom Recht erfasst, nach Art. 22 Abs. 1 und Art. 24 BayNatSchG alle Teile der freien Natur betreten zu dürfen, denn rechtlich gesehen ist das Befahren eine andere Nutzungsform als das Betreten. Nur auf geeigneten Wegen ( Breite 2 m) stellt das Bayerische Naturschutzgesetz das Betreten dem Befahren gleich. Das unbefugte Befahren ungeeigneter Wege und das unbefugte Querfeldeinfahren ist von daher verboten, und kann nach Art. 52 Abs. 4 Nr. 2 und 3 BayNatSchG mit Geldbuße und Anzeige belegt werden. Ist das Fahrradfahren auf an sich geeigneten Wegen in der freien Natur in einem Gebiet mit den Belangen des übrigen Erholungsverkehrs unvereinbar oder führt es zur Beeinträchtigungen des Naturhaushaltes, können die Naturschutzbehörden es gemäß Art 26 BayNatSchG beschränken oder untersagen.
+Bitte Sie sich alle daran zu halten!
+Im Sinne der Natur und der Erholung
+ Danke!
+――――――――――
+Th🅾️m🅰️s 👣 &amp; M🅰️j🅰️ 🐾: Geeignet für die ganze Familie</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/141965">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.263292" lon="11.003115">
+    <ele>389</ele>
+    <name>Forest – We All Live From It</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k6/gj/gjfvhly5hj5j12h2c18gp1p7a4f8hj592-uhi56890182/0</cmt>
+    <desc>Th🅾️m🅰️s 👣 &amp; M🅰️j🅰️ 🐾: Diese Örtlichkeit lohnt sich zur jeder Jahreszeit!
+――――――――――
+Christian Büttner: Hier einfach mal abkühlen und rasten.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/5352610">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Baggersee Gauchsdorf-Bechhofen – Baggersee Gauchsdorf-Bechhofen Runde von Büchenbach</name>
+    <desc>Distance: 4.483km, Estimated duration: 1.17h, Elevation up: 30.334759322117918m, Elevation down: 30.334759322118032m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/3223725075">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="49.264423" lon="11.005471">
+        <ele>350.1</ele>
+        <time>2026-08-23T10:27:42.538000Z</time>
+      </trkpt>
+      <trkpt lat="49.264476" lon="11.005044">
+        <ele>350.3</ele>
+        <time>2026-08-23T10:28:11.751000Z</time>
+      </trkpt>
+      <trkpt lat="49.264506" lon="11.004914">
+        <ele>350.4</ele>
+        <time>2026-08-23T10:28:21.088000Z</time>
+      </trkpt>
+      <trkpt lat="49.264655" lon="11.004287">
+        <ele>350.5</ele>
+        <time>2026-08-23T10:29:05.118000Z</time>
+      </trkpt>
+      <trkpt lat="49.264824" lon="11.003573">
+        <ele>350.7</ele>
+        <time>2026-08-23T10:29:55.428000Z</time>
+      </trkpt>
+      <trkpt lat="49.264907" lon="11.003385">
+        <ele>350.8</ele>
+        <time>2026-08-23T10:30:10.692000Z</time>
+      </trkpt>
+      <trkpt lat="49.264764" lon="11.003237">
+        <ele>351.1</ele>
+        <time>2026-08-23T10:30:28.877000Z</time>
+      </trkpt>
+      <trkpt lat="49.264685" lon="11.003152">
+        <ele>351.3</ele>
+        <time>2026-08-23T10:30:39.239000Z</time>
+      </trkpt>
+      <trkpt lat="49.264632" lon="11.003084">
+        <ele>351.5</ele>
+        <time>2026-08-23T10:30:46.678000Z</time>
+      </trkpt>
+      <trkpt lat="49.264603" lon="11.00303">
+        <ele>351.6</ele>
+        <time>2026-08-23T10:30:51.680000Z</time>
+      </trkpt>
+      <trkpt lat="49.264596" lon="11.002874">
+        <ele>351.9</ele>
+        <time>2026-08-23T10:31:03.099000Z</time>
+      </trkpt>
+      <trkpt lat="49.264629" lon="11.002712">
+        <ele>352.3</ele>
+        <time>2026-08-23T10:31:15.490000Z</time>
+      </trkpt>
+      <trkpt lat="49.264665" lon="11.002662">
+        <ele>352.5</ele>
+        <time>2026-08-23T10:31:20.953000Z</time>
+      </trkpt>
+      <trkpt lat="49.264629" lon="11.002712">
+        <ele>352.6</ele>
+        <time>2026-08-23T10:31:26.385000Z</time>
+      </trkpt>
+      <trkpt lat="49.264558" lon="11.002531">
+        <ele>353.2</ele>
+        <time>2026-08-23T10:31:42.037000Z</time>
+      </trkpt>
+      <trkpt lat="49.264448" lon="11.00242">
+        <ele>353.7</ele>
+        <time>2026-08-23T10:31:57.129000Z</time>
+      </trkpt>
+      <trkpt lat="49.264307" lon="11.002387">
+        <ele>354.4</ele>
+        <time>2026-08-23T10:32:13.656000Z</time>
+      </trkpt>
+      <trkpt lat="49.263802" lon="11.002544">
+        <ele>357.1</ele>
+        <time>2026-08-23T10:33:14.762000Z</time>
+      </trkpt>
+      <trkpt lat="49.263308" lon="11.003175">
+        <ele>360.9</ele>
+        <time>2026-08-23T10:34:32.166000Z</time>
+      </trkpt>
+      <trkpt lat="49.262998" lon="11.003305">
+        <ele>362.2</ele>
+        <time>2026-08-23T10:35:08.964000Z</time>
+      </trkpt>
+      <trkpt lat="49.262183" lon="11.003332">
+        <ele>362.7</ele>
+        <time>2026-08-23T10:36:32.151000Z</time>
+      </trkpt>
+      <trkpt lat="49.261522" lon="11.003205">
+        <ele>361.5</ele>
+        <time>2026-08-23T10:37:41.281000Z</time>
+      </trkpt>
+      <trkpt lat="49.2612" lon="11.003142">
+        <ele>360.8</ele>
+        <time>2026-08-23T10:38:15.217000Z</time>
+      </trkpt>
+      <trkpt lat="49.261294" lon="11.002417">
+        <ele>359.8</ele>
+        <time>2026-08-23T10:39:05.610000Z</time>
+      </trkpt>
+      <trkpt lat="49.261303" lon="11.002029">
+        <ele>359.4</ele>
+        <time>2026-08-23T10:39:31.659000Z</time>
+      </trkpt>
+      <trkpt lat="49.261269" lon="11.001663">
+        <ele>359.2</ele>
+        <time>2026-08-23T10:39:56.236000Z</time>
+      </trkpt>
+      <trkpt lat="49.261201" lon="11.000536">
+        <ele>358.8</ele>
+        <time>2026-08-23T10:41:11.139000Z</time>
+      </trkpt>
+      <trkpt lat="49.261163" lon="11.000389">
+        <ele>358.7</ele>
+        <time>2026-08-23T10:41:21.656000Z</time>
+      </trkpt>
+      <trkpt lat="49.261032" lon="10.999626">
+        <ele>358</ele>
+        <time>2026-08-23T10:42:14.511000Z</time>
+      </trkpt>
+      <trkpt lat="49.260892" lon="10.998976">
+        <ele>357.4</ele>
+        <time>2026-08-23T10:43:00.521000Z</time>
+      </trkpt>
+      <trkpt lat="49.260784" lon="10.998626">
+        <ele>357.1</ele>
+        <time>2026-08-23T10:43:26.447000Z</time>
+      </trkpt>
+      <trkpt lat="49.26066" lon="10.998296">
+        <ele>356.9</ele>
+        <time>2026-08-23T10:43:51.704000Z</time>
+      </trkpt>
+      <trkpt lat="49.26056" lon="10.99811">
+        <ele>356.9</ele>
+        <time>2026-08-23T10:44:07.605000Z</time>
+      </trkpt>
+      <trkpt lat="49.260374" lon="10.997962">
+        <ele>356.9</ele>
+        <time>2026-08-23T10:44:28.518000Z</time>
+      </trkpt>
+      <trkpt lat="49.26031" lon="10.997856">
+        <ele>356.9</ele>
+        <time>2026-08-23T10:44:38.060000Z</time>
+      </trkpt>
+      <trkpt lat="49.260217" lon="10.997081">
+        <ele>357.3</ele>
+        <time>2026-08-23T10:45:31.139000Z</time>
+      </trkpt>
+      <trkpt lat="49.260206" lon="10.99676">
+        <ele>357.7</ele>
+        <time>2026-08-23T10:45:53.305000Z</time>
+      </trkpt>
+      <trkpt lat="49.260166" lon="10.995562">
+        <ele>359.2</ele>
+        <time>2026-08-23T10:47:17.179000Z</time>
+      </trkpt>
+      <trkpt lat="49.260337" lon="10.994481">
+        <ele>360.2</ele>
+        <time>2026-08-23T10:48:33.163000Z</time>
+      </trkpt>
+      <trkpt lat="49.260331" lon="10.993905">
+        <ele>360.4</ele>
+        <time>2026-08-23T10:49:11.614000Z</time>
+      </trkpt>
+      <trkpt lat="49.260406" lon="10.993201">
+        <ele>360.6</ele>
+        <time>2026-08-23T10:49:58.922000Z</time>
+      </trkpt>
+      <trkpt lat="49.260415" lon="10.991947">
+        <ele>361.3</ele>
+        <time>2026-08-23T10:51:23.405000Z</time>
+      </trkpt>
+      <trkpt lat="49.260467" lon="10.99164">
+        <ele>361.5</ele>
+        <time>2026-08-23T10:51:44.903000Z</time>
+      </trkpt>
+      <trkpt lat="49.260612" lon="10.99135">
+        <ele>361.7</ele>
+        <time>2026-08-23T10:52:09.535000Z</time>
+      </trkpt>
+      <trkpt lat="49.260704" lon="10.991252">
+        <ele>361.8</ele>
+        <time>2026-08-23T10:52:21.100000Z</time>
+      </trkpt>
+      <trkpt lat="49.260768" lon="10.991132">
+        <ele>361.9</ele>
+        <time>2026-08-23T10:52:31.483000Z</time>
+      </trkpt>
+      <trkpt lat="49.260866" lon="10.990642">
+        <ele>362.2</ele>
+        <time>2026-08-23T10:53:05.824000Z</time>
+      </trkpt>
+      <trkpt lat="49.260879" lon="10.989835">
+        <ele>362.5</ele>
+        <time>2026-08-23T10:53:59.516000Z</time>
+      </trkpt>
+      <trkpt lat="49.260957" lon="10.989532">
+        <ele>362.5</ele>
+        <time>2026-08-23T10:54:20.930000Z</time>
+      </trkpt>
+      <trkpt lat="49.261213" lon="10.989451">
+        <ele>362.5</ele>
+        <time>2026-08-23T10:54:47.164000Z</time>
+      </trkpt>
+      <trkpt lat="49.261356" lon="10.989362">
+        <ele>362.5</ele>
+        <time>2026-08-23T10:55:02.602000Z</time>
+      </trkpt>
+      <trkpt lat="49.261406" lon="10.989272">
+        <ele>362.5</ele>
+        <time>2026-08-23T10:55:10.373000Z</time>
+      </trkpt>
+      <trkpt lat="49.261339" lon="10.988585">
+        <ele>362.8</ele>
+        <time>2026-08-23T10:55:56.770000Z</time>
+      </trkpt>
+      <trkpt lat="49.261461" lon="10.98847">
+        <ele>363</ele>
+        <time>2026-08-23T10:56:11.666000Z</time>
+      </trkpt>
+      <trkpt lat="49.261342" lon="10.986982">
+        <ele>364.4</ele>
+        <time>2026-08-23T10:57:54.685000Z</time>
+      </trkpt>
+      <trkpt lat="49.261349" lon="10.986957">
+        <ele>364.4</ele>
+        <time>2026-08-23T10:57:56.526000Z</time>
+      </trkpt>
+      <trkpt lat="49.261406" lon="10.986781">
+        <ele>364.6</ele>
+        <time>2026-08-23T10:58:09.938000Z</time>
+      </trkpt>
+      <trkpt lat="49.261336" lon="10.986235">
+        <ele>364.9</ele>
+        <time>2026-08-23T10:58:47.382000Z</time>
+      </trkpt>
+      <trkpt lat="49.261177" lon="10.986073">
+        <ele>365</ele>
+        <time>2026-08-23T10:59:06.711000Z</time>
+      </trkpt>
+      <trkpt lat="49.26108" lon="10.985837">
+        <ele>365</ele>
+        <time>2026-08-23T10:59:24.996000Z</time>
+      </trkpt>
+      <trkpt lat="49.260764" lon="10.987428">
+        <ele>365.6</ele>
+        <time>2026-08-23T11:01:15.804000Z</time>
+      </trkpt>
+      <trkpt lat="49.260221" lon="10.987222">
+        <ele>366.8</ele>
+        <time>2026-08-23T11:02:16.199000Z</time>
+      </trkpt>
+      <trkpt lat="49.259493" lon="10.987136">
+        <ele>368.8</ele>
+        <time>2026-08-23T11:03:36.098000Z</time>
+      </trkpt>
+      <trkpt lat="49.2594" lon="10.986993">
+        <ele>369</ele>
+        <time>2026-08-23T11:03:50.181000Z</time>
+      </trkpt>
+      <trkpt lat="49.259154" lon="10.986993">
+        <ele>369.4</ele>
+        <time>2026-08-23T11:04:15.998000Z</time>
+      </trkpt>
+      <trkpt lat="49.259008" lon="10.987677">
+        <ele>369.4</ele>
+        <time>2026-08-23T11:05:03.124000Z</time>
+      </trkpt>
+      <trkpt lat="49.258891" lon="10.987993">
+        <ele>369.1</ele>
+        <time>2026-08-23T11:05:27.394000Z</time>
+      </trkpt>
+      <trkpt lat="49.258769" lon="10.988518">
+        <ele>368.4</ele>
+        <time>2026-08-23T11:06:05.198000Z</time>
+      </trkpt>
+      <trkpt lat="49.258733" lon="10.989169">
+        <ele>367.5</ele>
+        <time>2026-08-23T11:06:49.794000Z</time>
+      </trkpt>
+      <trkpt lat="49.258446" lon="10.99055">
+        <ele>367</ele>
+        <time>2026-08-23T11:08:25.547000Z</time>
+      </trkpt>
+      <trkpt lat="49.258385" lon="10.991164">
+        <ele>367.2</ele>
+        <time>2026-08-23T11:09:07.040000Z</time>
+      </trkpt>
+      <trkpt lat="49.258389" lon="10.991703">
+        <ele>367.5</ele>
+        <time>2026-08-23T11:09:43.132000Z</time>
+      </trkpt>
+      <trkpt lat="49.258434" lon="10.992021">
+        <ele>367.6</ele>
+        <time>2026-08-23T11:10:04.953000Z</time>
+      </trkpt>
+      <trkpt lat="49.258052" lon="10.993484">
+        <ele>368</ele>
+        <time>2026-08-23T11:11:49.211000Z</time>
+      </trkpt>
+      <trkpt lat="49.257967" lon="10.994013">
+        <ele>368</ele>
+        <time>2026-08-23T11:12:24.795000Z</time>
+      </trkpt>
+      <trkpt lat="49.257884" lon="10.994327">
+        <ele>368</ele>
+        <time>2026-08-23T11:12:46.958000Z</time>
+      </trkpt>
+      <trkpt lat="49.25779" lon="10.995099">
+        <ele>368</ele>
+        <time>2026-08-23T11:13:38.337000Z</time>
+      </trkpt>
+      <trkpt lat="49.257781" lon="10.996136">
+        <ele>368</ele>
+        <time>2026-08-23T11:14:46.098000Z</time>
+      </trkpt>
+      <trkpt lat="49.257801" lon="10.996542">
+        <ele>367.9</ele>
+        <time>2026-08-23T11:15:12.800000Z</time>
+      </trkpt>
+      <trkpt lat="49.257854" lon="10.996858">
+        <ele>367.9</ele>
+        <time>2026-08-23T11:15:34.176000Z</time>
+      </trkpt>
+      <trkpt lat="49.257825" lon="10.997326">
+        <ele>367.8</ele>
+        <time>2026-08-23T11:16:04.980000Z</time>
+      </trkpt>
+      <trkpt lat="49.257987" lon="10.99744">
+        <ele>367.8</ele>
+        <time>2026-08-23T11:16:22.990000Z</time>
+      </trkpt>
+      <trkpt lat="49.258162" lon="10.997546">
+        <ele>367.7</ele>
+        <time>2026-08-23T11:16:41.982000Z</time>
+      </trkpt>
+      <trkpt lat="49.258246" lon="10.99772">
+        <ele>367.6</ele>
+        <time>2026-08-23T11:16:56.372000Z</time>
+      </trkpt>
+      <trkpt lat="49.258293" lon="10.997958">
+        <ele>367.4</ele>
+        <time>2026-08-23T11:17:13.023000Z</time>
+      </trkpt>
+      <trkpt lat="49.258281" lon="10.998342">
+        <ele>366.8</ele>
+        <time>2026-08-23T11:17:39.218000Z</time>
+      </trkpt>
+      <trkpt lat="49.258307" lon="10.998591">
+        <ele>366.4</ele>
+        <time>2026-08-23T11:17:56.701000Z</time>
+      </trkpt>
+      <trkpt lat="49.258314" lon="10.998656">
+        <ele>366.2</ele>
+        <time>2026-08-23T11:18:01.274000Z</time>
+      </trkpt>
+      <trkpt lat="49.25844" lon="10.999281">
+        <ele>365</ele>
+        <time>2026-08-23T11:18:46.526000Z</time>
+      </trkpt>
+      <trkpt lat="49.258497" lon="10.999515">
+        <ele>364.5</ele>
+        <time>2026-08-23T11:19:03.819000Z</time>
+      </trkpt>
+      <trkpt lat="49.258694" lon="10.99986">
+        <ele>363.5</ele>
+        <time>2026-08-23T11:19:35.789000Z</time>
+      </trkpt>
+      <trkpt lat="49.258814" lon="11.000065">
+        <ele>362.8</ele>
+        <time>2026-08-23T11:19:55.240000Z</time>
+      </trkpt>
+      <trkpt lat="49.258892" lon="11.000502">
+        <ele>361.5</ele>
+        <time>2026-08-23T11:20:27.423000Z</time>
+      </trkpt>
+      <trkpt lat="49.258923" lon="11.000817">
+        <ele>360.7</ele>
+        <time>2026-08-23T11:20:49.862000Z</time>
+      </trkpt>
+      <trkpt lat="49.259" lon="11.001131">
+        <ele>360</ele>
+        <time>2026-08-23T11:21:13.381000Z</time>
+      </trkpt>
+      <trkpt lat="49.259337" lon="11.001659">
+        <ele>359</ele>
+        <time>2026-08-23T11:22:03.511000Z</time>
+      </trkpt>
+      <trkpt lat="49.259401" lon="11.001889">
+        <ele>358.9</ele>
+        <time>2026-08-23T11:22:20.150000Z</time>
+      </trkpt>
+      <trkpt lat="49.259415" lon="11.002037">
+        <ele>358.8</ele>
+        <time>2026-08-23T11:22:30.138000Z</time>
+      </trkpt>
+      <trkpt lat="49.259452" lon="11.002422">
+        <ele>358.6</ele>
+        <time>2026-08-23T11:22:55.932000Z</time>
+      </trkpt>
+      <trkpt lat="49.259501" lon="11.002636">
+        <ele>358.6</ele>
+        <time>2026-08-23T11:23:10.731000Z</time>
+      </trkpt>
+      <trkpt lat="49.259569" lon="11.002786">
+        <ele>358.6</ele>
+        <time>2026-08-23T11:23:22.719000Z</time>
+      </trkpt>
+      <trkpt lat="49.259755" lon="11.003261">
+        <ele>359.1</ele>
+        <time>2026-08-23T11:24:00.661000Z</time>
+      </trkpt>
+      <trkpt lat="49.25989" lon="11.003715">
+        <ele>360</ele>
+        <time>2026-08-23T11:24:36.248000Z</time>
+      </trkpt>
+      <trkpt lat="49.259971" lon="11.003835">
+        <ele>360.2</ele>
+        <time>2026-08-23T11:24:48.528000Z</time>
+      </trkpt>
+      <trkpt lat="49.260096" lon="11.003894">
+        <ele>360.5</ele>
+        <time>2026-08-23T11:25:02.696000Z</time>
+      </trkpt>
+      <trkpt lat="49.260398" lon="11.003943">
+        <ele>361</ele>
+        <time>2026-08-23T11:25:34.801000Z</time>
+      </trkpt>
+      <trkpt lat="49.260683" lon="11.004052">
+        <ele>361.2</ele>
+        <time>2026-08-23T11:26:04.660000Z</time>
+      </trkpt>
+      <trkpt lat="49.260875" lon="11.004087">
+        <ele>361.3</ele>
+        <time>2026-08-23T11:26:24.598000Z</time>
+      </trkpt>
+      <trkpt lat="49.260959" lon="11.004052">
+        <ele>361.4</ele>
+        <time>2026-08-23T11:26:33.703000Z</time>
+      </trkpt>
+      <trkpt lat="49.26108" lon="11.003921">
+        <ele>361.6</ele>
+        <time>2026-08-23T11:26:49.217000Z</time>
+      </trkpt>
+      <trkpt lat="49.261145" lon="11.003677">
+        <ele>361.9</ele>
+        <time>2026-08-23T11:27:07.299000Z</time>
+      </trkpt>
+      <trkpt lat="49.261157" lon="11.003411">
+        <ele>362.1</ele>
+        <time>2026-08-23T11:27:25.701000Z</time>
+      </trkpt>
+      <trkpt lat="49.261177" lon="11.003288">
+        <ele>362.3</ele>
+        <time>2026-08-23T11:27:34.497000Z</time>
+      </trkpt>
+      <trkpt lat="49.2612" lon="11.003142">
+        <ele>362.4</ele>
+        <time>2026-08-23T11:27:44.731000Z</time>
+      </trkpt>
+      <trkpt lat="49.261522" lon="11.003205">
+        <ele>362.6</ele>
+        <time>2026-08-23T11:28:17.888000Z</time>
+      </trkpt>
+      <trkpt lat="49.262183" lon="11.003332">
+        <ele>362.7</ele>
+        <time>2026-08-23T11:29:25.005000Z</time>
+      </trkpt>
+      <trkpt lat="49.262998" lon="11.003305">
+        <ele>362.2</ele>
+        <time>2026-08-23T11:30:47.639000Z</time>
+      </trkpt>
+      <trkpt lat="49.263308" lon="11.003175">
+        <ele>360.9</ele>
+        <time>2026-08-23T11:31:22.484000Z</time>
+      </trkpt>
+      <trkpt lat="49.263802" lon="11.002544">
+        <ele>357.1</ele>
+        <time>2026-08-23T11:32:34.556000Z</time>
+      </trkpt>
+      <trkpt lat="49.264307" lon="11.002387">
+        <ele>354.4</ele>
+        <time>2026-08-23T11:33:31.582000Z</time>
+      </trkpt>
+      <trkpt lat="49.264448" lon="11.00242">
+        <ele>353.7</ele>
+        <time>2026-08-23T11:33:47.197000Z</time>
+      </trkpt>
+      <trkpt lat="49.264558" lon="11.002531">
+        <ele>353.2</ele>
+        <time>2026-08-23T11:34:01.466000Z</time>
+      </trkpt>
+      <trkpt lat="49.264629" lon="11.002712">
+        <ele>352.7</ele>
+        <time>2026-08-23T11:34:16.331000Z</time>
+      </trkpt>
+      <trkpt lat="49.264596" lon="11.002874">
+        <ele>352.2</ele>
+        <time>2026-08-23T11:34:28.251000Z</time>
+      </trkpt>
+      <trkpt lat="49.264603" lon="11.00303">
+        <ele>351.9</ele>
+        <time>2026-08-23T11:34:39.240000Z</time>
+      </trkpt>
+      <trkpt lat="49.264632" lon="11.003084">
+        <ele>351.7</ele>
+        <time>2026-08-23T11:34:44.152000Z</time>
+      </trkpt>
+      <trkpt lat="49.264685" lon="11.003152">
+        <ele>351.5</ele>
+        <time>2026-08-23T11:34:51.395000Z</time>
+      </trkpt>
+      <trkpt lat="49.264764" lon="11.003237">
+        <ele>351.3</ele>
+        <time>2026-08-23T11:35:01.578000Z</time>
+      </trkpt>
+      <trkpt lat="49.264907" lon="11.003385">
+        <ele>350.9</ele>
+        <time>2026-08-23T11:35:19.562000Z</time>
+      </trkpt>
+      <trkpt lat="49.264824" lon="11.003573">
+        <ele>350.8</ele>
+        <time>2026-08-23T11:35:34.784000Z</time>
+      </trkpt>
+      <trkpt lat="49.264655" lon="11.004287">
+        <ele>350.5</ele>
+        <time>2026-08-23T11:36:24.872000Z</time>
+      </trkpt>
+      <trkpt lat="49.264506" lon="11.004914">
+        <ele>350.4</ele>
+        <time>2026-08-23T11:37:08.713000Z</time>
+      </trkpt>
+      <trkpt lat="49.264476" lon="11.005044">
+        <ele>350.3</ele>
+        <time>2026-08-23T11:37:17.909000Z</time>
+      </trkpt>
+      <trkpt lat="49.264423" lon="11.005471">
+        <ele>350.1</ele>
+        <time>2026-08-23T11:37:46.784000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
