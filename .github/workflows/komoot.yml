@@ -21,11 +21,13 @@ jobs:
         with:
           python-version: "3.x"
 
-      - run: pip install komootgpx
+      - run: pip install komootgpx gpxpy simplekml
 
       - run: |
           rm -f credentials.json
-          komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o .
+          mkdir -p gpx
+          komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
+          python gpx_to_kml.py gpx/*.gpx
           rm -f credentials.json
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
@@ -33,4 +35,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update GPX files
+          commit_message: Update GPX, KML, and KMZ files
