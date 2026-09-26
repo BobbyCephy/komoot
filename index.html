@@ -2,7 +2,7 @@
 <body>
 <ul id="files"></ul>
 <script>
-    fetch("https://api.github.com/repos/BobbyCephy/komoot/contents?ref=gpx")
+    fetch("https://api.github.com/repos/BobbyCephy/komoot/contents/gpx?ref=gpx")
         .then(response => response.json())
         .then(files => {
             const list = document.getElementById("files");

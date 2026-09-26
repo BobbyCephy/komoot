@@ -17,6 +17,10 @@ jobs:
         with:
           ref: gpx
 
+      - uses: actions/checkout@v4
+        with:
+          path: scripts
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
@@ -27,8 +31,9 @@ jobs:
           rm -f credentials.json
           mkdir -p gpx
           komootgpx -s -r -m "$KOMOOT_EMAIL" -p "$KOMOOT_PASSWORD" -a -o gpx
-          python gpx_to_kml.py gpx/*.gpx
+          python scripts/gpx_to_kml.py gpx/*.gpx
           rm -f credentials.json
+          rm -rf scripts
         env:
           KOMOOT_EMAIL: ${{ secrets.KOMOOT_EMAIL }}
           KOMOOT_PASSWORD: ${{ secrets.KOMOOT_PASSWORD }}
