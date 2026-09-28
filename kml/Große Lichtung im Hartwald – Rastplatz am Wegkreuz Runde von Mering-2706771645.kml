@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="2493">
+    <Document id="2517">
         <name>Große Lichtung im Hartwald – Rastplatz am Wegkreuz Runde von Mering-2706771645.gpx</name>
-        <Placemark id="2495">
+        <Placemark id="2519">
             <name>Große Lichtung im Hartwald – Rastplatz am Wegkreuz Runde von Mering</name>
-            <MultiGeometry id="2494">
-                <LineString id="2496">
+            <MultiGeometry id="2518">
+                <LineString id="2520">
                     <coordinates>11.009336,48.259185,516.2 11.009407,48.259033,516.2 11.009571,48.258982,516.2 11.009917,48.258957,516.2 11.010504,48.258957,516.3 11.012634,48.259065,517.3 11.013474,48.259196,517.8 11.014141,48.259179,518.3 11.01485,48.259222,518.9 11.015828,48.259227,519.5 11.016566,48.259273,520.0 11.017241,48.259351,520.4 11.018531,48.259643,521.5 11.019756,48.259807,523.0 11.0209,48.26002,525.4 11.022174,48.260165,528.7 11.023063,48.260223,530.1 11.023459,48.259955,530.4 11.023877,48.259622,530.3 11.024619,48.259127,529.5 11.024953,48.258862,529.3 11.025194,48.258595,529.3 11.025195,48.258593,529.3 11.025394,48.258213,529.3 11.02573,48.257933,529.6 11.025961,48.257792,529.8 11.02656,48.257427,530.4 11.026167,48.257265,530.6 11.024525,48.256238,532.6 11.024039,48.256009,533.5 11.022333,48.25503,538.5 11.021851,48.254784,539.0 11.021286,48.255641,537.0 11.021413,48.255666,536.6 11.021286,48.255641,536.1 11.021152,48.255882,534.5 11.020771,48.256257,531.7 11.019852,48.256663,527.5 11.019623,48.256702,526.7 11.019297,48.256758,525.8 11.018141,48.256823,523.6 11.016599,48.257079,522.7 11.016348,48.25712,522.6 11.014097,48.257775,520.1 11.013758,48.257856,519.6 11.013725,48.257864,519.6 11.013428,48.2579,519.1 11.011752,48.257982,516.9 11.010447,48.25811,516.1 11.009685,48.258047,515.9 11.009517,48.258094,515.9 11.009411,48.258198,516.0 11.009385,48.258317,516.0 11.009425,48.258741,516.0 11.009407,48.259033,516.0 11.009336,48.259185,516.1</coordinates>
                 </LineString>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2499">
+        <Placemark id="2523">
             <name>Great Clearing in Hartwald</name>
-            <Point id="2498">
+            <Point id="2522">
                 <coordinates>11.025212,48.258597,534.3</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2501">
+        <Placemark id="2525">
             <name>Mooswald</name>
-            <Point id="2500">
+            <Point id="2524">
                 <coordinates>11.025642,48.25756,583.6</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2503">
+        <Placemark id="2527">
             <name>Holzgasse Trail</name>
-            <Point id="2502">
+            <Point id="2526">
                 <coordinates>11.021872,48.254826,557.7</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2505">
+        <Placemark id="2529">
             <name>Hexenhäuschen and Covered Rest Area</name>
-            <Point id="2504">
+            <Point id="2528">
                 <coordinates>11.021476,48.25562,376.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2507">
+        <Placemark id="2531">
             <name>Rest Area at the Wayside Cross</name>
-            <Point id="2506">
+            <Point id="2530">
                 <coordinates>11.013687,48.25786,564.0</coordinates>
             </Point>
         </Placemark>
