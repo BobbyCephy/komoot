@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="4577">
+    <Document id="4589">
         <name>Salzweiher Autenried – Waldweiher bei Zusmarshausen Runde von Biberberg-2556408163.gpx</name>
-        <Placemark id="4579">
+        <Placemark id="4591">
             <name>Salzweiher Autenried – Waldweiher bei Zusmarshausen Runde von Biberberg</name>
-            <MultiGeometry id="4578">
-                <LineString id="4580">
+            <MultiGeometry id="4590">
+                <LineString id="4592">
                     <coordinates>10.245877,48.348893,506.9 10.24591,48.349098,506.9 10.246138,48.349566,506.9 10.247903,48.349286,506.3 10.251403,48.348671,503.7 10.253924,48.349659,500.5 10.256056,48.350493,497.2 10.256194,48.350503,497.0 10.257008,48.35037,496.0 10.257512,48.350379,495.5 10.258138,48.350441,495.1 10.258234,48.350477,495.0 10.258297,48.3505,495.0 10.25838,48.350676,494.9 10.258724,48.351217,494.6 10.258798,48.351363,494.5 10.258863,48.351417,494.5 10.259004,48.351426,494.4 10.259118,48.351391,494.4 10.2592,48.351352,494.3 10.259415,48.351166,494.2 10.259483,48.351144,494.2 10.259609,48.351131,494.2 10.259709,48.35112,494.1 10.26015,48.351163,494.0 10.260218,48.35117,494.0 10.260544,48.351063,493.8 10.261184,48.350938,493.9 10.261388,48.350873,494.0 10.261697,48.350697,494.4 10.262244,48.350123,495.8 10.262916,48.349836,496.7 10.263405,48.349626,496.8 10.26323,48.349564,496.7 10.262767,48.349552,496.1 10.261082,48.349533,493.1 10.260784,48.349529,492.6 10.260422,48.349522,492.2 10.260415,48.349136,491.8 10.260394,48.347971,492.2 10.25965,48.347044,494.1 10.259012,48.346593,496.5 10.258699,48.346331,498.0 10.258377,48.346124,499.4 10.257933,48.345885,501.1 10.257198,48.345377,503.3 10.256696,48.344701,504.4 10.255319,48.344234,504.9 10.254251,48.343929,504.8 10.253993,48.343856,504.8 10.25438,48.347183,502.8 10.254536,48.347457,502.7 10.254673,48.347585,502.6 10.255452,48.348094,501.9 10.256462,48.34872,500.7 10.257132,48.349147,499.7 10.25728,48.349285,499.5 10.257131,48.349438,499.4 10.256628,48.349453,499.3 10.254276,48.349687,500.4 10.253924,48.349659,500.8 10.251403,48.348671,503.7 10.250433,48.348841,504.6 10.247903,48.349286,506.3 10.246138,48.349566,506.9 10.24591,48.349098,506.9 10.245877,48.348893,506.9</coordinates>
                 </LineString>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="4583">
+        <Placemark id="4595">
             <name>Parking</name>
-            <Point id="4582">
+            <Point id="4594">
                 <coordinates>10.24584,48.348896,0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4585">
+        <Placemark id="4597">
             <name>Autenried Salt Pond</name>
-            <Point id="4584">
+            <Point id="4596">
                 <coordinates>10.258282,48.35042,524.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4587">
+        <Placemark id="4599">
             <name>Wooden Cabin and Pond Rest Area</name>
-            <Point id="4586">
+            <Point id="4598">
                 <coordinates>10.259604,48.351111,549.5</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4589">
+        <Placemark id="4601">
             <name>Serene Forest Lake</name>
-            <Point id="4588">
+            <Point id="4600">
                 <coordinates>10.260166,48.35109,552.1</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4591">
+        <Placemark id="4603">
             <name>Wooden owl</name>
-            <Point id="4590">
+            <Point id="4602">
                 <coordinates>10.260166,48.35109,552.1</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4593">
+        <Placemark id="4605">
             <name>Salzweiher</name>
-            <Point id="4592">
+            <Point id="4604">
                 <coordinates>10.260723,48.349554,493.3</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4595">
+        <Placemark id="4607">
             <name>Griasdi Bear Sculpture at Salzweiher</name>
-            <Point id="4594">
+            <Point id="4606">
                 <coordinates>10.262899,48.349818,553.8</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="4597">
+        <Placemark id="4609">
             <name>Forest pond near Autenried</name>
-            <Point id="4596">
+            <Point id="4608">
                 <coordinates>10.260521,48.349135,500.6</coordinates>
             </Point>
         </Placemark>

@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="2711">
+    <Document id="2723">
         <name>Hochsitz im Wald – Mika Parkplatz Römerweg Runde von Freienried-2737174912.gpx</name>
-        <Placemark id="2713">
+        <Placemark id="2725">
             <name>Hochsitz im Wald – Mika Parkplatz Römerweg Runde von Freienried</name>
-            <MultiGeometry id="2712">
-                <LineString id="2714">
+            <MultiGeometry id="2724">
+                <LineString id="2726">
                     <coordinates>11.147027,48.331497,526.6 11.147259,48.331219,525.8 11.147103,48.329937,521.2 11.147914,48.328104,515.9 11.148157,48.327669,514.6 11.148632,48.327,512.8 11.149282,48.326567,512.1 11.149492,48.326496,512.2 11.150121,48.326508,512.9 11.1517,48.326616,515.1 11.154827,48.326498,515.3 11.15528,48.326498,515.6 11.156054,48.327023,517.5 11.15639,48.32732,518.9 11.156553,48.327465,519.5 11.156697,48.327627,520.2 11.157644,48.328696,523.6 11.157848,48.329398,523.4 11.158017,48.330197,521.7 11.158078,48.330855,521.2 11.158162,48.331109,521.3 11.158059,48.331172,521.4 11.157777,48.331343,521.7 11.156645,48.332265,524.7 11.155892,48.33275,526.2 11.154949,48.333176,527.5 11.154174,48.333478,528.8 11.153678,48.333644,529.8 11.153596,48.333672,530.0 11.153543,48.33369,530.1 11.152292,48.333574,532.3 11.150757,48.333193,532.7 11.149245,48.332881,531.4 11.14852,48.332401,530.5 11.148427,48.33234,530.4 11.148176,48.332241,530.2 11.147618,48.332092,529.8 11.147557,48.331982,529.6 11.147392,48.331819,529.4 11.147156,48.331661,529.2 11.147069,48.331619,529.1 11.146967,48.33157,529.0 11.147027,48.331497,528.9</coordinates>
                 </LineString>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2717">
+        <Placemark id="2729">
             <name>Parking</name>
-            <Point id="2716">
+            <Point id="2728">
                 <coordinates>11.147127,48.33154,0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2719">
+        <Placemark id="2731">
             <name>Hunting Tower in the Forest</name>
-            <Point id="2718">
+            <Point id="2730">
                 <coordinates>11.15808,48.331187,572.4</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2721">
+        <Placemark id="2733">
             <name>Tree Kraken Sculptures at the Crossroads</name>
-            <Point id="2720">
+            <Point id="2732">
                 <coordinates>11.153695,48.333667,570.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2723">
+        <Placemark id="2735">
             <name>Mika Parking Lot Römerweg</name>
-            <Point id="2722">
+            <Point id="2734">
                 <coordinates>11.14709,48.3316,600.7</coordinates>
             </Point>
         </Placemark>
