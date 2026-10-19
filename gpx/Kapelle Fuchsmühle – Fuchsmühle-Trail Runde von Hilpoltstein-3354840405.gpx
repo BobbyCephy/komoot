@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Kapelle Fuchsmühle – Fuchsmühle-Trail Runde von Hilpoltstein</name>
+    <desc>Distance: 5.922km, Estimated duration: 1.53h, Elevation up: 31.851632727476726m, Elevation down: 31.851632727476783m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/3354840405">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="49.179483" lon="11.164077">
+    <name>Hofstetten Am Mühlbach</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="49.178982" lon="11.164396">
+    <ele>368.6</ele>
+    <name>Church of the Annunciation, Hofstetten</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/1f/1fm9jx5bi2pga15q154rn4d5ij3slgnexw-uhi34767086/0</cmt>
+    <desc>ML: Die aus Sandsteinquadern aufgeführte Chorturmkirche aus der Zeit der Gotik (14. Jahrhundert), vielleicht im Auftrag des Klosters Walderbach errichtet, hat einen Turm über quadratischem Grundriss und vier Dreiecksgiebeln und achtseitigem Spitzturm.
+Quelle und weiter Infos unter https://de.m.wikipedia.org/wiki/Hofstetten_(Hilpoltstein)
+――――――――――
+Stoapfalzb(h)iker: Schöne Kirche am Ortsrand von Hofstetten</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4454913">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.178863" lon="11.164362">
+    <ele>413</ele>
+    <name>Decorative Fountain at the Church Square in Middle Franconia</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/4t/4tqy8jvlmpyx1uexh5k71gjy24xsxwl2r-uhi70619149/0</cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6518621">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.167883" lon="11.144933">
+    <ele>375.6</ele>
+    <name>Neuweiher on the Hardgraben</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/14/143gkdnomhz0p1mr4if60rdk5h50s2s518-uhi74064658/0</cmt>
+    <desc>Uschi unterwegs 🌈: Der Neuweiher in der Nähe der Ortschaft Laffenau, wird vom Hardgraben gespeist. Dieser speist weiter westlich eine weitere Weiheranlage bei Fuchsmühle, an deren Ende er in die Roth mündet.
+――――――――――
+Th🅾️m🅰️s 👣 &amp; M🅰️j🅰️ 🐾: es gibt schon tolle Ecken im Nürnberger Land 
+――――――――――
+FelixX: Ein weiterer, nichtlohnender Fischteich hier. Lohnt zum Entenbeobachten.
+
+at Thomas+Maja: wer hier das Nürnberger Land verortet sollte sein Kartenmaterial schleunigst entsorgen!!</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6731066">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.167733" lon="11.154453">
+    <ele>360.9</ele>
+    <name>Deer Enclosure at Hardgraben Pond</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k8/1g/1gq47v3jov43p6hrggsl30y350s2trux-uhi74064715/0</cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6731077">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.170312" lon="11.158976">
+    <ele>406.8</ele>
+    <name>Fuchsmühle with roe deer enclosure</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k9/1b/1blvr9f5yt9551f94cgp0dra115m94xdu2-uhi96914832/0</cmt>
+    <desc>K🅾️JACK 🚵‍♀️🥾🐕‍🦺🐾: Sehr schönes Lokal im Wald mit eigenem Rehgehege.
+――――――――――
+DiLi: Faszinierend ist es die Tiere in dem weitläufigen Areal zu beobachten.
+Die Jungtiere waren natürlich etwas scheu kamen aber dann doch sehr nah.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/8163970">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.170343" lon="11.159219">
+    <ele>380.8</ele>
+    <name>Fox Mill Chapel</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k7/4n/4nu5b3uo8srx1lme6tqa5h3nu4tx5eyww-uhi67984496/0</cmt>
+    <desc>Stoapfalzb(h)iker: Direkt vor der Fuchsmühle steht diese kleine Kapelle</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/6347780">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.173577" lon="11.162518">
+    <ele>393.4</ele>
+    <name>Fuchsmühle Trail</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/4d/4dm4lyxd3qtg13ug9v41aaccu3gto93z1-uhi19107774/0</cmt>
+    <desc>Da Steff 🚵💥: Schöne Trails.Nicht sehr anspruchsvoll
+――――――――――
+Thorsten | Laufend-Glücklich Blog: Schmaler, flacher Waldweg ohne nennenswerte Steigung, welcher das beliebte Ausflugslokal Fuchsmühle passiert. Flüssig zu laufen, allerdings an sonnigen Wochenenden evtl. mit einigen Wanderern "ausgestattet"
+――――――――――
+Rombea: Schön zu fahrender Single Trail, S0, technisch ohne Schwierigkeit.
+――――――――――
+K🅾️JACK 🚵‍♀️🥾🐕‍🦺🐾: Sehr schöner Trail von der Fuchsmühle nach Hofstetten, geht auch für Gravel-Bikes.</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/503419">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="49.175939" lon="11.165973">
+    <ele>369.2</ele>
+    <name>Bridge Over the Roth</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k6/1e/1erolm93s1swnvji7idpvf7h646m6vt1h-uhi50031537/0</cmt>
+    <desc>ML: Hier geht's über die Roth. Sehr Idyllischer Anblick, sehr gut von der Rastbank zu genießen,  die direkt an der Brücke am Waldrand steht
+――――――――――
+Stoapfalzb(h)iker: Brückla über die Roth bei Hofstetten
+――――――――――
+K🅾️JACK 🚵‍♀️🥾🐕‍🦺🐾: Sehr schöner Rastplatz an der Roth 🍺</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4454926">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Kapelle Fuchsmühle – Fuchsmühle-Trail Runde von Hilpoltstein</name>
+    <desc>Distance: 5.922km, Estimated duration: 1.53h, Elevation up: 31.851632727476726m, Elevation down: 31.851632727476783m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/3354840405">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="49.179485" lon="11.164086">
+        <ele>367.7</ele>
+        <time>2026-10-18T12:35:08.847000Z</time>
+      </trkpt>
+      <trkpt lat="49.179335" lon="11.164164">
+        <ele>367.6</ele>
+        <time>2026-10-18T12:35:24.920000Z</time>
+      </trkpt>
+      <trkpt lat="49.179111" lon="11.164352">
+        <ele>367.5</ele>
+        <time>2026-10-18T12:35:50.717000Z</time>
+      </trkpt>
+      <trkpt lat="49.17902" lon="11.164466">
+        <ele>367.5</ele>
+        <time>2026-10-18T12:36:02.460000Z</time>
+      </trkpt>
+      <trkpt lat="49.178978" lon="11.164518">
+        <ele>367.6</ele>
+        <time>2026-10-18T12:36:07.887000Z</time>
+      </trkpt>
+      <trkpt lat="49.178862" lon="11.164364">
+        <ele>367.6</ele>
+        <time>2026-10-18T12:36:23.449000Z</time>
+      </trkpt>
+      <trkpt lat="49.178714" lon="11.164167">
+        <ele>367.7</ele>
+        <time>2026-10-18T12:36:43.566000Z</time>
+      </trkpt>
+      <trkpt lat="49.178532" lon="11.163908">
+        <ele>368</ele>
+        <time>2026-10-18T12:37:09.475000Z</time>
+      </trkpt>
+      <trkpt lat="49.178453" lon="11.163796">
+        <ele>368.2</ele>
+        <time>2026-10-18T12:37:20.962000Z</time>
+      </trkpt>
+      <trkpt lat="49.178219" lon="11.163423">
+        <ele>369</ele>
+        <time>2026-10-18T12:37:57.603000Z</time>
+      </trkpt>
+      <trkpt lat="49.178161" lon="11.163267">
+        <ele>369.4</ele>
+        <time>2026-10-18T12:38:10.563000Z</time>
+      </trkpt>
+      <trkpt lat="49.178185" lon="11.162993">
+        <ele>369.9</ele>
+        <time>2026-10-18T12:38:30.652000Z</time>
+      </trkpt>
+      <trkpt lat="49.178162" lon="11.162852">
+        <ele>370.3</ele>
+        <time>2026-10-18T12:38:41.298000Z</time>
+      </trkpt>
+      <trkpt lat="49.178074" lon="11.162493">
+        <ele>371.2</ele>
+        <time>2026-10-18T12:39:09.658000Z</time>
+      </trkpt>
+      <trkpt lat="49.177896" lon="11.161399">
+        <ele>374</ele>
+        <time>2026-10-18T12:40:33.134000Z</time>
+      </trkpt>
+      <trkpt lat="49.177655" lon="11.160908">
+        <ele>375.3</ele>
+        <time>2026-10-18T12:41:17.812000Z</time>
+      </trkpt>
+      <trkpt lat="49.177563" lon="11.160605">
+        <ele>375.9</ele>
+        <time>2026-10-18T12:41:41.794000Z</time>
+      </trkpt>
+      <trkpt lat="49.17738" lon="11.159599">
+        <ele>377.5</ele>
+        <time>2026-10-18T12:42:56.006000Z</time>
+      </trkpt>
+      <trkpt lat="49.177289" lon="11.158225">
+        <ele>379.5</ele>
+        <time>2026-10-18T12:44:33.473000Z</time>
+      </trkpt>
+      <trkpt lat="49.177278" lon="11.157622">
+        <ele>380.3</ele>
+        <time>2026-10-18T12:45:15.428000Z</time>
+      </trkpt>
+      <trkpt lat="49.17724" lon="11.157173">
+        <ele>380.7</ele>
+        <time>2026-10-18T12:45:46.585000Z</time>
+      </trkpt>
+      <trkpt lat="49.177188" lon="11.156849">
+        <ele>380.9</ele>
+        <time>2026-10-18T12:46:09.286000Z</time>
+      </trkpt>
+      <trkpt lat="49.177093" lon="11.156534">
+        <ele>381.1</ele>
+        <time>2026-10-18T12:46:32.635000Z</time>
+      </trkpt>
+      <trkpt lat="49.176941" lon="11.156164">
+        <ele>381.2</ele>
+        <time>2026-10-18T12:47:01.590000Z</time>
+      </trkpt>
+      <trkpt lat="49.176781" lon="11.15591">
+        <ele>381.2</ele>
+        <time>2026-10-18T12:47:24.714000Z</time>
+      </trkpt>
+      <trkpt lat="49.176646" lon="11.155563">
+        <ele>381.1</ele>
+        <time>2026-10-18T12:47:51.311000Z</time>
+      </trkpt>
+      <trkpt lat="49.176252" lon="11.153269">
+        <ele>380.2</ele>
+        <time>2026-10-18T12:50:28.474000Z</time>
+      </trkpt>
+      <trkpt lat="49.176153" lon="11.152396">
+        <ele>380.3</ele>
+        <time>2026-10-18T12:51:27.078000Z</time>
+      </trkpt>
+      <trkpt lat="49.176112" lon="11.152137">
+        <ele>380.5</ele>
+        <time>2026-10-18T12:51:44.982000Z</time>
+      </trkpt>
+      <trkpt lat="49.175562" lon="11.150502">
+        <ele>382.1</ele>
+        <time>2026-10-18T12:53:51.267000Z</time>
+      </trkpt>
+      <trkpt lat="49.175301" lon="11.149513">
+        <ele>383</ele>
+        <time>2026-10-18T12:55:04.220000Z</time>
+      </trkpt>
+      <trkpt lat="49.17512" lon="11.14824">
+        <ele>383.7</ele>
+        <time>2026-10-18T12:56:31.702000Z</time>
+      </trkpt>
+      <trkpt lat="49.174941" lon="11.147871">
+        <ele>383.8</ele>
+        <time>2026-10-18T12:57:02.207000Z</time>
+      </trkpt>
+      <trkpt lat="49.174465" lon="11.146491">
+        <ele>384.4</ele>
+        <time>2026-10-18T12:58:46.428000Z</time>
+      </trkpt>
+      <trkpt lat="49.174387" lon="11.146176">
+        <ele>384.6</ele>
+        <time>2026-10-18T12:59:09.266000Z</time>
+      </trkpt>
+      <trkpt lat="49.174173" lon="11.14485">
+        <ele>385.6</ele>
+        <time>2026-10-18T13:00:42.273000Z</time>
+      </trkpt>
+      <trkpt lat="49.174072" lon="11.143673">
+        <ele>386.7</ele>
+        <time>2026-10-18T13:02:03.671000Z</time>
+      </trkpt>
+      <trkpt lat="49.173893" lon="11.142932">
+        <ele>387.3</ele>
+        <time>2026-10-18T13:02:57.703000Z</time>
+      </trkpt>
+      <trkpt lat="49.173789" lon="11.142279">
+        <ele>387.9</ele>
+        <time>2026-10-18T13:03:43.555000Z</time>
+      </trkpt>
+      <trkpt lat="49.173658" lon="11.140947">
+        <ele>388.4</ele>
+        <time>2026-10-18T13:05:13.753000Z</time>
+      </trkpt>
+      <trkpt lat="49.17357" lon="11.140374">
+        <ele>388.5</ele>
+        <time>2026-10-18T13:05:52.386000Z</time>
+      </trkpt>
+      <trkpt lat="49.173474" lon="11.139728">
+        <ele>388.4</ele>
+        <time>2026-10-18T13:06:35.894000Z</time>
+      </trkpt>
+      <trkpt lat="49.173361" lon="11.137991">
+        <ele>388.1</ele>
+        <time>2026-10-18T13:08:30.783000Z</time>
+      </trkpt>
+      <trkpt lat="49.173135" lon="11.136556">
+        <ele>389.1</ele>
+        <time>2026-10-18T13:10:11.046000Z</time>
+      </trkpt>
+      <trkpt lat="49.172804" lon="11.135127">
+        <ele>390.7</ele>
+        <time>2026-10-18T13:11:55.770000Z</time>
+      </trkpt>
+      <trkpt lat="49.172614" lon="11.134498">
+        <ele>390.8</ele>
+        <time>2026-10-18T13:12:41.538000Z</time>
+      </trkpt>
+      <trkpt lat="49.172527" lon="11.134743">
+        <ele>390.7</ele>
+        <time>2026-10-18T13:12:59.878000Z</time>
+      </trkpt>
+      <trkpt lat="49.172085" lon="11.135717">
+        <ele>390</ele>
+        <time>2026-10-18T13:14:18.885000Z</time>
+      </trkpt>
+      <trkpt lat="49.171814" lon="11.136306">
+        <ele>389.5</ele>
+        <time>2026-10-18T13:15:07.201000Z</time>
+      </trkpt>
+      <trkpt lat="49.170301" lon="11.139594">
+        <ele>389.2</ele>
+        <time>2026-10-18T13:19:30.824000Z</time>
+      </trkpt>
+      <trkpt lat="49.167954" lon="11.144802">
+        <ele>382.8</ele>
+        <time>2026-10-18T13:26:37.938000Z</time>
+      </trkpt>
+      <trkpt lat="49.167918" lon="11.144921">
+        <ele>382.6</ele>
+        <time>2026-10-18T13:26:46.894000Z</time>
+      </trkpt>
+      <trkpt lat="49.167854" lon="11.145213">
+        <ele>382.1</ele>
+        <time>2026-10-18T13:27:08.204000Z</time>
+      </trkpt>
+      <trkpt lat="49.167803" lon="11.147207">
+        <ele>378.7</ele>
+        <time>2026-10-18T13:29:25.830000Z</time>
+      </trkpt>
+      <trkpt lat="49.1678" lon="11.149522">
+        <ele>376.7</ele>
+        <time>2026-10-18T13:32:01.321000Z</time>
+      </trkpt>
+      <trkpt lat="49.167982" lon="11.151256">
+        <ele>376.6</ele>
+        <time>2026-10-18T13:33:56.580000Z</time>
+      </trkpt>
+      <trkpt lat="49.167946" lon="11.151407">
+        <ele>376.6</ele>
+        <time>2026-10-18T13:34:07.180000Z</time>
+      </trkpt>
+      <trkpt lat="49.167828" lon="11.151902">
+        <ele>376.5</ele>
+        <time>2026-10-18T13:34:41.764000Z</time>
+      </trkpt>
+      <trkpt lat="49.167784" lon="11.152096">
+        <ele>376.4</ele>
+        <time>2026-10-18T13:34:55.345000Z</time>
+      </trkpt>
+      <trkpt lat="49.167675" lon="11.152955">
+        <ele>375.8</ele>
+        <time>2026-10-18T13:35:54.025000Z</time>
+      </trkpt>
+      <trkpt lat="49.167681" lon="11.1533">
+        <ele>375.5</ele>
+        <time>2026-10-18T13:36:17.261000Z</time>
+      </trkpt>
+      <trkpt lat="49.16793" lon="11.154445">
+        <ele>374.5</ele>
+        <time>2026-10-18T13:37:38.298000Z</time>
+      </trkpt>
+      <trkpt lat="49.168239" lon="11.155299">
+        <ele>373.9</ele>
+        <time>2026-10-18T13:38:43.410000Z</time>
+      </trkpt>
+      <trkpt lat="49.168568" lon="11.155917">
+        <ele>373.7</ele>
+        <time>2026-10-18T13:39:35.911000Z</time>
+      </trkpt>
+      <trkpt lat="49.168696" lon="11.156246">
+        <ele>373.6</ele>
+        <time>2026-10-18T13:40:01.177000Z</time>
+      </trkpt>
+      <trkpt lat="49.16893" lon="11.156653">
+        <ele>373.2</ele>
+        <time>2026-10-18T13:40:37.501000Z</time>
+      </trkpt>
+      <trkpt lat="49.169342" lon="11.157116">
+        <ele>372.2</ele>
+        <time>2026-10-18T13:41:30.669000Z</time>
+      </trkpt>
+      <trkpt lat="49.169589" lon="11.157458">
+        <ele>371.6</ele>
+        <time>2026-10-18T13:42:05.186000Z</time>
+      </trkpt>
+      <trkpt lat="49.169692" lon="11.157528">
+        <ele>371.5</ele>
+        <time>2026-10-18T13:42:16.802000Z</time>
+      </trkpt>
+      <trkpt lat="49.169873" lon="11.15765">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:42:36.984000Z</time>
+      </trkpt>
+      <trkpt lat="49.169924" lon="11.157662">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:42:42.211000Z</time>
+      </trkpt>
+      <trkpt lat="49.169964" lon="11.157667">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:42:46.241000Z</time>
+      </trkpt>
+      <trkpt lat="49.169978" lon="11.157735">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:42:50.899000Z</time>
+      </trkpt>
+      <trkpt lat="49.170005" lon="11.157828">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:42:57.528000Z</time>
+      </trkpt>
+      <trkpt lat="49.170202" lon="11.15816">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:43:27.115000Z</time>
+      </trkpt>
+      <trkpt lat="49.170268" lon="11.158342">
+        <ele>371.4</ele>
+        <time>2026-10-18T13:43:40.914000Z</time>
+      </trkpt>
+      <trkpt lat="49.170341" lon="11.158987">
+        <ele>371.9</ele>
+        <time>2026-10-18T13:44:25.579000Z</time>
+      </trkpt>
+      <trkpt lat="49.17036" lon="11.159264">
+        <ele>372.3</ele>
+        <time>2026-10-18T13:44:45.192000Z</time>
+      </trkpt>
+      <trkpt lat="49.170316" lon="11.159541">
+        <ele>372.7</ele>
+        <time>2026-10-18T13:45:05.255000Z</time>
+      </trkpt>
+      <trkpt lat="49.170498" lon="11.159563">
+        <ele>373.1</ele>
+        <time>2026-10-18T13:45:25.038000Z</time>
+      </trkpt>
+      <trkpt lat="49.170554" lon="11.159527">
+        <ele>373.3</ele>
+        <time>2026-10-18T13:45:31.739000Z</time>
+      </trkpt>
+      <trkpt lat="49.170618" lon="11.159427">
+        <ele>373.5</ele>
+        <time>2026-10-18T13:45:41.701000Z</time>
+      </trkpt>
+      <trkpt lat="49.170755" lon="11.159663">
+        <ele>374</ele>
+        <time>2026-10-18T13:46:04.083000Z</time>
+      </trkpt>
+      <trkpt lat="49.17166" lon="11.160264">
+        <ele>374.8</ele>
+        <time>2026-10-18T13:47:45.543000Z</time>
+      </trkpt>
+      <trkpt lat="49.172018" lon="11.16042">
+        <ele>374.7</ele>
+        <time>2026-10-18T13:48:22.996000Z</time>
+      </trkpt>
+      <trkpt lat="49.172511" lon="11.161057">
+        <ele>374.4</ele>
+        <time>2026-10-18T13:49:28.235000Z</time>
+      </trkpt>
+      <trkpt lat="49.173382" lon="11.16216">
+        <ele>374.4</ele>
+        <time>2026-10-18T13:51:21.475000Z</time>
+      </trkpt>
+      <trkpt lat="49.173934" lon="11.163062">
+        <ele>375.1</ele>
+        <time>2026-10-18T13:52:44.977000Z</time>
+      </trkpt>
+      <trkpt lat="49.17409" lon="11.163542">
+        <ele>375.2</ele>
+        <time>2026-10-18T13:53:20.209000Z</time>
+      </trkpt>
+      <trkpt lat="49.174269" lon="11.164355">
+        <ele>374.3</ele>
+        <time>2026-10-18T13:54:18.179000Z</time>
+      </trkpt>
+      <trkpt lat="49.174609" lon="11.164755">
+        <ele>372.9</ele>
+        <time>2026-10-18T13:55:04.002000Z</time>
+      </trkpt>
+      <trkpt lat="49.174928" lon="11.16501">
+        <ele>371.3</ele>
+        <time>2026-10-18T13:55:43.299000Z</time>
+      </trkpt>
+      <trkpt lat="49.175616" lon="11.165464">
+        <ele>367.7</ele>
+        <time>2026-10-18T13:57:05.513000Z</time>
+      </trkpt>
+      <trkpt lat="49.175763" lon="11.165628">
+        <ele>366.9</ele>
+        <time>2026-10-18T13:57:25.340000Z</time>
+      </trkpt>
+      <trkpt lat="49.175977" lon="11.165845">
+        <ele>366.1</ele>
+        <time>2026-10-18T13:57:52.662000Z</time>
+      </trkpt>
+      <trkpt lat="49.176031" lon="11.165889">
+        <ele>365.9</ele>
+        <time>2026-10-18T13:57:59.217000Z</time>
+      </trkpt>
+      <trkpt lat="49.176156" lon="11.165564">
+        <ele>365.4</ele>
+        <time>2026-10-18T13:58:24.880000Z</time>
+      </trkpt>
+      <trkpt lat="49.176031" lon="11.165889">
+        <ele>365.1</ele>
+        <time>2026-10-18T13:58:50.297000Z</time>
+      </trkpt>
+      <trkpt lat="49.175977" lon="11.165845">
+        <ele>365</ele>
+        <time>2026-10-18T13:58:56.459000Z</time>
+      </trkpt>
+      <trkpt lat="49.176031" lon="11.165889">
+        <ele>365</ele>
+        <time>2026-10-18T13:59:02.764000Z</time>
+      </trkpt>
+      <trkpt lat="49.176156" lon="11.165564">
+        <ele>365</ele>
+        <time>2026-10-18T13:59:27.436000Z</time>
+      </trkpt>
+      <trkpt lat="49.176208" lon="11.16543">
+        <ele>365</ele>
+        <time>2026-10-18T13:59:37.628000Z</time>
+      </trkpt>
+      <trkpt lat="49.176508" lon="11.165141">
+        <ele>365.3</ele>
+        <time>2026-10-18T14:00:14.202000Z</time>
+      </trkpt>
+      <trkpt lat="49.176737" lon="11.164349">
+        <ele>365.9</ele>
+        <time>2026-10-18T14:01:13.251000Z</time>
+      </trkpt>
+      <trkpt lat="49.176987" lon="11.164175">
+        <ele>366.4</ele>
+        <time>2026-10-18T14:01:42.243000Z</time>
+      </trkpt>
+      <trkpt lat="49.177307" lon="11.164138">
+        <ele>366.9</ele>
+        <time>2026-10-18T14:02:16.232000Z</time>
+      </trkpt>
+      <trkpt lat="49.177603" lon="11.163868">
+        <ele>367.2</ele>
+        <time>2026-10-18T14:02:51.988000Z</time>
+      </trkpt>
+      <trkpt lat="49.178161" lon="11.163267">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:04:01.200000Z</time>
+      </trkpt>
+      <trkpt lat="49.178219" lon="11.163423">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:04:13.001000Z</time>
+      </trkpt>
+      <trkpt lat="49.178453" lon="11.163796">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:04:46.886000Z</time>
+      </trkpt>
+      <trkpt lat="49.178532" lon="11.163908">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:04:57.719000Z</time>
+      </trkpt>
+      <trkpt lat="49.178714" lon="11.164167">
+        <ele>367.6</ele>
+        <time>2026-10-18T14:05:22.679000Z</time>
+      </trkpt>
+      <trkpt lat="49.178862" lon="11.164364">
+        <ele>367.6</ele>
+        <time>2026-10-18T14:05:42.359000Z</time>
+      </trkpt>
+      <trkpt lat="49.178978" lon="11.164518">
+        <ele>367.6</ele>
+        <time>2026-10-18T14:05:57.814000Z</time>
+      </trkpt>
+      <trkpt lat="49.17902" lon="11.164466">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:06:03.228000Z</time>
+      </trkpt>
+      <trkpt lat="49.179111" lon="11.164352">
+        <ele>367.5</ele>
+        <time>2026-10-18T14:06:14.972000Z</time>
+      </trkpt>
+      <trkpt lat="49.179335" lon="11.164164">
+        <ele>367.6</ele>
+        <time>2026-10-18T14:06:40.907000Z</time>
+      </trkpt>
+      <trkpt lat="49.179485" lon="11.164086">
+        <ele>367.7</ele>
+        <time>2026-10-18T14:06:57.130000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
