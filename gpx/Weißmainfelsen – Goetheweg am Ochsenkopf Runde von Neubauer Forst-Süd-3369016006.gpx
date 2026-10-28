@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Robert Kampf">
+  <metadata>
+    <name>Weißmainfelsen – Goetheweg am Ochsenkopf Runde von Neubauer Forst-Süd</name>
+    <desc>Distance: 6.266km, Estimated duration: 1.8h, Elevation up: 159.18207749410396m, Elevation down: 159.18207749410408m, Grade: easy</desc>
+    <author>
+      <name>Robert Kampf</name>
+      <link href="https://www.komoot.de/user/4125295338453">
+        <text>View Robert Kampf's Profile on Komoot</text>
+      </link>
+    </author>
+    <link href="https://www.komoot.de/tour/3369016006">
+      <text>View tour on Komoot</text>
+    </link>
+  </metadata>
+  <wpt lat="50.016005" lon="11.853599">
+    <name>Fichtelberg, Fichtelsee</name>
+    <cmt></cmt>
+    <desc></desc>
+    <src>Komoot</src>
+    <type>POI</type>
+  </wpt>
+  <wpt lat="50.027753" lon="11.832082">
+    <ele>934.6</ele>
+    <name>Hiking Trail to Weißmainfelsen</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1ka/1q/1q5pjcz9v94uq1sux0m9dj1arj5wgnb9t9-uhi106008300/0</cmt>
+    <desc>Gerhard 1600   🍀🚴🍀: Schöner Wanderweg zum Weißmainfelsen</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4402125">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="50.028086" lon="11.831057">
+    <ele>892.4</ele>
+    <name>Weißmainfelsen Ascent</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k5/n0/n0wiohbufi4s8bor8hudat233wh9d3jn-uhi40895597/0</cmt>
+    <desc>Rombea: Schöner Single Trail fordert bei den Bikern technische Fertigkeiten. Mit den Wurzeln und Steinen für geübte Mountainbiker gut geeignet.
+――――――――――
+Hel: Sehr schöner S1 Trail mit griffigen Steinen und Wurzeln.
+――――――――――
+Rucki Tuck: Fotomotiv Felskulisse - schöne Abfahrt Rtg. Karches
+――――――――――
+Starfox: Schöner Uphill-Trail, nicht zu verblockt
+――――――――――
+Marcel Ma: Schöner Anstieg entlang der Weißmainfelsen
+――――――――――
+Benny (📍OFR ): Toller Trail mit schönen Wurzeln und Steinen. Gut machbar ohne besondere Technik aber bissl aufpassen sollte man schon!
+――――――――――
+Fuerstfanta: Auffahrt aus Richtung Fichtelnaabquelle, durchweg fahrbar, teils gute Linienwahl und etwas Kondition nötig.
+――――――――――
+Dieter Michael T: der Goetheweg hat eine Länge von 5 Kilometern zwischendrin der Weißmainfelsen. Eigentlich ist es ein Wanderweg und führt von Kraches, der B303 an der Weisser Mainquelle vorbei zum Ochsenkopfgipfel.
+Er ist nicht nur für Wanderer sehr beliebt, sondern auch für Mountainbiker und läßt sich gut in beiden Richtungen begehen und mitten Bike bewältigen. Auch im Anstieg ist der Weg sehr interessant und fordert bei den Bikern technische Fertigkeiten. Sowohl in der abfahrt, wie im Anstieg ist er nur für geübte Biker mit eigenem Mountainbike geeignet, ander dürften das ein oder andere mal das Rad schieben oder tragen, Auf Wander ist stets acht zu geben, in den meisten Fällen ist es ein freundliche Begegnung mit beiderseitige Rücksicht. Bei meinen Fahrten auf dem Trail bleiben die Fußgänger stehen und winken durch, mit einem freundlichen Gruß und Dankeschön belohne ich die Geste...
+――――――――――
+𖠰 Tobias 𖠰: Schöner Uphill mit Wurzeln und kleinen Steinstufen
+――――――――――
+Claus S.: Ein sehr schöner Wanderweg der auch gut mit dem Mountainbike befahrbar ist. Dennoch aufpassen und vorallem Rücksicht auf die Wanderer.
+――――――――――
+Evgenij: Tolle Aussicht
+――――――――――
+Patricia Gruschwitz Vogtland: Lohnt sich, sollte man machen. </desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/466511">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="50.028864" lon="11.831047">
+    <ele>910.2</ele>
+    <name>Weissmain Rocks</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k3/6i/6i605u92mer5g44egr9v7t5i2usea5nx-uhi4766644/0</cmt>
+    <desc>Sebastian (Ziggi): Sehr schöne Aussicht über die Gipfel des Fichtelgebirges (Ochsenkopf, Schneeberg, Nußhardt) – sehr lohnenswert. Bei gutem Wetter reicht der Blick bis zu etwa 50 Kilometer weit.
+――――――――――
+Thomas: Der Weißmainfelsen bietet eine sehr schöne Aussicht, die nur noch vom Asenturm auf dem Ochsenkopf übertroffen wird.
+――――――――――
+Carsten: Schöner Aussichtsfelsen. Stufen erleichtern den Aufstieg. Oben sichert ein Geländer den Wanderer.
+――――――――――
+Lars: Abseits der großen Wanderwege - über kleine Pfade, aber gut ausgeschildert erreichbar - liegt der gigantische Weißmainfelsen. Ein spannender kurzer Aufstieg ermöglicht das Betreten des Felsens ohne große Probleme. Mit einer tollen Aussicht wird man von hier oben belohnt. Der Platz unterhalb des Felsens lädt zum Verweilen ein.
+――――――――――
+Biene: Auf keinen Fall nur vorbeilaufen. Der Eingang zur Treppe liegt etwas versteckt, aber die Aussicht erschließt sich erst von oben. Alles sehr wildromantisch!
+――――――――――
+Andrea und Huskys 🐺: Unterhalb des Ochsenkopfgipfels eröffnet sich eine Zauberwelt aus  Felsformationen. Eines dieser Granitgebilde ist der Weißmainfelsen mit 929 Metern Höhe.  Auf ihn führen unterschiedlich große Felsstufen. Vom Aussichtsplateau oben hat man einen schönen Blick zum Schneebergmassiv mit Nußhardt, Seehügel und Schneeberg. Die Felsengruppe mit Besteigungsanlage ist von Bischofsgrün, vom Karches und vom Ochsenkopf über markierte Wanderwege zu erreichen.
+――――――――――
+Lukiii: Ein Schöner Punkt beim Auf-/Abstieg. Wenn man die Stufen hochgestiegen ist, hat man einen atemberaubenden Ausblick auf das Fichtelgebirge. Oben auf 929m ist ein kleiner Tisch, der zum Verweilen einlädt.
+――――――――――
+Petra: Tolle Aussicht von oben und es macht einfach Spaß, hochzuklettern. Lohnt sich auf jeden Fall! :-)
+――――――――――
+Andi: Wirklich toller Aussichtspunkt 👍😎
+――――――――――
+Witwe Bolte: Wunderschöne Felsformation mit Aussicht, Rast und gegenüber Spalthöhle.
+――――――――――
+ihikenature🏞️: Da der Aufstieg nicht allzu schwer ist sollte man den Aussichtspunkt dringend besucht haben. Auch ideal für eine kleine Rast
+――――――――――
+Tabea: Wahnsinnig beeindruckend, wenn man davor steht. Toller Ausblick von oben und unten Sitzgelegenheiten
+――――――――――
+LO Radler (hike_bike_lo) 🥾🚲: Markanter Aussichtspunkt im Fichtelgebirge mit Blick zu Schneeberg und Ochsenkopf, bei guter Sicht auch in den Thüringer Wald. Schöner Aufstieg über in den Fels gehauene Tritte, Holzstege und Leitern zum Hochplateau. Die Orientierungstafel ist das Ziel.
+――――――――――
+rangerjacke: An der Nordostseite des Felsens sollen Reste eines Bergwerksschachtes, nach den Venetianern Venedigerstollen genannt, vorhanden sein. Bei der Felsengruppe westlich in Richtung Weißmainquelle befindet sich eine kleine Felsenhöhle.
+――――――――――
+Lemmi alias Schlumpf: Der Name der Felsengruppe wurde früher „weisen Männern“, den Druiden zugeordnet, weshalb man ihn „Weißmannsfelsen“ nannte. Er steht aber in Zusammenhang mit der nahegelegenen Quelle des Weißen Mains.
+Wikipedia
+――――――――――
+🌼🍀Katja🍀🌼: Tolle Ausicht - Schneeberg, Ochsenkopf
+――――――――――
+Kjetil: Der "Aufstieg" über die Treppen lohnt sich!
+――――――――――
+Merlin: Die Aussicht ist durch die Bäume stark eingeschränkt. Lohnenswert für die Abwechslung bei einer langen Wanderung mit guten Sitzgelegenheiten. Macht Spaß Mal hochzusteigen.
+――――――――――
+Manu 🙋🏻‍♀️ &amp; Zenzi 🐕: Wer am Wochenende hier die Aussicht in aller Ruhe genießen möchte, sollte schon am Morgen oder am Vormittag hier sein.
+Die Besteigung ist auch für unsere geliebten vierbeinigen Begleiter kein Problem. 👍😊
+――――――――――
+Rombea: Für mich einer der schönsten Felsen im Fichtelgebirge. Sehr schöne Aussicht von der tollen Felsformation. Der Aufstieg über Felsentreppen und eine Hühnerleiter ist etwas kniffelig, lohnt sich aber.
+――――――――――
+Wastl: Zwischen Ochsenkopf und Schneeberg liegt der Weissmainfelsen. So hat man eine tolle Aussicht auf das Umland.
+――――――――――
+taf: Schöner Ausblick und auf jeden Fall Fotos wert. Aufstieg lohnt  sich.
+Aufstieg per Treppen,  die recht schmal und teils recht steil sind.
+――――――――――
+Timber 👣 &amp; Shakespeare 🐾: toller Aufstieg mit guter Trittsicherheit
+――――――――――
+Jörg Anders: Man kann an Bänken und Tischen zur Rast verweilen</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/70936">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="50.028752" lon="11.830704">
+    <ele>954.8</ele>
+    <name>Rest Area at Rock Formation in Naturpark Fichtelgebirge</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1ka/1c/1cmzkrwocwkc777iyj6ab1vff5qmat0sx-uhi99495385/0</cmt>
+    <desc>Gerhard 1600   🍀🚴🍀: herrlicher Rastplatz direkt unterhalb der Felsen</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/4402132">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <wpt lat="50.03046" lon="11.831088">
+    <ele>869.6</ele>
+    <name>Goethe Trail on the Ochsenkopf</name>
+    <cmt>https://d2exd72xrrp1s7.cloudfront.net/www/000/1k2/ab/abx1fkjb69ofk0vnnaqzznhe2ndj86rm-uhi3168414/0</cmt>
+    <desc>Andrea und Huskys 🐺: Schöner schmaler Pfad mit vielen Steinen und Wurzeln.
+Der heutige Goetheweg folgt in etwa der Route, auf der Goethe 1785 zum Ochsenkopf unterwegs war.
+――――――――――
+Lemmi alias Schlumpf: Vom Karches-See oder auch Karches-Weiher mit dem Waldrasthaus Karches (Wanderparkplatz) führt der Goetheweg zum Weißmainfelsen, zur Weißmainquelle und zum Ochsenkopf-Gipfel. Goethe selbst ist diesen Weg zum Ochsenkopf-Gipfel am 1. Juli 1785 wohl nicht gewandert.
+――――――――――
+Lars: Vom Weißmainfelsen die schnellste Abstiegsmöglichkeit. Der Weg ist mehr ein schmaler Wurzelpfad und ist daher wirklich einladend. Eine schöne Alternative zum breiten Forstweg.
+――――――――――
+Kjetil: Dieser schöne Weg ist völlig der Natur überlassen und lässt sich sehr gut begehen
+――――――――――
+Andi: Auf den Spuren des berühmten deutschen Dichters Johann Wolfgang von Goethe durchs Fichtelgebirge – der Goetheweg am Ochsenkopf. Der ca. 5 km lange Wanderweg ist eine Hommage an die Route Goethes, der schon im Jahr 1785 den zweihöchsten Berg des Fichtelgebirges, den Ochsenkopf, bestiegen hatte. Die kleine Wanderung startet in Karches und führt von dort den Berg hinauf zum Weißmainfelsen, weiter vorbei an der Weißmainquelle und schließlich zum Ochsenkopfgipfel. Auf der Route warten wunderbare Ausblicke übers Fichtelgebirge – an schönen Tagen sogar bis nach Bayreuth und Tschechien. Wer der Kennzeichnung des orangen Buches folgt, gelangt auf Goethes Spuren auch nicht auf Abwege.
+Quelle: https://www.echt-oberfranken.de/goetheweg/
+――――――――――
+Enrico: Schmaler Pfad zum Weißmainfelsen, schön zu laufen 👍🏼
+――――――――――
+Kjetil: Toller, einfach Trail auf den Ochsenkopf
+――――――――――
+Andi 😎🚴: Besonders im Winter sehr reizvolle Winterlandschaft. Gutes Schuhwerk (am besten mit Spikes) und Skistöcke sind zu empfehlen, da teilweise vereist und rutschig.
+――――――――――
+Naxxos: Der sehr eindrucksvolle weiß-blau markierte Wanderweg, der 1923 vom Fichtelgebirgsverein angelegt wurde, soll an den Besuch des Ochsenkopf-Gipfels am 1. Juli 1785 durch Johann Wolfgang vom Goethe erinnern.
+――――――――――
+Bärbel🌱✌🏻: Technischer aber streckenweise dennoch recht flowiger Trail. Am Weißmainfels geht's gleich verblockt los, unterwegs kommt noch mal 'ne anständige Stufe, die aber "schlimmer" aussieht, als sie ist. Hoher Spaßfaktor!
+――――――――――
+Benny (📍OFR ): Ich würde den fast auf S2 schieben 😁 Aber dennoch gut fahrbar! Teilweise sehr verblockt aber dann wieder Stücke mit super Flow!
+――――――――――
+Chris: Trittsicherheit ist gefragt dennoch ein wirklich entspannter weg mit viel Natur
+――――――――――
+Patrick: Ein toller Trail, macht richtig Spaß, ist aber technisch nicht ganz ohne. Also für Anfänger oder Familien würde ich eine andere Route wählen, für erfahrenere Mountainbiker aber eine Freude.
+――――――――――
+Franz Seiz: Ich bin den Downhill Trail zum ersten Mal gefahren. Ist stellenweise schon anspruchsvoll, aber hat mega Spaß gemacht 👍👍👍
+――――――――――
+Slowi: teilweise sehr verbockt :-)
+――――――――――
+Roland: Tricky Goethetrail: wer Felssprünge liebt hat hier richtig Spass! 
+Achtung viele Fussgänger am Wochenende..
+――――――――――
+〽️artin-Ernst: Sehr schöner S2 Trail😅👌🏼
+――――――――――
+Claus S.: Ein sehr schöner naturbelassener Wanderpfad zum Goethefelsen.
+――――――――――
+Bastl: Hier ist bei weitem nicht so viel los wie auf den anderen Auf- und Abstiegen.
+――――――――――
+Patricia Gruschwitz Vogtland: Uriger Weg, man fühlt sich direkt im Gebirge. Aber nicht gut zu laufen, Wanderschuhe empfehlenswert. 
+――――――――――
+Poldy: Mitten im Wald - Erholung für Körper und Geist.
+――――――――――
+Mo: Kurz vor dem Ochsenkopfgipfel sind noch die Goethefelsen zu Besuchen. Neben Goethe war auch Jean Paul dem Fichtelgebirge zugetan. Auch nach ihm wurde ein (deutlich längerer) Wanderweg benannt.
+――――――――――
+Dieter: Schöner Trail. Bei ausreichender Schneedecke auch mit Tourenskiern gut machbar.
+――――――――――
+Gerhard 1600   🍀🚴🍀: Steig in Richtung Karches</desc>
+    <src>Komoot</src>
+    <link href="https://www.komoot.de/highlight/1691028">
+      <text>View POI on Komoot</text>
+    </link>
+    <type>Highlight</type>
+  </wpt>
+  <trk>
+    <name>Weißmainfelsen – Goetheweg am Ochsenkopf Runde von Neubauer Forst-Süd</name>
+    <desc>Distance: 6.266km, Estimated duration: 1.8h, Elevation up: 159.18207749410396m, Elevation down: 159.18207749410408m, Grade: easy</desc>
+    <link href="https://www.komoot.de/tour/3369016006">
+      <text>View tour on Komoot</text>
+    </link>
+    <trkseg>
+      <trkpt lat="50.015966" lon="11.853633">
+        <ele>766.4</ele>
+        <time>2026-10-27T21:26:35.140000Z</time>
+      </trkpt>
+      <trkpt lat="50.015926" lon="11.853521">
+        <ele>766.5</ele>
+        <time>2026-10-27T21:26:43.471000Z</time>
+      </trkpt>
+      <trkpt lat="50.016039" lon="11.853511">
+        <ele>766.5</ele>
+        <time>2026-10-27T21:26:55.036000Z</time>
+      </trkpt>
+      <trkpt lat="50.016113" lon="11.853491">
+        <ele>766.6</ele>
+        <time>2026-10-27T21:27:02.659000Z</time>
+      </trkpt>
+      <trkpt lat="50.016491" lon="11.853292">
+        <ele>767</ele>
+        <time>2026-10-27T21:27:44.014000Z</time>
+      </trkpt>
+      <trkpt lat="50.01673" lon="11.853196">
+        <ele>767.4</ele>
+        <time>2026-10-27T21:28:10.069000Z</time>
+      </trkpt>
+      <trkpt lat="50.017106" lon="11.853167">
+        <ele>768.2</ele>
+        <time>2026-10-27T21:28:50.631000Z</time>
+      </trkpt>
+      <trkpt lat="50.017374" lon="11.853224">
+        <ele>769.1</ele>
+        <time>2026-10-27T21:29:20.959000Z</time>
+      </trkpt>
+      <trkpt lat="50.017677" lon="11.853375">
+        <ele>770.5</ele>
+        <time>2026-10-27T21:29:57.587000Z</time>
+      </trkpt>
+      <trkpt lat="50.017896" lon="11.853067">
+        <ele>772.2</ele>
+        <time>2026-10-27T21:30:32.976000Z</time>
+      </trkpt>
+      <trkpt lat="50.018063" lon="11.852912">
+        <ele>773.5</ele>
+        <time>2026-10-27T21:30:56.977000Z</time>
+      </trkpt>
+      <trkpt lat="50.018131" lon="11.85276">
+        <ele>774.4</ele>
+        <time>2026-10-27T21:31:11.996000Z</time>
+      </trkpt>
+      <trkpt lat="50.018134" lon="11.852614">
+        <ele>775.1</ele>
+        <time>2026-10-27T21:31:23.915000Z</time>
+      </trkpt>
+      <trkpt lat="50.018281" lon="11.852744">
+        <ele>776.6</ele>
+        <time>2026-10-27T21:31:45.686000Z</time>
+      </trkpt>
+      <trkpt lat="50.018749" lon="11.852397">
+        <ele>781.8</ele>
+        <time>2026-10-27T21:32:55.074000Z</time>
+      </trkpt>
+      <trkpt lat="50.019083" lon="11.852274">
+        <ele>785.9</ele>
+        <time>2026-10-27T21:33:44.482000Z</time>
+      </trkpt>
+      <trkpt lat="50.019411" lon="11.852215">
+        <ele>790.3</ele>
+        <time>2026-10-27T21:34:34.551000Z</time>
+      </trkpt>
+      <trkpt lat="50.019542" lon="11.852119">
+        <ele>792.3</ele>
+        <time>2026-10-27T21:34:57.109000Z</time>
+      </trkpt>
+      <trkpt lat="50.020097" lon="11.851164">
+        <ele>801.4</ele>
+        <time>2026-10-27T21:36:50.334000Z</time>
+      </trkpt>
+      <trkpt lat="50.020244" lon="11.850967">
+        <ele>802.9</ele>
+        <time>2026-10-27T21:37:14.988000Z</time>
+      </trkpt>
+      <trkpt lat="50.020389" lon="11.850953">
+        <ele>803.9</ele>
+        <time>2026-10-27T21:37:32.831000Z</time>
+      </trkpt>
+      <trkpt lat="50.021026" lon="11.851012">
+        <ele>806.4</ele>
+        <time>2026-10-27T21:38:45.430000Z</time>
+      </trkpt>
+      <trkpt lat="50.022457" lon="11.851116">
+        <ele>804.7</ele>
+        <time>2026-10-27T21:41:12.363000Z</time>
+      </trkpt>
+      <trkpt lat="50.022639" lon="11.851086">
+        <ele>804.3</ele>
+        <time>2026-10-27T21:41:31.514000Z</time>
+      </trkpt>
+      <trkpt lat="50.023119" lon="11.850885">
+        <ele>802.8</ele>
+        <time>2026-10-27T21:42:24.300000Z</time>
+      </trkpt>
+      <trkpt lat="50.02349" lon="11.850665">
+        <ele>801.2</ele>
+        <time>2026-10-27T21:43:07.317000Z</time>
+      </trkpt>
+      <trkpt lat="50.023862" lon="11.850445">
+        <ele>799.2</ele>
+        <time>2026-10-27T21:43:51.320000Z</time>
+      </trkpt>
+      <trkpt lat="50.024104" lon="11.850347">
+        <ele>797.7</ele>
+        <time>2026-10-27T21:44:19.291000Z</time>
+      </trkpt>
+      <trkpt lat="50.025323" lon="11.849993">
+        <ele>794.5</ele>
+        <time>2026-10-27T21:46:29.988000Z</time>
+      </trkpt>
+      <trkpt lat="50.025736" lon="11.848045">
+        <ele>804.2</ele>
+        <time>2026-10-27T21:49:15.178000Z</time>
+      </trkpt>
+      <trkpt lat="50.025892" lon="11.847136">
+        <ele>810.6</ele>
+        <time>2026-10-27T21:50:37.086000Z</time>
+      </trkpt>
+      <trkpt lat="50.026239" lon="11.846269">
+        <ele>816.6</ele>
+        <time>2026-10-27T21:52:02.815000Z</time>
+      </trkpt>
+      <trkpt lat="50.026434" lon="11.845239">
+        <ele>821.5</ele>
+        <time>2026-10-27T21:53:28.576000Z</time>
+      </trkpt>
+      <trkpt lat="50.026502" lon="11.845124">
+        <ele>822.1</ele>
+        <time>2026-10-27T21:53:40.886000Z</time>
+      </trkpt>
+      <trkpt lat="50.026941" lon="11.844652">
+        <ele>825.5</ele>
+        <time>2026-10-27T21:54:45.822000Z</time>
+      </trkpt>
+      <trkpt lat="50.02711" lon="11.844342">
+        <ele>827.2</ele>
+        <time>2026-10-27T21:55:17.880000Z</time>
+      </trkpt>
+      <trkpt lat="50.027302" lon="11.843842">
+        <ele>829.8</ele>
+        <time>2026-10-27T21:56:04.361000Z</time>
+      </trkpt>
+      <trkpt lat="50.02746" lon="11.843102">
+        <ele>833.5</ele>
+        <time>2026-10-27T21:57:06.965000Z</time>
+      </trkpt>
+      <trkpt lat="50.027641" lon="11.842552">
+        <ele>836.4</ele>
+        <time>2026-10-27T21:57:56.645000Z</time>
+      </trkpt>
+      <trkpt lat="50.02776" lon="11.842296">
+        <ele>837.8</ele>
+        <time>2026-10-27T21:58:21.851000Z</time>
+      </trkpt>
+      <trkpt lat="50.028225" lon="11.841819">
+        <ele>841.6</ele>
+        <time>2026-10-27T21:59:30.428000Z</time>
+      </trkpt>
+      <trkpt lat="50.028306" lon="11.841657">
+        <ele>842.4</ele>
+        <time>2026-10-27T21:59:46.545000Z</time>
+      </trkpt>
+      <trkpt lat="50.028501" lon="11.841079">
+        <ele>845</ele>
+        <time>2026-10-27T22:00:37.433000Z</time>
+      </trkpt>
+      <trkpt lat="50.028908" lon="11.840237">
+        <ele>849.1</ele>
+        <time>2026-10-27T22:01:59.245000Z</time>
+      </trkpt>
+      <trkpt lat="50.028971" lon="11.839959">
+        <ele>850.2</ele>
+        <time>2026-10-27T22:02:22.126000Z</time>
+      </trkpt>
+      <trkpt lat="50.028995" lon="11.839567">
+        <ele>851.8</ele>
+        <time>2026-10-27T22:02:52.727000Z</time>
+      </trkpt>
+      <trkpt lat="50.028941" lon="11.839256">
+        <ele>853.1</ele>
+        <time>2026-10-27T22:03:17.840000Z</time>
+      </trkpt>
+      <trkpt lat="50.028601" lon="11.838421">
+        <ele>856.7</ele>
+        <time>2026-10-27T22:04:34.066000Z</time>
+      </trkpt>
+      <trkpt lat="50.028275" lon="11.837894">
+        <ele>859.1</ele>
+        <time>2026-10-27T22:05:29.506000Z</time>
+      </trkpt>
+      <trkpt lat="50.027882" lon="11.837178">
+        <ele>862</ele>
+        <time>2026-10-27T22:06:39.899000Z</time>
+      </trkpt>
+      <trkpt lat="50.027736" lon="11.836742">
+        <ele>863.6</ele>
+        <time>2026-10-27T22:07:17.075000Z</time>
+      </trkpt>
+      <trkpt lat="50.027661" lon="11.836329">
+        <ele>865</ele>
+        <time>2026-10-27T22:07:49.704000Z</time>
+      </trkpt>
+      <trkpt lat="50.027603" lon="11.835787">
+        <ele>867</ele>
+        <time>2026-10-27T22:08:31.801000Z</time>
+      </trkpt>
+      <trkpt lat="50.027514" lon="11.835406">
+        <ele>868.6</ele>
+        <time>2026-10-27T22:09:03.454000Z</time>
+      </trkpt>
+      <trkpt lat="50.027447" lon="11.834962">
+        <ele>870.7</ele>
+        <time>2026-10-27T22:09:39.893000Z</time>
+      </trkpt>
+      <trkpt lat="50.027452" lon="11.834308">
+        <ele>874.3</ele>
+        <time>2026-10-27T22:10:34.148000Z</time>
+      </trkpt>
+      <trkpt lat="50.027477" lon="11.83376">
+        <ele>877.6</ele>
+        <time>2026-10-27T22:11:20.600000Z</time>
+      </trkpt>
+      <trkpt lat="50.027525" lon="11.833313">
+        <ele>880.3</ele>
+        <time>2026-10-27T22:11:58.822000Z</time>
+      </trkpt>
+      <trkpt lat="50.027672" lon="11.832621">
+        <ele>885</ele>
+        <time>2026-10-27T22:13:01.564000Z</time>
+      </trkpt>
+      <trkpt lat="50.02769" lon="11.832297">
+        <ele>887.3</ele>
+        <time>2026-10-27T22:13:29.983000Z</time>
+      </trkpt>
+      <trkpt lat="50.027723" lon="11.832161">
+        <ele>888.2</ele>
+        <time>2026-10-27T22:13:42.484000Z</time>
+      </trkpt>
+      <trkpt lat="50.027744" lon="11.832076">
+        <ele>888.9</ele>
+        <time>2026-10-27T22:13:50.500000Z</time>
+      </trkpt>
+      <trkpt lat="50.027723" lon="11.832161">
+        <ele>889.4</ele>
+        <time>2026-10-27T22:13:58.259000Z</time>
+      </trkpt>
+      <trkpt lat="50.027744" lon="11.832076">
+        <ele>890.1</ele>
+        <time>2026-10-27T22:14:06.270000Z</time>
+      </trkpt>
+      <trkpt lat="50.027792" lon="11.831879">
+        <ele>891.5</ele>
+        <time>2026-10-27T22:14:24.459000Z</time>
+      </trkpt>
+      <trkpt lat="50.027808" lon="11.831401">
+        <ele>894.4</ele>
+        <time>2026-10-27T22:15:05.080000Z</time>
+      </trkpt>
+      <trkpt lat="50.027842" lon="11.831305">
+        <ele>895</ele>
+        <time>2026-10-27T22:15:14.256000Z</time>
+      </trkpt>
+      <trkpt lat="50.027942" lon="11.831166">
+        <ele>896.1</ele>
+        <time>2026-10-27T22:15:31.403000Z</time>
+      </trkpt>
+      <trkpt lat="50.028222" lon="11.830883">
+        <ele>898.5</ele>
+        <time>2026-10-27T22:16:12.832000Z</time>
+      </trkpt>
+      <trkpt lat="50.028432" lon="11.830887">
+        <ele>899.8</ele>
+        <time>2026-10-27T22:16:38.260000Z</time>
+      </trkpt>
+      <trkpt lat="50.028548" lon="11.830948">
+        <ele>900.5</ele>
+        <time>2026-10-27T22:16:53.003000Z</time>
+      </trkpt>
+      <trkpt lat="50.028698" lon="11.830781">
+        <ele>901.4</ele>
+        <time>2026-10-27T22:17:14.613000Z</time>
+      </trkpt>
+      <trkpt lat="50.028733" lon="11.830742">
+        <ele>901.6</ele>
+        <time>2026-10-27T22:17:19.654000Z</time>
+      </trkpt>
+      <trkpt lat="50.028866" lon="11.830614">
+        <ele>902.2</ele>
+        <time>2026-10-27T22:17:37.328000Z</time>
+      </trkpt>
+      <trkpt lat="50.028915" lon="11.830714">
+        <ele>902.4</ele>
+        <time>2026-10-27T22:17:46.189000Z</time>
+      </trkpt>
+      <trkpt lat="50.028915" lon="11.830793">
+        <ele>902.5</ele>
+        <time>2026-10-27T22:17:51.728000Z</time>
+      </trkpt>
+      <trkpt lat="50.028888" lon="11.83086">
+        <ele>902.6</ele>
+        <time>2026-10-27T22:17:57.233000Z</time>
+      </trkpt>
+      <trkpt lat="50.02887" lon="11.830968">
+        <ele>902.7</ele>
+        <time>2026-10-27T22:18:04.674000Z</time>
+      </trkpt>
+      <trkpt lat="50.028919" lon="11.830925">
+        <ele>902.8</ele>
+        <time>2026-10-27T22:18:10.541000Z</time>
+      </trkpt>
+      <trkpt lat="50.028892" lon="11.831003">
+        <ele>902.8</ele>
+        <time>2026-10-27T22:18:16.341000Z</time>
+      </trkpt>
+      <trkpt lat="50.028875" lon="11.831055">
+        <ele>902.8</ele>
+        <time>2026-10-27T22:18:20.096000Z</time>
+      </trkpt>
+      <trkpt lat="50.028892" lon="11.831003">
+        <ele>902.8</ele>
+        <time>2026-10-27T22:18:23.853000Z</time>
+      </trkpt>
+      <trkpt lat="50.028919" lon="11.830925">
+        <ele>902.8</ele>
+        <time>2026-10-27T22:18:29.589000Z</time>
+      </trkpt>
+      <trkpt lat="50.02887" lon="11.830968">
+        <ele>902.7</ele>
+        <time>2026-10-27T22:18:35.347000Z</time>
+      </trkpt>
+      <trkpt lat="50.028888" lon="11.83086">
+        <ele>902.6</ele>
+        <time>2026-10-27T22:18:42.674000Z</time>
+      </trkpt>
+      <trkpt lat="50.028915" lon="11.830793">
+        <ele>902.5</ele>
+        <time>2026-10-27T22:18:47.986000Z</time>
+      </trkpt>
+      <trkpt lat="50.028915" lon="11.830714">
+        <ele>902.4</ele>
+        <time>2026-10-27T22:18:53.352000Z</time>
+      </trkpt>
+      <trkpt lat="50.028866" lon="11.830614">
+        <ele>902.2</ele>
+        <time>2026-10-27T22:19:01.862000Z</time>
+      </trkpt>
+      <trkpt lat="50.028733" lon="11.830742">
+        <ele>901.6</ele>
+        <time>2026-10-27T22:19:18.612000Z</time>
+      </trkpt>
+      <trkpt lat="50.028866" lon="11.830614">
+        <ele>901</ele>
+        <time>2026-10-27T22:19:35.634000Z</time>
+      </trkpt>
+      <trkpt lat="50.029245" lon="11.829744">
+        <ele>896.8</ele>
+        <time>2026-10-27T22:20:51.602000Z</time>
+      </trkpt>
+      <trkpt lat="50.0294" lon="11.829522">
+        <ele>895.2</ele>
+        <time>2026-10-27T22:21:15.944000Z</time>
+      </trkpt>
+      <trkpt lat="50.029448" lon="11.82984">
+        <ele>893.4</ele>
+        <time>2026-10-27T22:21:40.447000Z</time>
+      </trkpt>
+      <trkpt lat="50.029581" lon="11.830056">
+        <ele>891.8</ele>
+        <time>2026-10-27T22:22:02.935000Z</time>
+      </trkpt>
+      <trkpt lat="50.029639" lon="11.830481">
+        <ele>889</ele>
+        <time>2026-10-27T22:22:36.253000Z</time>
+      </trkpt>
+      <trkpt lat="50.029606" lon="11.83091">
+        <ele>886</ele>
+        <time>2026-10-27T22:23:10.028000Z</time>
+      </trkpt>
+      <trkpt lat="50.029686" lon="11.831334">
+        <ele>882.7</ele>
+        <time>2026-10-27T22:23:44.911000Z</time>
+      </trkpt>
+      <trkpt lat="50.029743" lon="11.831447">
+        <ele>881.6</ele>
+        <time>2026-10-27T22:23:56.276000Z</time>
+      </trkpt>
+      <trkpt lat="50.029882" lon="11.831572">
+        <ele>879.7</ele>
+        <time>2026-10-27T22:24:16.203000Z</time>
+      </trkpt>
+      <trkpt lat="50.030073" lon="11.831696">
+        <ele>877.1</ele>
+        <time>2026-10-27T22:24:41.917000Z</time>
+      </trkpt>
+      <trkpt lat="50.03016" lon="11.831591">
+        <ele>875.7</ele>
+        <time>2026-10-27T22:24:55.695000Z</time>
+      </trkpt>
+      <trkpt lat="50.030273" lon="11.831302">
+        <ele>872.8</ele>
+        <time>2026-10-27T22:25:23.051000Z</time>
+      </trkpt>
+      <trkpt lat="50.030413" lon="11.8311">
+        <ele>870.2</ele>
+        <time>2026-10-27T22:25:47.177000Z</time>
+      </trkpt>
+      <trkpt lat="50.030639" lon="11.831107">
+        <ele>866.9</ele>
+        <time>2026-10-27T22:26:16.150000Z</time>
+      </trkpt>
+      <trkpt lat="50.031086" lon="11.831422">
+        <ele>860.9</ele>
+        <time>2026-10-27T22:27:16.904000Z</time>
+      </trkpt>
+      <trkpt lat="50.031334" lon="11.83168">
+        <ele>858.8</ele>
+        <time>2026-10-27T22:27:50.921000Z</time>
+      </trkpt>
+      <trkpt lat="50.031433" lon="11.831929">
+        <ele>858</ele>
+        <time>2026-10-27T22:28:11.389000Z</time>
+      </trkpt>
+      <trkpt lat="50.031511" lon="11.832182">
+        <ele>857.6</ele>
+        <time>2026-10-27T22:28:30.388000Z</time>
+      </trkpt>
+      <trkpt lat="50.031433" lon="11.831929">
+        <ele>857.4</ele>
+        <time>2026-10-27T22:28:48.727000Z</time>
+      </trkpt>
+      <trkpt lat="50.031383" lon="11.8322">
+        <ele>857.6</ele>
+        <time>2026-10-27T22:29:07.434000Z</time>
+      </trkpt>
+      <trkpt lat="50.031308" lon="11.832396">
+        <ele>857.9</ele>
+        <time>2026-10-27T22:29:23.262000Z</time>
+      </trkpt>
+      <trkpt lat="50.031069" lon="11.832791">
+        <ele>859.4</ele>
+        <time>2026-10-27T22:30:03.137000Z</time>
+      </trkpt>
+      <trkpt lat="50.030577" lon="11.833402">
+        <ele>863.6</ele>
+        <time>2026-10-27T22:31:20.771000Z</time>
+      </trkpt>
+      <trkpt lat="50.03035" lon="11.833952">
+        <ele>865.9</ele>
+        <time>2026-10-27T22:32:10.618000Z</time>
+      </trkpt>
+      <trkpt lat="50.030254" lon="11.834119">
+        <ele>866.5</ele>
+        <time>2026-10-27T22:32:27.050000Z</time>
+      </trkpt>
+      <trkpt lat="50.029969" lon="11.834262">
+        <ele>867.5</ele>
+        <time>2026-10-27T22:33:00.488000Z</time>
+      </trkpt>
+      <trkpt lat="50.029562" lon="11.834641">
+        <ele>868.3</ele>
+        <time>2026-10-27T22:33:50.894000Z</time>
+      </trkpt>
+      <trkpt lat="50.029275" lon="11.835004">
+        <ele>868.3</ele>
+        <time>2026-10-27T22:34:28.007000Z</time>
+      </trkpt>
+      <trkpt lat="50.028944" lon="11.835129">
+        <ele>867.9</ele>
+        <time>2026-10-27T22:35:02.980000Z</time>
+      </trkpt>
+      <trkpt lat="50.028396" lon="11.835602">
+        <ele>866.5</ele>
+        <time>2026-10-27T22:36:08.655000Z</time>
+      </trkpt>
+      <trkpt lat="50.028051" lon="11.8359">
+        <ele>865.5</ele>
+        <time>2026-10-27T22:36:50.090000Z</time>
+      </trkpt>
+      <trkpt lat="50.027755" lon="11.836257">
+        <ele>864.8</ele>
+        <time>2026-10-27T22:37:29.064000Z</time>
+      </trkpt>
+      <trkpt lat="50.027661" lon="11.836329">
+        <ele>864.7</ele>
+        <time>2026-10-27T22:37:39.893000Z</time>
+      </trkpt>
+      <trkpt lat="50.026863" lon="11.836834">
+        <ele>863.6</ele>
+        <time>2026-10-27T22:39:08.304000Z</time>
+      </trkpt>
+      <trkpt lat="50.027159" lon="11.838578">
+        <ele>861.3</ele>
+        <time>2026-10-27T22:41:09.178000Z</time>
+      </trkpt>
+      <trkpt lat="50.026552" lon="11.839889">
+        <ele>856.2</ele>
+        <time>2026-10-27T22:43:03.407000Z</time>
+      </trkpt>
+      <trkpt lat="50.025871" lon="11.840671">
+        <ele>850.3</ele>
+        <time>2026-10-27T22:44:39.989000Z</time>
+      </trkpt>
+      <trkpt lat="50.025477" lon="11.841631">
+        <ele>845</ele>
+        <time>2026-10-27T22:46:03.797000Z</time>
+      </trkpt>
+      <trkpt lat="50.024939" lon="11.842363">
+        <ele>841.3</ele>
+        <time>2026-10-27T22:47:22.651000Z</time>
+      </trkpt>
+      <trkpt lat="50.024601" lon="11.842402">
+        <ele>840.2</ele>
+        <time>2026-10-27T22:47:58.987000Z</time>
+      </trkpt>
+      <trkpt lat="50.024195" lon="11.843099">
+        <ele>839</ele>
+        <time>2026-10-27T22:49:01.993000Z</time>
+      </trkpt>
+      <trkpt lat="50.023599" lon="11.843524">
+        <ele>838.6</ele>
+        <time>2026-10-27T22:50:08.397000Z</time>
+      </trkpt>
+      <trkpt lat="50.023132" lon="11.844138">
+        <ele>838.4</ele>
+        <time>2026-10-27T22:51:09.942000Z</time>
+      </trkpt>
+      <trkpt lat="50.022901" lon="11.84494">
+        <ele>837.9</ele>
+        <time>2026-10-27T22:52:07.458000Z</time>
+      </trkpt>
+      <trkpt lat="50.022725" lon="11.845205">
+        <ele>837.6</ele>
+        <time>2026-10-27T22:52:32.681000Z</time>
+      </trkpt>
+      <trkpt lat="50.022365" lon="11.845748">
+        <ele>836.7</ele>
+        <time>2026-10-27T22:53:24.742000Z</time>
+      </trkpt>
+      <trkpt lat="50.022101" lon="11.846351">
+        <ele>835.6</ele>
+        <time>2026-10-27T22:54:13.896000Z</time>
+      </trkpt>
+      <trkpt lat="50.021396" lon="11.847154">
+        <ele>833.3</ele>
+        <time>2026-10-27T22:55:46.010000Z</time>
+      </trkpt>
+      <trkpt lat="50.021481" lon="11.84787">
+        <ele>831.5</ele>
+        <time>2026-10-27T22:56:36.630000Z</time>
+      </trkpt>
+      <trkpt lat="50.02173" lon="11.849129">
+        <ele>825</ele>
+        <time>2026-10-27T22:58:14.266000Z</time>
+      </trkpt>
+      <trkpt lat="50.022093" lon="11.850122">
+        <ele>816.5</ele>
+        <time>2026-10-27T22:59:44.264000Z</time>
+      </trkpt>
+      <trkpt lat="50.022457" lon="11.851116">
+        <ele>809.7</ele>
+        <time>2026-10-27T23:01:11.396000Z</time>
+      </trkpt>
+      <trkpt lat="50.021026" lon="11.851012">
+        <ele>806.4</ele>
+        <time>2026-10-27T23:03:41.627000Z</time>
+      </trkpt>
+      <trkpt lat="50.020389" lon="11.850953">
+        <ele>803.9</ele>
+        <time>2026-10-27T23:04:50.607000Z</time>
+      </trkpt>
+      <trkpt lat="50.020244" lon="11.850967">
+        <ele>802.9</ele>
+        <time>2026-10-27T23:05:07.063000Z</time>
+      </trkpt>
+      <trkpt lat="50.020097" lon="11.851164">
+        <ele>801.4</ele>
+        <time>2026-10-27T23:05:29.549000Z</time>
+      </trkpt>
+      <trkpt lat="50.019542" lon="11.852119">
+        <ele>792.3</ele>
+        <time>2026-10-27T23:07:10.273000Z</time>
+      </trkpt>
+      <trkpt lat="50.019411" lon="11.852215">
+        <ele>790.3</ele>
+        <time>2026-10-27T23:07:28.635000Z</time>
+      </trkpt>
+      <trkpt lat="50.019083" lon="11.852274">
+        <ele>785.9</ele>
+        <time>2026-10-27T23:08:10.077000Z</time>
+      </trkpt>
+      <trkpt lat="50.018749" lon="11.852397">
+        <ele>781.8</ele>
+        <time>2026-10-27T23:08:52.521000Z</time>
+      </trkpt>
+      <trkpt lat="50.018281" lon="11.852744">
+        <ele>776.6</ele>
+        <time>2026-10-27T23:09:54.724000Z</time>
+      </trkpt>
+      <trkpt lat="50.018134" lon="11.852614">
+        <ele>775.1</ele>
+        <time>2026-10-27T23:10:14.477000Z</time>
+      </trkpt>
+      <trkpt lat="50.018131" lon="11.85276">
+        <ele>774.4</ele>
+        <time>2026-10-27T23:10:25.336000Z</time>
+      </trkpt>
+      <trkpt lat="50.018063" lon="11.852912">
+        <ele>773.5</ele>
+        <time>2026-10-27T23:10:39.090000Z</time>
+      </trkpt>
+      <trkpt lat="50.017896" lon="11.853067">
+        <ele>772.2</ele>
+        <time>2026-10-27T23:11:01.205000Z</time>
+      </trkpt>
+      <trkpt lat="50.017677" lon="11.853375">
+        <ele>770.5</ele>
+        <time>2026-10-27T23:11:34.172000Z</time>
+      </trkpt>
+      <trkpt lat="50.017374" lon="11.853224">
+        <ele>769.1</ele>
+        <time>2026-10-27T23:12:08.813000Z</time>
+      </trkpt>
+      <trkpt lat="50.017106" lon="11.853167">
+        <ele>768.2</ele>
+        <time>2026-10-27T23:12:37.811000Z</time>
+      </trkpt>
+      <trkpt lat="50.01673" lon="11.853196">
+        <ele>767.4</ele>
+        <time>2026-10-27T23:13:17.170000Z</time>
+      </trkpt>
+      <trkpt lat="50.016491" lon="11.853292">
+        <ele>767</ele>
+        <time>2026-10-27T23:13:42.637000Z</time>
+      </trkpt>
+      <trkpt lat="50.016113" lon="11.853491">
+        <ele>766.6</ele>
+        <time>2026-10-27T23:14:23.429000Z</time>
+      </trkpt>
+      <trkpt lat="50.016039" lon="11.853511">
+        <ele>766.5</ele>
+        <time>2026-10-27T23:14:30.986000Z</time>
+      </trkpt>
+      <trkpt lat="50.015926" lon="11.853521">
+        <ele>766.5</ele>
+        <time>2026-10-27T23:14:42.455000Z</time>
+      </trkpt>
+      <trkpt lat="50.015966" lon="11.853633">
+        <ele>766.4</ele>
+        <time>2026-10-27T23:14:50.749000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
